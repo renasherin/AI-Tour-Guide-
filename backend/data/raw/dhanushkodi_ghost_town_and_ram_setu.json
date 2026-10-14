@@ -1,0 +1,26 @@
+{
+  "id": "dhanushkodi_ghost_town_and_ram_setu",
+  "place": "Dhanushkodi Ghost Town and Ram Setu",
+  "state": "Tamil Nadu",
+  "city": "Rameswaram",
+  "category": [
+    "heritage",
+    "nature",
+    "beaches",
+    "ruins"
+  ],
+  "wikipedia_title": "Dhanushkodi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dhanushkodi",
+  "wikidata_id": "Q1207562",
+  "lat": 9.152011,
+  "lon": 79.445851,
+  "text": "Dhanushkodi is an abandoned town at the south-eastern tip of Pamban Island of the state of Tamil Nadu in India. It is south-east of Pamban and is about 24 kilometres (15 mi) west of Talaimannar in Sri Lanka. The town was destroyed during the 1964 Rameswaram cyclone and remains uninhabited in the aftermath. Although devoid of inhabitants, Dhanushkodi remains a tourist attraction due to its historical and mythological relevance.\n\n--- Practical Travel Context (Wikivoyage) ---\nRameswaram (இராமேசுவரம் Irāmējuvaram) is a town on Pamban Island, in Southern Indian state of Tamil Nadu. It's known for Ramanathaswamy Temple, a Hindu pilgrimage site with ornate corridors, huge sculpted pillars and sacred water tanks. Together with Varanasi, it is considered to be one of the holiest places in India for Hindus and part of the Char Dham (four abodes) pilgrimage.",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Dhanushkodi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9.152011,79.445851",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=9.152011,79.445851",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Final_Dhanush_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

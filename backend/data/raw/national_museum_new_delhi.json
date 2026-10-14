@@ -1,0 +1,25 @@
+{
+  "id": "national_museum_new_delhi",
+  "place": "National Museum New Delhi",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "category": [
+    "museums",
+    "heritage",
+    "ancient artifacts"
+  ],
+  "wikipedia_title": "National_Museum,_New_Delhi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/National_Museum,_New_Delhi",
+  "wikidata_id": "Q1356138",
+  "lat": 28.611811,
+  "lon": 77.219262,
+  "text": "The National Museum, New Delhi, also known as the National Museum of India, is one of the largest museums in India. Established in 1949, it holds a variety of articles ranging from the pre-historic era to modern works of art. It functions under the Ministry of Culture, Government of India. The museum is situated on Janpath. The blueprint of the National Museum had been prepared by the Gwyer Committee set up by the Government of India in 1946. The museum has around 200,000 works of art, mostly Indian, but some of foreign origin, covering over 5,000 years.\nIt also houses the National Museum Institute of History of Art, Conservation and Museology on the first floor which was established in 1983 and has been a university since 1989, running master's and doctoral level courses in art history, conservation and museology.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/National_Museum,_New_Delhi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.611811,77.219262",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.611811,77.219262",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/India_national_museum_01.jpg/1280px-India_national_museum_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

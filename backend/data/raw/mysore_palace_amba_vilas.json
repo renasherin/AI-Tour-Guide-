@@ -1,0 +1,24 @@
+{
+  "id": "mysore_palace_amba_vilas",
+  "place": "Mysore Palace (Amba Vilas)",
+  "state": "Karnataka",
+  "city": "Mysuru",
+  "category": [
+    "palaces",
+    "heritage"
+  ],
+  "wikipedia_title": "Mysore_Palace",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mysore_Palace",
+  "wikidata_id": "Q456575",
+  "lat": 12.30388889,
+  "lon": 76.65444444,
+  "text": "Mysore Palace, also known as Amba Vilas Palace, is a historic palace and royal residence located in Mysore, Karnataka, India. It served as the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore, and was commissioned by Krishnaraja Wodeyar IV in August 1897 following the destruction of the previous structure in a fire. The design of the palace is attributed to Henry Irwin, a British architect who had earlier designed the Madras High Court, and Edwin Wolleston Fritchley, who would later design the Lalitha Mahal. Construction of the current structure began in 1897 and was completed in 1912. It is one of the largest palaces in India, and is a prominent example of Indo-Saracenic architecture, combining Indo-Islamic, Rajput, Hoysala and Gothic architectural styles.\nThe land on which the palace now stands was recorded as the site of a small fort in the late 14th century. The first palace to occupy the location was built in the 17th century during the reign of Kanthirava Narasaraja I, and was destroyed and rebuilt multiple times. Since the early 19th century, the Mysore Dasara festival has been annually held on the palace grounds, culminating in an elephant procession on Vijayadashami. In 1998, the Karnataka state government enacted the Mysore Palace Acquisition Act, acquiring ownership of the palace from the Wadiyar family; the act was subsequently challenged in court, and is the subject of an ongoing legal dispute.\nThe main palace houses a public museum alongside the living quarters of Yaduveer Krishnadatta Chamaraja Wadiyar, the current ceremonial head of the Wadiyar dynasty. In addition to the palace, the overall complex encompasses multiple gardens, several Hindu temples (some of which predate the current palace itself), and the old walls of the original fort. As of 2024, Mysore Palace is one of the most famous tourist attractions in India, with more than four million annual visitors.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Mysore_Palace",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=12.30388889,76.65444444",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=12.30388889,76.65444444",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/1280px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

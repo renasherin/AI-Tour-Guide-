@@ -1,0 +1,69 @@
+{
+  "audit_timestamp": "2026-10-12T05:28:56Z",
+  "status": "VERIFIED_AND_INDEXED",
+  "total_candidates_processed": 627,
+  "total_verified_destinations": 627,
+  "administrative_coverage": {
+    "total_divisions_covered": 36,
+    "expected_divisions": 36,
+    "states_covered": 28,
+    "union_territories_covered": 8,
+    "state_distribution": {
+      "Punjab": 17,
+      "Chhattisgarh": 16,
+      "Gujarat": 20,
+      "Lakshadweep": 15,
+      "Delhi": 16,
+      "Uttar Pradesh": 20,
+      "Tamil Nadu": 19,
+      "Mizoram": 16,
+      "Maharashtra": 20,
+      "Ladakh": 19,
+      "Kerala": 27,
+      "Uttarakhand": 16,
+      "Jammu and Kashmir": 17,
+      "Rajasthan": 22,
+      "Telangana": 17,
+      "Manipur": 16,
+      "Goa": 18,
+      "Andhra Pradesh": 16,
+      "Puducherry": 15,
+      "Assam": 18,
+      "Karnataka": 18,
+      "Haryana": 16,
+      "Jharkhand": 15,
+      "Meghalaya": 17,
+      "Madhya Pradesh": 18,
+      "Bihar": 18,
+      "Odisha": 18,
+      "Tripura": 15,
+      "Andaman and Nicobar Islands": 15,
+      "West Bengal": 19,
+      "Arunachal Pradesh": 17,
+      "Himachal Pradesh": 18,
+      "Chandigarh": 15,
+      "Dadra and Nagar Haveli and Daman and Diu": 15,
+      "Nagaland": 17,
+      "Sikkim": 16
+    }
+  },
+  "unesco_world_heritage_sites_count": 70,
+  "coordinate_verification": {
+    "decimal_coords_verified": 357,
+    "unverified_null_coords": 270,
+    "zero_hallucination_enforced": true
+  },
+  "licensing_and_attribution": {
+    "license": "CC BY-SA 4.0 / CC0",
+    "sources_distribution": {
+      "Wikipedia & Wikivoyage (CC BY-SA 4.0)": 504,
+      "Curated Guidebook Knowledge (Offline Fallback)": 123
+    }
+  },
+  "chromadb_indexing": {
+    "collection_name": "india_places",
+    "total_indexed_chunks": 712,
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "status": "IDEMPOTENT_READY"
+  }
+}

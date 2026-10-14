@@ -1,0 +1,25 @@
+{
+  "id": "kumarakom_bird_sanctuary_and_vembanad_lake",
+  "place": "Kumarakom Bird Sanctuary and Vembanad Lake",
+  "state": "Kerala",
+  "city": "Kottayam",
+  "category": [
+    "backwaters",
+    "wildlife",
+    "nature"
+  ],
+  "wikipedia_title": "Kumarakom",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kumarakom",
+  "wikidata_id": "Q3521576",
+  "lat": 9.595,
+  "lon": 76.43027778,
+  "text": "Kumarakom is a tourism destination near the city of Kottayam in Kerala, India. It is near the Vembanad Lake, the largest lake in the state of Kerala. In January 2023 The New York Times mentioned Kumarakom's backwater tourism.\n\n--- Practical Travel Context (Wikivoyage) ---\nKottayam is a city  in Kerala, south India. It is near to Kochi. The city is India's first 100% literate city, also known as Letter Capital of Kerala, due to headquarters of more than a dozen publishing houses and newspaper companies as well as several famous colleges and university. The city is one of the strongest centers of Kerala's indigenous Church, the Malankara Orthodox Church, a major non-Catholic church.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kumarakom",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9.595,76.43027778",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=9.595,76.43027778",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kumarkom.jpg/1280px-Kumarkom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

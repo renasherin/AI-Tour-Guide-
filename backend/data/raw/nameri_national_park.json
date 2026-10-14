@@ -1,0 +1,24 @@
+{
+  "id": "nameri_national_park",
+  "place": "Nameri National Park",
+  "state": "Assam",
+  "city": "Sonitpur",
+  "category": [
+    "national parks and wildlife",
+    "nature"
+  ],
+  "wikipedia_title": "Nameri_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nameri_National_Park",
+  "wikidata_id": "Q2989157",
+  "lat": 27.01,
+  "lon": 92.79,
+  "text": "Nameri National Park is a national park in the foothills of the eastern Himalayas in the Sonitpur District of Assam, India, about 35 km (22 mi) from Tezpur. Nameri is about 9 km (5.6 mi) from Chariduar, the nearest village. It shares its northern boundary with the Pakhui Wildlife Sanctuary of Arunachal Pradesh. Together they constitute an area of over 1,000 km2 (390 sq mi), of which Nameri has a total area of 200 km2 (77 sq mi). Nameri National Park was declared as the second Tiger Reserve in the year 2000, and is the second Tiger reserve of Assam after Manas Tiger Reserve. It has two core areas: Nameri National Park and Sonai- Rupai Wildlife (Satellite Core of the Nameri Tiger Reserve). The river Jia-Bharali is the lifeline of Nameri, which flows along the southern boundary of the park from northwest to southeast. In the east, the river Bor-Dikorai is a tributary of river Jia-Bharali, flowing along the southern boundary from northeast to southwest.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Nameri_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=27.01,92.79",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=27.01,92.79",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/NAMERI_NATIONAL_PARK.jpg/1280px-NAMERI_NATIONAL_PARK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

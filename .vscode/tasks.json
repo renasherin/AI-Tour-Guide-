@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1. Run Unified Application (localhost:3000)",
+      "type": "shell",
+      "command": "python run.py",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "2. Setup & Install All Dependencies",
+      "type": "shell",
+      "command": "pip install -r requirements.txt && npm install --prefix frontend",
+      "problemMatcher": []
+    },
+    {
+      "label": "3. Run Automated Tests",
+      "type": "shell",
+      "command": "python -m pytest backend/tests && npm test --prefix frontend",
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "howrah_bridge_and_hooghly_river",
+  "place": "Howrah Bridge and Hooghly River",
+  "state": "West Bengal",
+  "city": "Kolkata",
+  "category": [
+    "monuments",
+    "heritage",
+    "engineering marvels"
+  ],
+  "wikipedia_title": "Howrah_Bridge",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Howrah_Bridge",
+  "wikidata_id": "Q739641",
+  "lat": 22.5851,
+  "lon": 88.3469,
+  "text": "The Howrah Bridge (Bengali: [ɦaoɽa]) is a balanced steel bridge over the Hooghly River in West Bengal, India. Commissioned in 1943, the bridge was originally named the New Howrah Bridge, because it replaced a pontoon bridge at the same location linking both sides of Kolkata. Burrabazar is connected with Howrah rail terminal because of this bridge. On 14 June 1965, it was renamed Rabindra Setu  after the Bengali poet Rabindranath Tagore, who was the first Indian and Asian Nobel laureate. It is still popularly known as the Howrah Bridge.\nThe bridge is one of four on the Hooghly River and is a famous symbol of Kolkata and West Bengal. The other bridges are the Vidyasagar Setu (popularly called the Second Hooghly Bridge), the Vivekananda Setu and the relatively new Nivedita Setu. It carries a daily traffic of approximately 100,000 vehicles and possibly more than 150,000 pedestrians, easily making it the busiest cantilever bridge in the world. The third-longest cantilever bridge at the time of its construction, the Howrah Bridge is currently the sixth-longest bridge of its type in the world.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Howrah_Bridge",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.5851,88.3469",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.5851,88.3469",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Howrah_bridge_at_night.jpg/1280px-Howrah_bridge_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "farrukhnagar_fort_and_baoli",
+  "place": "Farrukhnagar Fort and Baoli",
+  "state": "Haryana",
+  "city": "Gurugram",
+  "category": [
+    "forts",
+    "heritage"
+  ],
+  "wikipedia_title": "Farrukhnagar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Farrukhnagar",
+  "wikidata_id": "Q1525392",
+  "lat": 28.44777778,
+  "lon": 76.82472222,
+  "text": "Farrukhnagar is a small town and municipality in Farrukhnagar tehsil of Gurugram district in the Indian state of Haryana. It is situated 21 kilometres (13 mi) from Gurgaon and shares its border with Jhajjar district. \nIt was established in 1732 by Faujdar Khan, the first Nawab of Farrukhnagar and a governor of the Mughal Emperor Farrukhsiyar. Farrukhnagar flourished due to its salt trade until the late 19th century, and was abandoned in the early 20th century, during the British Raj. Today monuments such as Sheesh Mahal, Baoli and Jama Masjid built by Faujdar Khan are popular visitor attractions. The town is connected to Garhi Harsaru, south of Gurugram, by the railway line. The Sultanpur National Park is situated in Farrukhnagar tehsil on the road to Gurgaon. Pataudi Palace, 12 kilometres (7.5 mi) from the town, is the nearest palace.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Farrukhnagar",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.44777778,76.82472222",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.44777778,76.82472222",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Baoli_Ghaus_Ali_Shah%2C_Farrukhnagar.jpg/1280px-Baoli_Ghaus_Ali_Shah%2C_Farrukhnagar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+}

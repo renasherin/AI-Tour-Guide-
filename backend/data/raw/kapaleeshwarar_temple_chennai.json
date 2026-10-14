@@ -1,0 +1,25 @@
+{
+  "id": "kapaleeshwarar_temple_chennai",
+  "place": "Kapaleeshwarar Temple Chennai",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "category": [
+    "temples",
+    "heritage",
+    "architecture"
+  ],
+  "wikipedia_title": "Kapaleeshwarar_Temple",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple",
+  "wikidata_id": "Q1587164",
+  "lat": 13.0337,
+  "lon": 80.2699,
+  "text": "The Kapaleeshwarar Temple is a Hindu temple dedicated to the god Shiva. It is located in Mylapore, Chennai in the Indian state of Tamil Nadu. The temple was built around the 17th century A.D. and is an example of South Indian Architecture.\nAccording to the Puranas, Parvati worshipped her husband Shiva in the form of a peahen (mayil in Tamil), giving the vernacular name Mylai (Mayilāi) to the area that developed around the temple. Shiva is worshiped as Kapaleeshwarar, and is represented by the lingam. Parvati is worshipped as Karpagambal (goddess of the wish-yielding tree). The presiding deity is revered in the 7th-century Tamil Shaiva canonical work, the Tevaram, written by Tamil saint poets known as the Nayanars and classified as one of the Paadal Petra Sthalam.\nThe temple has numerous shrines, with those of Kapaleeshwarar and Karpagambal being the most prominent. The temple complex houses many halls. The temple has six daily rituals at various times from 5:30 a.m. to 10 p.m., and four yearly festivals on its calendar. The Aṟupatimūvar festival celebrated during the Tamil month of Panguni as part of the brahmotsava is the most prominent festival in the temple.\nThe temple is maintained and administered by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=13.0337,80.2699",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=13.0337,80.2699",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kapaleeswarar1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

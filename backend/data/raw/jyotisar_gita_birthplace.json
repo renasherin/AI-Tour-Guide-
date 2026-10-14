@@ -1,0 +1,24 @@
+{
+  "id": "jyotisar_gita_birthplace",
+  "place": "Jyotisar Gita Birthplace",
+  "state": "Haryana",
+  "city": "Kurukshetra",
+  "category": [
+    "pilgrimage sites",
+    "heritage"
+  ],
+  "wikipedia_title": "Jyotisar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jyotisar",
+  "wikidata_id": "Q6319472",
+  "lat": null,
+  "lon": null,
+  "text": "Jyotisar, located on the bank of the Jyotisar Sarovar wetland, is a Hindu pilgrimage site in the city of Kurukshetra in the Haryana state of India. According to Hindu tradition, Krishna delivered the sermon of the Bhagavad Gita—the doctrine of Karma and Dharma—to his wavering friend Arjuna here to help him resolve his ethical dilemma and revealed his vishvarupa (universal form) to him.\nAdi Shankara, an 8th-century Hindu scholar, identified Jyotisar as the exact place where Krishna delivered the Bhagavad Gita.\nJyotisar is part of the Krishna circuit  which connects it with destinations like Vrindavan, Barsana, Govardhan, Mathura, Dwarka, and Bhalka.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jyotisar",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jyotisar+Gita+Birthplace%2C+Kurukshetra%2C+Haryana%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Jyotisar+Gita+Birthplace%2C+Kurukshetra%2C+Haryana%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Jyotisar_Banyan.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

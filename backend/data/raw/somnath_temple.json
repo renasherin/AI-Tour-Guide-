@@ -1,0 +1,25 @@
+{
+  "id": "somnath_temple",
+  "place": "Somnath Temple",
+  "state": "Gujarat",
+  "city": "Veraval",
+  "category": [
+    "temples",
+    "pilgrimage sites",
+    "heritage"
+  ],
+  "wikipedia_title": "Somnath_temple",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Somnath_temple",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Somnath Temple is a celebrated destination in Veraval, Gujarat, renowned for its temples, pilgrimage sites, heritage. Located in the historic and scenic region of Gujarat, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Gujarat. The best time to plan a visit is generally October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/1280px-Somanath_mandir_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

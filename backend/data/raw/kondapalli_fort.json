@@ -1,0 +1,24 @@
+{
+  "id": "kondapalli_fort",
+  "place": "Kondapalli Fort",
+  "state": "Andhra Pradesh",
+  "city": "Vijayawada",
+  "category": [
+    "forts",
+    "heritage"
+  ],
+  "wikipedia_title": "Kondapalli_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kondapalli_Fort",
+  "wikidata_id": "Q6428950",
+  "lat": null,
+  "lon": null,
+  "text": "Kondapalli Fort, also locally known as Kondapalli Kota and Kondapalli Quilla, lies to the west of Kondapalli in  Ibrahimpatnam mandal of NTR district in Andhra Pradesh, India was built by Prolaya Vema Reddy of Reddi Kingdom during the 14th century CE. It was initially built as a leisure place and business center and later served as a military training base for the British rulers. According to some other historians it was built in 1360 CE by Anna Vema Reddy after he captured Kondapalli from Mudigonda Chalukyas, the fort has been home to several dynasties, from the Reddi rulers Gajapati dynasty to the Nizam Nawabs, and then the East India Company.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kondapalli_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kondapalli+Fort%2C+Vijayawada%2C+Andhra+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Kondapalli+Fort%2C+Vijayawada%2C+Andhra+Pradesh%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vijayawada-Kondapalli_Quilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

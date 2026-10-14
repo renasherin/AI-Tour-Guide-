@@ -1,0 +1,25 @@
+{
+  "id": "monuments_of_pattadakal",
+  "place": "Monuments of Pattadakal",
+  "state": "Karnataka",
+  "city": "Bagalkot",
+  "category": [
+    "heritage",
+    "unesco",
+    "temples"
+  ],
+  "wikipedia_title": "Pattadakal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pattadakal",
+  "wikidata_id": "Q817250",
+  "lat": 15.95138889,
+  "lon": 75.81472222,
+  "text": "Pattadakal (Pattadakallu), also called Raktapura, is a complex of 7th and 8th century CE Hindu and Jain temples in northern Karnataka, India. Located on the west bank of the Malaprabha River in Bagalkot district, this UNESCO World Heritage Site is 23 kilometres (14 mi) from Badami and about 9.7 kilometres (6 mi) from Aihole, both of which are historically significant centres of Chalukya monuments. The monument is a protected site under Indian law. It is managed by the Archaeological Survey of India (ASI).\nUNESCO has described Pattadakal as \"a harmonious blend of architectural forms from northern and southern India\" and an illustration of \"eclectic art\" at its height. The Hindu temples are generally dedicated to Shiva, but elements of Vaishnavism and Shaktism theology and legends are also featured. The friezes in the Hindu temples display various Vedic and Puranic concepts, depict stories from the Ramayana, the Mahabharata, the Bhagavata Purana, as well as elements of other Hindu texts, such as the Panchatantra and the Kirātārjunīya. The Jain temple is only dedicated to a single Jina. The most sophisticated temples, with complex friezes and a fusion of Northern and Southern styles, are found in the Papanatha and Virupaksha temples. The Virupaksha temple is an active house of Hindu worship.\nThe Malaprabha River, a tributary of the Krishna River cutting across the valley of mountains surrounded by the plains, has great importance and place in the history of South India. The origin of this river is from Kanakumbi, Belagavi district, in the Western Ghats region, and it flows towards the eastern side. Just one kilometre (0.62 mi) before reaching Pattadakal, it starts flowing from south to north. As per the Hindu tradition, a river that flows in the north direction is also called Uttarvahini Ganga.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pattadakal",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15.95138889,75.81472222",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=15.95138889,75.81472222",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Pattadakal_000.JPG/1280px-Pattadakal_000.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

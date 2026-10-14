@@ -1,0 +1,26 @@
+{
+  "id": "chettinad_mansions_and_karaikudi",
+  "place": "Chettinad Mansions and Karaikudi",
+  "state": "Tamil Nadu",
+  "city": "Sivaganga",
+  "category": [
+    "palaces",
+    "heritage",
+    "architecture",
+    "food"
+  ],
+  "wikipedia_title": "Chettinad",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chettinad",
+  "wikidata_id": "Q681937",
+  "lat": null,
+  "lon": null,
+  "text": "Chettinad  (also known as Chettinadu) is a region in Tamil Nadu comprising 56 villages in Sivaganga district and 20 villages in Pudukottai district, which was historically ruled by the Ramnad kingdom of Pandya Nadu. It has a small portion extending into the Pudukottai District in Tamil Nadu; Karaikudi is the major city of this area and is considered the urban centre for the Chettinadu villages.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chettinad",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chettinad+Mansions+and+Karaikudi%2C+Sivaganga%2C+Tamil+Nadu%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Chettinad+Mansions+and+Karaikudi%2C+Sivaganga%2C+Tamil+Nadu%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg/1280px-The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

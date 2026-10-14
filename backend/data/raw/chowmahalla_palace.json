@@ -1,0 +1,25 @@
+{
+  "id": "chowmahalla_palace",
+  "place": "Chowmahalla Palace",
+  "state": "Telangana",
+  "city": "Hyderabad",
+  "category": [
+    "palaces",
+    "heritage",
+    "museums"
+  ],
+  "wikipedia_title": "Chowmahalla_Palace",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chowmahalla_Palace",
+  "wikidata_id": "Q3380670",
+  "lat": null,
+  "lon": null,
+  "text": "Chowmahalla Palace or Chowmahallat is the palace of the Nizams of Hyderabad State located in Hyderabad, Telangana, India. It was the seat of power of the Asaf Jahi dynasty (1720-1948) and was the official residence of the Nizams during their reign. The palace has been converted into a museum and the ownership still lies with the family.\nThe palace was constructed at the location of an earlier palace of the Qutb Shahi dynasty and Asaf Jahi dynasty close to the Charminar. Construction of the palace, as it stands today, was started by Nizam Ali Khan Asaf Jah II in 1769. He ordered the building of four palaces from which the nomenclature of Chau Mahalla is derived. The word chār or chahār, and its variation chow, means \"four\" and the word mahal means \"palace\" in Urdu, Hindi and Persian.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chowmahalla_Palace",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chowmahalla+Palace%2C+Hyderabad%2C+Telangana%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Chowmahalla+Palace%2C+Hyderabad%2C+Telangana%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1280px-Chowmahalla_Palace_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

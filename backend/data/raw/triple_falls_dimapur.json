@@ -1,0 +1,24 @@
+{
+  "id": "triple_falls_dimapur",
+  "place": "Triple Falls Dimapur",
+  "state": "Nagaland",
+  "city": "Dimapur",
+  "category": [
+    "nature",
+    "waterfalls"
+  ],
+  "wikipedia_title": "Dimapur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dimapur",
+  "wikidata_id": "Q867111",
+  "lat": 25.909174,
+  "lon": 93.726602,
+  "text": "Dimapur () is the largest city and municipality in the Indian state of Nagaland. As of 2024 , the municipality had a population of 172,000. The city is the main gateway and commercial centre of Nagaland. It is located near the border with Assam, along the banks of the Dhansiri River. Its main railway station is the second busiest station in Northeast India. It was an important logistics and supply hub for the Allied forces during the Second World War.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Dimapur",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.909174,93.726602",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.909174,93.726602",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Dimapur_Town.jpeg/1280px-Dimapur_Town.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

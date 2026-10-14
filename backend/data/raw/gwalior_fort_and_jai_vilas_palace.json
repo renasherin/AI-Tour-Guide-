@@ -1,0 +1,25 @@
+{
+  "id": "gwalior_fort_and_jai_vilas_palace",
+  "place": "Gwalior Fort and Jai Vilas Palace",
+  "state": "Madhya Pradesh",
+  "city": "Gwalior",
+  "category": [
+    "forts",
+    "palaces",
+    "heritage"
+  ],
+  "wikipedia_title": "Gwalior_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gwalior_Fort",
+  "wikidata_id": "Q2487545",
+  "lat": null,
+  "lon": null,
+  "text": "The Fort of Gwalior or Gwalior Fort is a 6th-century hill fort in Gwalior, India. Mughal Emperor Babur described it as the \"pearl amongst the fortresses of Hind and not even the winds could touch its masts\" due to its grandeur and magnificence. It was nicknamed the \"Gibraltar of India\" for its impregnability and defensive structure. The fort dates back to the 5th century, perhaps earlier, making it one of the oldest defence forts in India. Ancient Sanskrit inscriptions record the name of the fort as \"Gopgiri\". \nThe current structure has stood since at least the 8th century, and the inscriptions and monuments found within the fort complex indicate that it may have existed as early as the beginning of the 6th century. \nThe modern-day fort comprises a defensive structure and six palaces, two of which were built by the Tomar ruler Man Singh Tomar (reigned 1486–1516). It has witnessed the changing fortunes of the Kushanas, the Nagas, the Guptas, the Hunas, the Pratiharas, the Kachchhapaghatas, the Tomaras, the Pathans (Sultanate), the Surs, the Mughals, the English, the Jats, and the Scindias.\nThe present-day fort includes several notable palaces, including Man Mandir, Vikram Mandir, Karn Palace, Shah Jahan Palace, Jehangir Palace, and Gurjari Mahal. Gurjari Mahal was commissioned by Man Singh Tomar, for his ninth wife, Mrignayani, who belonged to the Gurjar community. \nA stone inscription found engraved in the walls of Chaturbhuj Temple (famously known as Zero Temple) close to the top of the fort contains the second-oldest known record (after the Bakhshali manuscript) of the numeral zero with a place value, as used in decimal notation. The inscription is around 1,500 years old.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Gwalior_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gwalior+Fort+and+Jai+Vilas+Palace%2C+Gwalior%2C+Madhya+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Gwalior+Fort+and+Jai+Vilas+Palace%2C+Gwalior%2C+Madhya+Pradesh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Gwalior_Fort_front.jpg/1280px-Gwalior_Fort_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

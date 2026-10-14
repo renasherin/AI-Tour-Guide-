@@ -1,0 +1,25 @@
+{
+  "id": "fort_kochi_and_chinese_fishing_nets",
+  "place": "Fort Kochi and Chinese Fishing Nets",
+  "state": "Kerala",
+  "city": "Kochi",
+  "category": [
+    "heritage",
+    "colonial",
+    "beaches"
+  ],
+  "wikipedia_title": "Fort_Kochi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Kochi",
+  "wikidata_id": "Q3595166",
+  "lat": null,
+  "lon": null,
+  "text": "Fort Kochi ( KOH-chee, Malayalam: [cò:çi kō:tā]; Cochin Portuguese: Cochim de Baixo, European Portuguese: [kuˈʃĩ ðɨ ˈβaʃu]), formerly also known as Fort Cochin, is a region of Kochi city in Kerala, India. Fort Kochi takes its name from the Fort Manuel of Kochi, the first European fort on Indian soil, controlled by the Portuguese East Indies. This is part of a handful of water-bound islands and islets toward the south-west of the mainland Kochi, and collectively known as Old Kochi or West Kochi. Adjacent to this is the locality of Mattancherry. In 1967, these three municipalities along with a few adjoining areas, were amalgamated to form the Kochi Municipal Corporation.\nFort Kochi is known for its heritage and culture and is a prominent tourist destination for both domestic and international travellers. It was ranked ninth among the top 25 in National Geographic’s \"Top Tourist Destinations to Explore In 2020\".",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Fort_Kochi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fort+Kochi+and+Chinese+Fishing+Nets%2C+Kochi%2C+Kerala%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Fort+Kochi+and+Chinese+Fishing+Nets%2C+Kochi%2C+Kerala%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg/1280px-Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

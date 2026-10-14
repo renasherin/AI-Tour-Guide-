@@ -1,0 +1,8 @@
+{
+  "total_questions": 50,
+  "hit_rate_at_5": 95.65,
+  "fallback_accuracy": 66.67,
+  "safety_accuracy": 100.0,
+  "avg_latency_ms": 35.85,
+  "timestamp": "2026-10-12 09:57:23"
+}

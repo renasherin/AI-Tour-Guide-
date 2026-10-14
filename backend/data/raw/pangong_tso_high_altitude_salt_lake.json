@@ -1,0 +1,25 @@
+{
+  "id": "pangong_tso_high_altitude_salt_lake",
+  "place": "Pangong Tso High Altitude Salt Lake",
+  "state": "Ladakh",
+  "city": "Leh",
+  "category": [
+    "nature",
+    "lakes",
+    "mountain passes"
+  ],
+  "wikipedia_title": "Pangong_Tso",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pangong_Tso",
+  "wikidata_id": "Q1032254",
+  "lat": 33.71794167,
+  "lon": 78.8968,
+  "text": "Pangong Tso or Pangong Lake is an endorheic lake spanning eastern Ladakh in India and Ngari Prefecture in Tibet. Situated at an elevation of 14,200 ft (4,300 m), it occupies an area of approximately 604 km2 (233 sq mi). It stretches for 134 km (83 mi) and is 5 km (3.1 mi) wide at its broadest point. It is located in a landlocked basin and is separated from the Indus River basin by an elevated ridge. The water is saline, and the lake freezes during winter.\nApproximately two-thirds of the lake lies within the area administered by China, with the remainder controlled by India. The Line of Actual Control, which demarcates the Sino-Indian border, passes through the lake. A section of the lake is claimed both by China and India, and has been part of the wider Sino-Indian border dispute. As a result of the dispute, the region saw conflict during the Sino-Indian War in 1962 and 2020–2021 China–India skirmishes.",
+  "best_time": "May to September (summer season when high passes remain open and skies are crystal clear)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pangong_Tso",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33.71794167,78.8968",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=33.71794167,78.8968",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ISS054-E-7809_-_View_of_Earth_%28cropped%29.jpg/1280px-ISS054-E-7809_-_View_of_Earth_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

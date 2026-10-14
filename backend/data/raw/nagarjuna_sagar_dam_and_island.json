@@ -1,0 +1,26 @@
+{
+  "id": "nagarjuna_sagar_dam_and_island",
+  "place": "Nagarjuna Sagar Dam and Island",
+  "state": "Telangana",
+  "city": "Nalgonda",
+  "category": [
+    "nature",
+    "lakes",
+    "dams",
+    "heritage"
+  ],
+  "wikipedia_title": "Nagarjuna_Sagar_Dam",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nagarjuna_Sagar_Dam",
+  "wikidata_id": "Q1112896",
+  "lat": 16.57555556,
+  "lon": 79.31166667,
+  "text": "Nagarjuna Sagar Dam is a masonry dam across the Krishna River at Nagarjuna Sagar, which straddles the border between Nalgonda district in Telangana, and Palnadu district in Andhra Pradesh. The dam provides irrigation water to the districts of Nalgonda, Suryapet, Khammam, Bhadradri Kothagudem districts of Telangana and also Krishna, Guntur, Palnadu,, Prakasam, and parts of West Godavari districts of Andhra Pradesh. It is also a source of electricity generation for the national grid.\nConstructed between 1955 and 1967, the dam created a water reservoir with gross storage capacity of 11.472 billion cubic metres (405.1×10^9 cu ft), its effective capacity is 6.92 cubic km or 244.41 Tmcft. The dam is 124 metres (407 ft) tall from its deepest foundation and 1.6 kilometres (5,200 ft) long with 26 flood gates which are 13 metres (42 ft) wide and 14 metres (45 ft) tall. It is jointly operated by Andhra Pradesh and Telangana.\nNagarjuna Sagar Dam was the first in a series of major infrastructure projects termed as \"modern temples\" initiated for achieving the Green Revolution in India. It is also one of the earliest multi-purpose irrigation and hydroelectric projects in India.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Nagarjuna_Sagar_Dam",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=16.57555556,79.31166667",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=16.57555556,79.31166667",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/NagarjunaSagarDam.JPG/1280px-NagarjunaSagarDam.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

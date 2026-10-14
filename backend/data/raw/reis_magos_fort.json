@@ -1,0 +1,25 @@
+{
+  "id": "reis_magos_fort",
+  "place": "Reis Magos Fort",
+  "state": "Goa",
+  "city": "Verem",
+  "category": [
+    "forts",
+    "heritage",
+    "museums"
+  ],
+  "wikipedia_title": "Reis_Magos",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Reis_Magos",
+  "wikidata_id": "Q2248527",
+  "lat": 15.49694444,
+  "lon": 73.80888889,
+  "text": "Reis Magos is a village located on the northern bank of the Mandovi River in Bardez, Goa, opposite to the capital city of Panjim. The village is famous for two of Goa’s famous structures; the Reis Magos Fort, and the Reis Magos Church – the first church in Bardez. \"Reis Magos\" is the Portuguese name for the Three Wise Men from the Bible.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Reis_Magos",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15.49694444,73.80888889",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=15.49694444,73.80888889",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Reis_Magos_Fort_-_View_from_Mandovi_River.JPG/1280px-Reis_Magos_Fort_-_View_from_Mandovi_River.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

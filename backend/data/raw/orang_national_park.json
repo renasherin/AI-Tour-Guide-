@@ -1,0 +1,24 @@
+{
+  "id": "orang_national_park",
+  "place": "Orang National Park",
+  "state": "Assam",
+  "city": "Darrang",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Orang_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orang_National_Park",
+  "wikidata_id": "Q2989176",
+  "lat": 26.5568148,
+  "lon": 92.3279016,
+  "text": "Orang National Park is a national park in India located on the northern bank of the Brahmaputra River in the Darrang and Sonitpur districts of Assam. It covers an area of 79.28 km2 (30.61 mi2). It was established as a sanctuary in 1985 and declared a national park on 13 April 1999. It is rich in flora and fauna, including great Indian rhinoceros, pygmy hog, Asian elephant, wild water buffalo and the Bengal tiger.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Orang_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.5568148,92.3279016",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=26.5568148,92.3279016",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Greater_one-horned_rhinoceros.jpg/1280px-Greater_one-horned_rhinoceros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

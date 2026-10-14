@@ -1,0 +1,26 @@
+{
+  "id": "chittorgarh_fort_and_vijay_stambha",
+  "place": "Chittorgarh Fort and Vijay Stambha",
+  "state": "Rajasthan",
+  "city": "Chittorgarh",
+  "category": [
+    "forts",
+    "unesco",
+    "monuments",
+    "heritage"
+  ],
+  "wikipedia_title": "Chittor_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chittor_Fort",
+  "wikidata_id": "Q3695769",
+  "lat": null,
+  "lon": null,
+  "text": "Chittor Fort (the literal translation of the Hindi Chittorgarh), also known as Chittod Fort, is one of the largest forts in India. It is a UNESCO World Heritage Site. The fort was the capital of Mewar and is located in the present-day city of Chittorgarh. It sprawls over a hill 180 m (590.6 ft) in height, spread over an area of 280 ha (691.9 acres) above the plains of the valley drained by the Berach River. The fort covers 65 historic structures, which include four palaces, 19 large temples, 20 large water bodies, 4 memorials, and a few victory towers.\nIn 2013, at the 37th session of the World Heritage Committee held in Phnom Penh, Cambodia, the group of six Hill Forts of Rajasthan, including Chittor Fort, was declared a World Heritage Site.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chittor_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chittorgarh+Fort+and+Vijay+Stambha%2C+Chittorgarh%2C+Rajasthan%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Chittorgarh+Fort+and+Vijay+Stambha%2C+Chittorgarh%2C+Rajasthan%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Chittorgarh_fort.JPG/1280px-Chittorgarh_fort.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "puducherry_museum",
+  "place": "Puducherry Museum",
+  "state": "Puducherry",
+  "city": "Puducherry",
+  "category": [
+    "museums",
+    "heritage",
+    "colonial"
+  ],
+  "wikipedia_title": "Pondicherry_Museum",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pondicherry_Museum",
+  "wikidata_id": "Q48734612",
+  "lat": null,
+  "lon": null,
+  "text": "The Pondicherry Museum (French: Musée de Pondichéry) is an art and history museum located in Pondicherry, India.  It is especially noted for its collection of fine lost wax bronzes form the period of the Chola Empire.\nThe Museum's collection includes 81 Chola bronze sculptures, ranking as one of the largest collections of Chola bronzes.\nArtifacts from the archaeological dig at Arikamedu, a Yavana (Greek) trading port that existed just north of modern Pondicherry in the late first century BCE to the first and second centuries CE.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pondicherry_Museum",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Puducherry+Museum%2C+Puducherry%2C+Puducherry%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Puducherry+Museum%2C+Puducherry%2C+Puducherry%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Durga_Devi_statue_at_Pondicherry_Museum_15.jpg/1280px-Durga_Devi_statue_at_Pondicherry_Museum_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+}

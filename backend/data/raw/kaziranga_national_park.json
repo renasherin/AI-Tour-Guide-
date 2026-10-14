@@ -1,0 +1,25 @@
+{
+  "id": "kaziranga_national_park",
+  "place": "Kaziranga National Park",
+  "state": "Assam",
+  "city": "Golaghat",
+  "category": [
+    "national parks and wildlife",
+    "unesco",
+    "wildlife"
+  ],
+  "wikipedia_title": "Kaziranga_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kaziranga_National_Park",
+  "wikidata_id": "Q192764",
+  "lat": 26.66666667,
+  "lon": 93.35,
+  "text": "Kaziranga National Park is a national park and World Heritage Site in the Golaghat, Sonitpur, Biswanath and Nagaon districts of the Indian state of Assam. Located on the edge of the Brahmaputra River, it encompasses dense tropical moist broadleaf forests interspersed with tall elephant grass and marshland surrounding numerous beels. This habitat hosts populations of the Indian rhinoceros, Asian elephant, wild water buffalo, swamp deer, tiger and fishing cat. It is recognized as an Important Bird Area and was declared a Tiger Reserve in 2006.\nKaziranga National Park has been the theme of several books, songs, and documentaries. It celebrated its centennial in 2005 after its establishment in 1905 as a reserve forest.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kaziranga_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.66666667,93.35",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=26.66666667,93.35",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Beauty_of_Kaziranga_National_Park.jpg/1280px-Beauty_of_Kaziranga_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

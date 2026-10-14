@@ -1,0 +1,25 @@
+{
+  "id": "jantar_mantar_new_delhi",
+  "place": "Jantar Mantar New Delhi",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "category": [
+    "heritage",
+    "observatories",
+    "architecture"
+  ],
+  "wikipedia_title": "Jantar_Mantar,_New_Delhi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_New_Delhi",
+  "wikidata_id": "Q2045115",
+  "lat": 28.6271,
+  "lon": 77.2164,
+  "text": "Jantar Mantar in New Delhi is an observatory, designed to be used with the naked eye. It is one of five Jantar Mantars in India. \"Jantar Mantar\" means \"instruments for measuring the harmony of the heavens\". It consists of 13 architectural astronomical instruments.\nThe site is one of five built by Sawai Jai Singh of Jaipur, from 1723 onwards, revising the calendar and astronomical tables. Jai Singh, born in 1688 into a royal Rajput family that ruled the regional kingdom, was born into an era of education that maintained a keen interest in astronomy. There is a plaque fixed on one of the structures in the Jantar Mantar observatory in New Delhi that was placed there in 1910 mistakenly dating the construction of the complex to the year 1710.  Later research, though, suggests 1724 as the actual year of construction. It is 723 feet (220 m) above sea level.\nThe primary purpose of the observatory was to compile astronomical tables, and to predict the times and movements of the Sun, Moon and planets. Some of these purposes nowadays would be classified as astronomy.\nCompleted in 1724, the Delhi Jantar Mantar had decayed considerably by the time of the 1857 uprising. The Ram Yantra, the Samrat Yantra, the Jai Prakash Yantra and the Misra Yantra are the distinct instruments of Jantar Mantar. The most famous of these structures, the Jaipur, had also deteriorated by the end of the nineteenth century until in 1901 when Maharaja Ram Singh set out to restore the instrument.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_New_Delhi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.6271,77.2164",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.6271,77.2164",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jantar_Mantar%2C_New_Delhi_%28Misra_Yantra%29.jpg/1280px-Jantar_Mantar%2C_New_Delhi_%28Misra_Yantra%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "palakkad_fort_tipus_fort",
+  "place": "Palakkad Fort (Tipu Sultan's Fort)",
+  "state": "Kerala",
+  "city": "Palakkad",
+  "category": [
+    "forts",
+    "heritage",
+    "architecture"
+  ],
+  "wikipedia_title": "Palakkad_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Palakkad_Fort",
+  "wikidata_id": "Q3525203",
+  "lat": 10.7667,
+  "lon": 76.6558,
+  "text": "Palakkad Fort, popularly known as Tipu Sultan's Fort, is an exceptionally preserved granite fort situated in the heart of Palakkad town in Kerala, India. Rebuilt in 1766 AD by Hyder Ali of Mysore and later fortified by his son Tipu Sultan, the stronghold features massive square granite bastions, a deep protective moat that once teemed with crocodiles, and an ancient Hanuman temple revered by generations. Guarding the strategic 30-kilometer Palakkad Gap through the Western Ghats—the ancient commercial and military gateway connecting Kerala to Tamil Nadu and the Deccan—the fort grounds today encompass lush manicured lawns, the Rappadi open-air auditorium, and an Archaeological Survey of India museum.",
+  "best_time": "October to March (pleasant tropical winter; ideal for heritage walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Palakkad_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10.7667,76.6558",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=10.7667,76.6558",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palakkad_Tipu_Fort.jpg/1280px-Palakkad_Tipu_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

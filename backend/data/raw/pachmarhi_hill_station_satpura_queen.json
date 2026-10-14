@@ -1,0 +1,25 @@
+{
+  "id": "pachmarhi_hill_station_satpura_queen",
+  "place": "Pachmarhi Hill Station (Satpura Queen)",
+  "state": "Madhya Pradesh",
+  "city": "Narmadapuram",
+  "category": [
+    "hill stations",
+    "nature",
+    "waterfalls"
+  ],
+  "wikipedia_title": "Pachmarhi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pachmarhi",
+  "wikidata_id": "Q1949041",
+  "lat": 22.4667,
+  "lon": 78.411,
+  "text": "Pachmarhi is a hill station in  Madhya Pradesh state of central India. It has been the location of a cantonment (Pachmarhi Cantonment) since the British Raj. The municipality is located in a valley of the Satpura Range and is widely known as Satpura ki Rani. (\"Queen of Satpura\")\nPachmarhi has an altitude of 1,067 meters above sea level. Dhupgarh, the highest point (1,352 meters) in Madhya Pradesh and the Satpura range, is located nearby. The town is wholly located within the Pachmarhi Biosphere Reserve and the Satpura Tiger Reserve.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pachmarhi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.4667,78.411",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.4667,78.411",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Pachmarhi_valley_Madhya_Pradesh_INDIA.jpg/1280px-Pachmarhi_valley_Madhya_Pradesh_INDIA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ellora_caves_and_kailasa_temple",
+  "place": "Ellora Caves and Kailasa Temple",
+  "state": "Maharashtra",
+  "city": "Chhatrapati Sambhajinagar",
+  "category": [
+    "heritage",
+    "unesco",
+    "caves",
+    "temples"
+  ],
+  "wikipedia_title": "Ellora_Caves",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ellora_Caves",
+  "wikidata_id": "Q189616",
+  "lat": 20.0268,
+  "lon": 75.1771,
+  "text": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut  cave complexes in the world, with artwork dating from AD 600–1000, including Hindu, Buddhist, and Jain caves. The complex is a leading example of Indian rock-cut architecture, and several are not strictly \"caves\" in that they have no roof.  Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple, a chariot-shaped monument dedicated to the god Shiva. The Kailash temple excavation also features sculptures depicting various Hindu deities as well as relief panels summarizing the two major Hindu epics.\nThere are over 100 caves at the site, all excavated from the basalt cliffs in the Charanandri Hills, 34 of which are open to the public. These consist of 17 Hindu (caves 13–29), 12 Buddhist (caves 1–12) and 5 Jain (caves 30–34) caves, each group representing deities and mythologies prevalent in the 1st millennium CE, as well as monasteries of each respective religion. They were built close to one another and illustrate the religious harmony that existed in ancient India. All of the Ellora monuments were built during the Rashtrakuta dynasty (r. 753-982 AD), which constructed part of the Hindu and Buddhist caves, and the Yadava dynasty (c. 1187–1317), which constructed a number of the Jain caves. Funding for the construction of the monuments was provided by royalty, traders, and wealthy people from the region.\nAlthough the caves served as temples and a rest stop for pilgrims, the site's location on an ancient South Asian trade route also made it an important commercial centre in the Deccan region. It is 29 km (18 mi) northwest of Aurangabad and about 300 km (190 mi) east-northeast of Mumbai. Today, the Ellora Caves, along with the nearby Ajanta Caves, are a major tourist attraction in the Marathwada region of Maharashtra and a protected monument under the Archaeological Survey of India (ASI).",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Ellora_Caves",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=20.0268,75.1771",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=20.0268,75.1771",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%2AThe_Sutar-ki-Jhonpri_-Visvakarma-_Cave%2C_Ellora%3B_a_photo_by_Lala_Deen_Dayal%2C_1880%27s%2A_%28BL%29.1880.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+}

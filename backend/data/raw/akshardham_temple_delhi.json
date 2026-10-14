@@ -1,0 +1,26 @@
+{
+  "id": "akshardham_temple_delhi",
+  "place": "Akshardham Temple Delhi",
+  "state": "Delhi",
+  "city": "East Delhi",
+  "category": [
+    "temples",
+    "monuments",
+    "exhibitions",
+    "architecture"
+  ],
+  "wikipedia_title": "Swaminarayan_Akshardham_(Delhi)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi)",
+  "wikidata_id": "Q1849858",
+  "lat": 28.6125,
+  "lon": 77.27722222,
+  "text": "Swaminarayan Akshardham is a Hindu temple and campus in Delhi, India. The temple is close to the border with Noida. Also known as Akshardham Temple or Akshardham Delhi, the complex displays traditional and modern Hindu culture and architecture. Inspired by Yogiji Maharaj and created by Pramukh Swami Maharaj, it was constructed by BAPS. It is the world's second-largest BAPS Hindu temple, following Akshardham, New Jersey, in the United States.\nThe temple was opened on 6 November 2005 by Pramukh Swami Maharaj in the presence of A. P. J. Abdul Kalam, Manmohan Singh, L.K Advani and B.L Joshi. The temple, at the centre of the complex, was built according to the Vastu shastra and Pancharatra shastra.\nIn Swaminarayan Akshardham, similar to its predecessor in Gandhinagar, Gujarat, the main shrine is the focal point of the complex. Exhibition halls provide information about the life and work of Swaminarayan.\nThe complex features an abhishek mandap, Sahaj Anand water show, a thematic garden, and three exhibitions namely Sahajanand Darshan (Hall of Values), Neelkanth Darshan (an IMAX film on the early life of Swaminarayan as the teenage yogi, Nilkanth), and Sanskruti Darshan (cultural boat ride). According to Swaminarayan Hinduism, the word Akshardham means the abode of Swaminarayan and believed by followers as a temporal home of God on earth.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi)",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.6125,77.27722222",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.6125,77.27722222",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/New_Delhi_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

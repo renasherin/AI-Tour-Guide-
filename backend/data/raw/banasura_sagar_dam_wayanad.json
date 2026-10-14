@@ -1,0 +1,25 @@
+{
+  "id": "banasura_sagar_dam_wayanad",
+  "place": "Banasura Sagar Dam and Island Lake",
+  "state": "Kerala",
+  "city": "Padinjarathara, Wayanad",
+  "category": [
+    "nature",
+    "dam",
+    "lakes"
+  ],
+  "wikipedia_title": "Banasura_Sagar_Dam",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Banasura_Sagar_Dam",
+  "wikidata_id": "Q4854086",
+  "lat": 11.6694,
+  "lon": 75.9572,
+  "text": "Banasura Sagar Dam in Wayanad is the largest earthen dam in India and the second largest in all of Asia, constructed using massive boulders and packed earth across the Karamanathodu tributary of the Kabini River. Named after the mythical demon king Banasura who performed penance in the surrounding mountain crags, the dam's reservoir submerged the valleys, transforming surrounding knolls into an archipelago of picturesque emerald islands against the rugged Banasura mountain backdrop. Visitors enjoy thrilling speedboat safaris, horse riding, ziplines, and nature trails through spice gardens.",
+  "best_time": "October to May (crisp mountain breezes, calm blue reservoir waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Banasura_Sagar_Dam",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.6694,75.9572",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.6694,75.9572",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Banasurasagar_Main_Dam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

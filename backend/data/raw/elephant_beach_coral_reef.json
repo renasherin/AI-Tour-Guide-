@@ -1,0 +1,26 @@
+{
+  "id": "elephant_beach_coral_reef",
+  "place": "Elephant Beach Coral Reef",
+  "state": "Andaman and Nicobar Islands",
+  "city": "Havelock Island",
+  "category": [
+    "beaches",
+    "nature",
+    "water sports",
+    "corals"
+  ],
+  "wikipedia_title": "Havelock_Island",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Havelock_Island",
+  "wikidata_id": "Q1591501",
+  "lat": 11.96,
+  "lon": 93,
+  "text": "Havelock Island, officially known as Swaraj Dweep (transl. Independence Island), is one of the largest islands in Ritchie's Archipelago, to the east of Great Andaman within the Andaman Islands of India. It belongs to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands. The island is 41 km (25 mi) northeast of the capital city, Port Blair.\n\n--- Practical Travel Context (Wikivoyage) ---\nHavelock Island (Hindi: हैवलॉक द्वीप, Malayalam: ഹെയ്വ്ലോക് ദ്വീപുകള്‍), known officially as Swaraj Dweep (Island of Freedom), is the most visited of the Andaman Islands. It's becoming popular for its beaches, laid back atmosphere and great scuba diving.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Havelock_Island",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.96,93",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.96,93",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Havelock%2C_Andaman_%26_Nicobar_Islands.JPG/1280px-Havelock%2C_Andaman_%26_Nicobar_Islands.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

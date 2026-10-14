@@ -1,0 +1,25 @@
+{
+  "id": "periyar_national_park_thekkady",
+  "place": "Periyar National Park Thekkady",
+  "state": "Kerala",
+  "city": "Idukki",
+  "category": [
+    "national parks and wildlife",
+    "wildlife",
+    "lakes"
+  ],
+  "wikipedia_title": "Periyar_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Periyar_National_Park",
+  "wikidata_id": "Q548153",
+  "lat": null,
+  "lon": null,
+  "text": "Periyar National Park and Wildlife Sanctuary (PNP) is a protected area located in the districts of Idukki and Pathanamthitta in Kerala, India. It is a renowned elephant and tiger reserve. The protected area encompasses 925 km2 (357 mi2), of which 350.54 km2 (135.34 mi2) of the main zone was declared as the Periyar National Park in 1982. The park is a repository of rare, endemic, and endangered flora and fauna and forms the major watershed of two important rivers of Kerala: the Periyar and the Pamba.\n\nThe park is located high in the Cardamom Hills and Pandalam Hills of the south Western Ghats along the border with Tamil Nadu. It is 4 km (2.5 mi) from Kumily, Thekkady, 86 km (53 mi) south east of Thodupuzha, 103 km (64 mi) east of Kottayam, 110 km (68 mi) west of Madurai and 147 km (91 mi) southeast of Kochi.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Periyar_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Periyar+National+Park+Thekkady%2C+Idukki%2C+Kerala%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Periyar+National+Park+Thekkady%2C+Idukki%2C+Kerala%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Periyar_National_Park.JPG/1280px-Periyar_National_Park.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

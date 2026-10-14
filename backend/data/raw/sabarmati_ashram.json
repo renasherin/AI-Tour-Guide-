@@ -1,0 +1,25 @@
+{
+  "id": "sabarmati_ashram",
+  "place": "Sabarmati Ashram",
+  "state": "Gujarat",
+  "city": "Ahmedabad",
+  "category": [
+    "heritage",
+    "museums",
+    "pilgrimage sites"
+  ],
+  "wikipedia_title": "Sabarmati_Ashram",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sabarmati_Ashram",
+  "wikidata_id": "Q1410702",
+  "lat": null,
+  "lon": null,
+  "text": "Sabarmati Ashram is located in the Sabarmati suburb of Ahmedabad, Gujarat, adjoining Ashram Road, on the banks of the Sabarmati River, 4 miles (6.4 km) from the town hall. This was one of the many residences of Mahatma Gandhi, who lived at Sabarmati (Gujarat) and Sevagram (Wardha, Maharashtra) when he was not travelling across India or in prison. He lived in Sabarmati or Wardha for a total of twelve years with his wife, Kasturba Gandhi and followers, including Vinoba Bhave. The Bhagavad Gita was recited here daily as part of the ashram schedule.\nIt was from here that Gandhi led the Dandi March, also known as the Salt Satyagraha, on 12 March 1930. The Indian government has established the Ashram as a national monument.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Sabarmati_Ashram",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sabarmati+Ashram%2C+Ahmedabad%2C+Gujarat%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Sabarmati+Ashram%2C+Ahmedabad%2C+Gujarat%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/GANDHI_ASHRAM_03.jpg/1280px-GANDHI_ASHRAM_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

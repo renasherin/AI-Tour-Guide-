@@ -1,0 +1,25 @@
+{
+  "id": "umiam_lake_barapani",
+  "place": "Umiam Lake (Barapani)",
+  "state": "Meghalaya",
+  "city": "Ri-Bhoi",
+  "category": [
+    "nature",
+    "lakes",
+    "water sports"
+  ],
+  "wikipedia_title": "Umiam_Lake",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Umiam_Lake",
+  "wikidata_id": "Q4475482",
+  "lat": 25.6532,
+  "lon": 91.8843,
+  "text": "Umïam Lake, also known as Bara Pani, is a reservoir in the hills 15 km (9.3 mi) north of Shillong in the state of Meghalaya, India. It was created by damming the Umïam River in the early 1960s. The principal catchment area of the lake and dam is spread over 225 square kilometres (87 sq mi).\nIn February 2025, the Guwahati - Panchgram Expressway was announced. It will be the first expressway of Northeast India is a greenfield expressway from Guwahati to Umiam in Meghalaya and then direct to old paper mill in Panchgram, which will reduce the Guwahati to Punchgram distance by 5 hours.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Umiam_Lake",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.6532,91.8843",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.6532,91.8843",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Umiam_Lake_-_by_Vikramjit_Kakati.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

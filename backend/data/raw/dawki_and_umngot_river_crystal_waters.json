@@ -1,0 +1,25 @@
+{
+  "id": "dawki_and_umngot_river_crystal_waters",
+  "place": "Dawki and Umngot River Crystal Waters",
+  "state": "Meghalaya",
+  "city": "West Jaintia Hills",
+  "category": [
+    "nature",
+    "rivers",
+    "adventure"
+  ],
+  "wikipedia_title": "Dawki",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dawki",
+  "wikidata_id": "Q5242368",
+  "lat": null,
+  "lon": null,
+  "text": "Dawki or Dauki is a town in West Jaintia Hills district, Meghalaya, India.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Dawki",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dawki+and+Umngot+River+Crystal+Waters%2C+West+Jaintia+Hills%2C+Meghalaya%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Dawki+and+Umngot+River+Crystal+Waters%2C+West+Jaintia+Hills%2C+Meghalaya%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Umngot_river%2C_Dawki.jpg/1280px-Umngot_river%2C_Dawki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

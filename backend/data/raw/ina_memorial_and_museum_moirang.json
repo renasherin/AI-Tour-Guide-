@@ -1,0 +1,25 @@
+{
+  "id": "ina_memorial_and_museum_moirang",
+  "place": "INA Memorial and Museum Moirang",
+  "state": "Manipur",
+  "city": "Moirang",
+  "category": [
+    "monuments",
+    "museums",
+    "heritage"
+  ],
+  "wikipedia_title": "Moirang",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Moirang",
+  "wikidata_id": "Q2625382",
+  "lat": 24.5,
+  "lon": 93.77,
+  "text": "Moirang (Meitei: /moi.rāŋ/) is a town in the Indian state of Manipur, best known for the tentatively listed UNESCO World Heritage Sites of the Keibul Lamjao Conservation Area (KLCA), covering Keibul Lamjao National Park (KLNP), the world's only floating national park, the buffer of Loktak Lake (140 sq km) and Pumlen Pat (43 sq. km). It is best known for the being the place of origin of the ancient epic legend of Khamba and Thoibi, one of the seven epic cycles of incarnations of Meitei mythology and folklore. Nationwide, it is also famous for the INA War Museum in the INA Martyrs' Memorial Complex, where Colonel Shaukat Malik of the Indian National Army hoisted the Tricolour for the first time on Indian soil on 14 April 1944.\nIt is situated approximately 45 km (28 mi) south of the state capital Imphal. It has an area of 269 km2 (104 sq mi) with a population of 62,187 in 67 villages. \nThere are 12 Panchayats in this block.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Moirang",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=24.5,93.77",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=24.5,93.77",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/INA_Memorial%2C_Moirang%2C_Manipur_%2812%29.jpeg/1280px-INA_Memorial%2C_Moirang%2C_Manipur_%2812%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

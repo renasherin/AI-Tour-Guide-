@@ -1,0 +1,25 @@
+{
+  "id": "india_gate_and_kartavya_path",
+  "place": "India Gate and Kartavya Path",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "category": [
+    "monuments",
+    "heritage",
+    "patriotic memorials"
+  ],
+  "wikipedia_title": "India_Gate",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/India_Gate",
+  "wikidata_id": "Q245347",
+  "lat": 28.61286389,
+  "lon": 77.22930556,
+  "text": "The India Gate (formerly known as All India War Memorial) is a war memorial arch that’s located near the Rajpath (officially called Kartavya Path) on the eastern edge of the \"ceremonial axis\" of New Delhi, India. It stands as a memorial to exactly 74,187 Indian soldiers of the British Indian Army who died between 1914 and 1921 during the First World War, in places like France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli, in the Near and Far East, and the 1919 Third Anglo-Afghan War. Around 13,300 British servicemen's names, including some soldiers and officers from the United Kingdom, are also inscribed onto the gate. Designed by architect sir Edwin Lutyens, the gate evokes the architectural style of the ancient Roman triumphal arches, such as the Arch of Constantine in Rome, Italy and later memorial arches; it is often compared to the Arc de Triomphe in Paris, France and the Gateway of India in Mumbai, India.\nFollowing the Indo-Pakistani war of 1971, a structure consisting of a black marble plinth with a reversed rifle, capped by a war helmet and bounded by four eternal flames, was built beneath the archway. This structure, called Amar Jawan Jyoti (Flame of the Immortal Soldier), had between 1971 and 2019, until replaced by the Indian national war memorial, served as India's Tomb of the Unknown Soldier. The India Gate is counted amongst one of the largest war memorials in India and every year during Republic Day, the Indian Prime Minister visits the Gate to pay their tributes to the Indian national war memorial, following which the Republic Day parade starts. India Gate is often a location for civil society protests, and is popular among tourists.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/India_Gate",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.61286389,77.22930556",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.61286389,77.22930556",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/India_Gate_front.jpg/1280px-India_Gate_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

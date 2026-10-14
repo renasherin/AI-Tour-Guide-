@@ -1,0 +1,25 @@
+{
+  "id": "thirunavaya_navamukunda_temple",
+  "place": "Thirunavaya Navamukunda Temple and Mamankam Heritage",
+  "state": "Kerala",
+  "city": "Thirunavaya, Malappuram",
+  "category": [
+    "temple",
+    "pilgrimage",
+    "heritage"
+  ],
+  "wikipedia_title": "Thirunavaya_Navamukunda_Temple",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thirunavaya_Navamukunda_Temple",
+  "wikidata_id": "Q7785315",
+  "lat": 10.8667,
+  "lon": 75.9833,
+  "text": "Thirunavaya Navamukunda Temple is a sacred riverside shrine on the banks of the historic Bharathappuzha (River Nila) in Malappuram district, Kerala. One of the 108 revered Divya Desams of Lord Vishnu praised by Tamil Alvar saints, the temple's sandbanks were the battleground of Mamankam—a grand medieval festival held every 12 years. At Mamankam, sworn suicide warriors (Chaver) from the Valluvanad kingdom fought through thousands of the Kozhikode Zamorin's royal guards to attempt to slay the monarch standing on the Nilapaduthara stone platform. The preserved Nilapaduthara platform, Manikkinar well, and Changampalli martial kalari evoke the epic martial traditions of Malabar.",
+  "best_time": "November to February (mild winter, sacred river rites)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Thirunavaya_Navamukunda_Temple",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10.8667,75.9833",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=10.8667,75.9833",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Thirunavaya_%285%29.jpg/1280px-Thirunavaya_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

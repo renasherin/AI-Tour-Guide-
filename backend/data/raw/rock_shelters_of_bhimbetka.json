@@ -1,0 +1,26 @@
+{
+  "id": "rock_shelters_of_bhimbetka",
+  "place": "Rock Shelters of Bhimbetka",
+  "state": "Madhya Pradesh",
+  "city": "Raisen",
+  "category": [
+    "heritage",
+    "unesco",
+    "caves",
+    "ancient ruins"
+  ],
+  "wikipedia_title": "Bhimbetka_rock_shelters",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters",
+  "wikidata_id": "Q331603",
+  "lat": 22.938415,
+  "lon": 77.613085,
+  "text": "The Bhimbetka rock shelters are an archaeological site in central India that spans the Paleolithic and Mesolithic periods, as well as the historic period. It exhibits the earliest traces of human life in India and evidence of the Stone Age starting at the site in Acheulean times. It is located in the Raisen district in the Indian state of Madhya Pradesh, about 45 kilometres (28 mi) south-east of Bhopal. It is a UNESCO World Heritage Site that consists of seven hills and over 750 rock shelters distributed over 10 km (6.2 mi). At least some of the shelters were inhabited more than 100,000 years ago.\nThe rock shelters and caves provide evidence of human settlement and the cultural evolution from hunter-gatherers to agriculture, and expressions of prehistoric spirituality.\nSome of the Bhimbetka rock shelters feature prehistoric cave paintings and the earliest are dated to 10,000 BCE, corresponding to the Indian Mesolithic. These cave paintings show themes such as animals, early evidence of dance and hunting from the Stone Age as well as of warriors on horseback from a later time (perhaps the Bronze Age). The Bhimbetka site has the oldest-known rock art in India, as well as is one of the largest prehistoric complexes.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.938415,77.613085",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.938415,77.613085",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Rock_Shelter_8%2C_Bhimbetka_02.jpg/1280px-Rock_Shelter_8%2C_Bhimbetka_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

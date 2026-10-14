@@ -1,0 +1,25 @@
+{
+  "id": "lotus_temple_bahai_house_of_worship",
+  "place": "Lotus Temple Bahai House of Worship",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "category": [
+    "temples",
+    "architecture",
+    "modern heritage"
+  ],
+  "wikipedia_title": "Lotus_Temple",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lotus_Temple",
+  "wikidata_id": "Q940843",
+  "lat": 28.553328,
+  "lon": 77.258456,
+  "text": "The Lotus Temple, also known as the Baháʼí House of Worship, New Delhi, is a Baháʼí House of Worship at Bahapur in south Delhi, India. Designed by the architect Fariborz Sahba, it takes the form of a half-open lotus of 27 free-standing marble-clad concrete petals, arranged in three rings of nine around a central hall. It was dedicated on 24 December 1986 and opened to the public on 1 January 1987.\nBaháʼís in India first sought permission for a House of Worship in 1920, and the land at Bahapur was bought in 1954 under a plan set by Shoghi Effendi. On 1 April 1974, the Universal House of Justice led plans for its development as part of a Baháʼí Five Year Plan. Construction by the ECC Construction Group of Larsen & Toubro, to a structural design by the London engineers Flint & Neill, ran from 1980 to 1986.\nThe temple is among the most visited sites in India, drawing more than five million visitors a year and, by 2014, more than 100 million in all. Reviewers compared it with the Sydney Opera House on its completion, and it received awards from bodies including the Institution of Structural Engineers and the American Concrete Institute. India placed it on its World Heritage tentative list in 2014.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Lotus_Temple",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.553328,77.258456",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.553328,77.258456",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/LotusDelhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

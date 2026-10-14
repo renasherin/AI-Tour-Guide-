@@ -1,0 +1,25 @@
+{
+  "id": "ranthambore_national_park_tiger_reserve",
+  "place": "Ranthambore National Park Tiger Reserve",
+  "state": "Rajasthan",
+  "city": "Sawai Madhopur",
+  "category": [
+    "national parks and wildlife",
+    "forts",
+    "unesco"
+  ],
+  "wikipedia_title": "Ranthambore_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ranthambore_National_Park",
+  "wikidata_id": "Q1466242",
+  "lat": 26.01733,
+  "lon": 76.50257,
+  "text": "Ranthambore National Park is a national park in the Indian state of Rajasthan with an area of 1,334 km2 (515 sq mi). It is bounded to the north by the Banas River and to the south by the Chambal River. It is named after the historic Ranthambore Fort, which lies within its boundaries in Sawai Madhopur district.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Ranthambore_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.01733,76.50257",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=26.01733,76.50257",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Ranthambore_National_Park.JPG/1280px-Ranthambore_National_Park.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,57 @@
+{
+  "dataset_name": "Incredible Journeys: Discover India Knowledge Graph",
+  "version": "1.0.0",
+  "created_at": "2026-10-12T10:00:00Z",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+  "open_data_providers": [
+    {
+      "name": "Wikipedia Open API",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://en.wikipedia.org"
+    },
+    {
+      "name": "Wikivoyage",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://en.wikivoyage.org"
+    },
+    {
+      "name": "Wikidata Open Knowledge Base",
+      "license": "CC0 (Public Domain)",
+      "url": "https://www.wikidata.org"
+    },
+    {
+      "name": "UNESCO World Heritage Centre",
+      "license": "Public Open Data Reference",
+      "url": "https://whc.unesco.org"
+    }
+  ],
+  "scope": {
+    "states_count": 28,
+    "union_territories_count": 8,
+    "total_administrative_divisions": 36,
+    "record_types": ["place", "food", "festival"],
+    "categories": [
+      "heritage",
+      "unesco heritage",
+      "temple",
+      "fort",
+      "palace",
+      "wildlife",
+      "nature",
+      "hill station",
+      "beach",
+      "mountain",
+      "waterfall",
+      "pilgrimage",
+      "food",
+      "festival",
+      "crafts",
+      "culture"
+    ]
+  },
+  "provenance_and_zero_hallucination_policy": {
+    "unverified_candidates_handling": "Seed rows treated as unverified candidates; canonical title, coordinates, and region verified against Wikimedia APIs.",
+    "missing_data_treatment": "Missing or unconfirmed attributes (coordinates, exact entry fees, timings) are explicitly maintained as null or empty, never fabricated.",
+    "rag_attribution_requirement": "All retrieved passages injected into LLM context retain source URL, license string, and title attribution."
+  }
+}

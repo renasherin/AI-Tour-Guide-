@@ -1,0 +1,24 @@
+{
+  "id": "viper_island_historic_gallows",
+  "place": "Viper Island Historic Gallows",
+  "state": "Andaman and Nicobar Islands",
+  "city": "Port Blair",
+  "category": [
+    "heritage",
+    "ruins"
+  ],
+  "wikipedia_title": "Viper_Island",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Viper_Island",
+  "wikidata_id": "Q1477734",
+  "lat": 11.661,
+  "lon": 92.697,
+  "text": "Viper Island is an island of the Andaman Islands. It belongs to the South Andaman district of the Andaman and Nicobar Islands of India.\nThe island lies 4 km (2 mi) west of Sri Vijaya Puram.\n\n--- Practical Travel Context (Wikivoyage) ---\nPort Blair (officially Sri Vijaya Puram) is the capital and largest city of the Andaman and Nicobar Islands group, with a population of around 100,000.\n\n",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Viper_Island",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.661,92.697",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.661,92.697",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Viper_Island.JPG/1280px-Viper_Island.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

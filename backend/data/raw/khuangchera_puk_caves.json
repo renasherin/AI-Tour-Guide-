@@ -1,0 +1,24 @@
+{
+  "id": "khuangchera_puk_caves",
+  "place": "Khuangchera Puk Caves",
+  "state": "Mizoram",
+  "city": "Aizawl",
+  "category": [
+    "nature",
+    "caves"
+  ],
+  "wikipedia_title": "Aizawl",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aizawl",
+  "wikidata_id": "Q192379",
+  "lat": null,
+  "lon": null,
+  "text": "Aizawl (English:   EYE-zawl; Mizo: [ˈaɪ̯.ˈzɔːl] ), formerly known as Aijal, is the capital city and the most populous city of Mizoram, India. It is also the third largest city in northeast India. It is situated atop a series of ridges, with an average elevation of around 1,132 metres (3,714 feet) above sea level. In 2024, the city has an estimated population of 415,000 people.\nHaving served as the capital of the British Lushai Hills from 1898 to 1947, colonial structures are prevalent in the city centre including but not limited to the Aijal Club, Raj Bhavan, the Red School, and the Office of the Deputy Commissioner. As the seat of the Government of Mizoram, Aizawl is home to the Assembly House. Additionally, Aizawl is part of the Smart Cities Mission, an initiative by the Ministry of Housing and Urban Affairs aimed at urban development and infrastructure enhancement.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Aizawl",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Khuangchera+Puk+Caves%2C+Aizawl%2C+Mizoram%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Khuangchera+Puk+Caves%2C+Aizawl%2C+Mizoram%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Mizoram_Assembly_House_%28wider_view%29.jpg/1280px-Mizoram_Assembly_House_%28wider_view%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

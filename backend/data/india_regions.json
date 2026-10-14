@@ -1,0 +1,331 @@
+{
+  "total_divisions": 36,
+  "states_count": 28,
+  "union_territories_count": 8,
+  "divisions": [
+    {
+      "name": "Andhra Pradesh",
+      "type": "State",
+      "capital": "Amaravati",
+      "zone": "South India",
+      "tagline": "The Sunrise State of Temples and Coastal Canyons",
+      "unesco_sites": ["Lepakshi (Tentative List)"],
+      "signature_experiences": ["Tirumala Venkateswara Temple", "Gandikota Grand Canyon", "Araku Valley & Borra Caves", "Andhra Meals"]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "type": "State",
+      "capital": "Itanagar",
+      "zone": "Northeast India",
+      "tagline": "Land of Dawn-Lit Mountains",
+      "unesco_sites": ["Namdapha National Park (Tentative List)", "Apatani Cultural Landscape (Tentative List)"],
+      "signature_experiences": ["Tawang Monastery", "Sela Pass", "Ziro Valley Pine Groves", "Losar Festival"]
+    },
+    {
+      "name": "Assam",
+      "type": "State",
+      "capital": "Dispur / Guwahati",
+      "zone": "Northeast India",
+      "tagline": "Land of the Red River and Blue Hills",
+      "unesco_sites": ["Kaziranga National Park", "Manas National Park", "Charaideo Moidams"],
+      "signature_experiences": ["One-horned Rhinos at Kaziranga", "Majuli River Island", "Kamakhya Shakti Peeth", "Assam Tea Gardens"]
+    },
+    {
+      "name": "Bihar",
+      "type": "State",
+      "capital": "Patna",
+      "zone": "East India",
+      "tagline": "Cradle of Buddhism and Ancient Universities",
+      "unesco_sites": ["Mahabodhi Temple Complex at Bodh Gaya", "Archaeological Site of Nalanda Mahavihara"],
+      "signature_experiences": ["Mahabodhi Bodhi Tree", "Nalanda Ancient University Ruins", "Rajgir Ropeway & Vulture Peak", "Litti Chokha"]
+    },
+    {
+      "name": "Chhattisgarh",
+      "type": "State",
+      "capital": "Raipur",
+      "zone": "Central India",
+      "tagline": "Heart of Tribal Arts and Roaring Waterfalls",
+      "unesco_sites": [],
+      "signature_experiences": ["Chitrakote Falls (Niagara of India)", "Kanger Valley Limestone Caves", "Bhoramdeo Temple", "Bastar Dussehra"]
+    },
+    {
+      "name": "Goa",
+      "type": "State",
+      "capital": "Panaji",
+      "zone": "West India",
+      "tagline": "Portuguese Heritage, Sunlit Sands and Spice Plantations",
+      "unesco_sites": ["Churches and Convents of Goa"],
+      "signature_experiences": ["Basilica of Bom Jesus", "Fontainhas Latin Quarter", "Dudhsagar Waterfalls", "Goan Fish Curry & Bebinca"]
+    },
+    {
+      "name": "Gujarat",
+      "type": "State",
+      "capital": "Gandhinagar",
+      "zone": "West India",
+      "tagline": "Land of White Sands, Harappan Harbors and Asiatic Lions",
+      "unesco_sites": ["Champaner-Pavagadh Archaeological Park", "Rani ki Vav", "Historic City of Ahmedabad", "Dholavira: a Harappan City"],
+      "signature_experiences": ["Great Rann of Kutch", "Gir Forest Asiatic Lions", "Somnath & Dwarka Temples", "Statue of Unity"]
+    },
+    {
+      "name": "Haryana",
+      "type": "State",
+      "capital": "Chandigarh",
+      "zone": "North India",
+      "tagline": "Epic Battlefield of Kurukshetra and Vedic Heritage",
+      "unesco_sites": [],
+      "signature_experiences": ["Brahma Sarovar Kurukshetra", "Sultanpur Bird Sanctuary", "Pinjore Mughal Gardens", "Surajkund Crafts Mela"]
+    },
+    {
+      "name": "Himachal Pradesh",
+      "type": "State",
+      "capital": "Shimla",
+      "zone": "North India",
+      "tagline": "Land of Gods and Snow-Capped Himalayan Passes",
+      "unesco_sites": ["Mountain Railways of India (Kalka-Shimla Railway)", "Great Himalayan National Park Conservation Area"],
+      "signature_experiences": ["Spiti Valley High Deserts", "Dharamshala & McLeod Ganj", "Key Monastery", "Himachali Dham Feast"]
+    },
+    {
+      "name": "Jharkhand",
+      "type": "State",
+      "capital": "Ranchi",
+      "zone": "East India",
+      "tagline": "Land of Forests, Waterfalls and Sacred Hills",
+      "unesco_sites": [],
+      "signature_experiences": ["Baidyanath Jyotirlinga Deoghar", "Hundru & Dassam Falls", "Parasnath Jain Tirth", "Netarhat Sunrises"]
+    },
+    {
+      "name": "Karnataka",
+      "type": "State",
+      "capital": "Bengaluru",
+      "zone": "South India",
+      "tagline": "One State, Many Worlds: Boulder Ruins and Hoysala Stone",
+      "unesco_sites": ["Group of Monuments at Hampi", "Group of Monuments at Pattadakal", "Sacred Ensembles of the Hoysalas", "Western Ghats"],
+      "signature_experiences": ["Hampi Boulders & Vijayanagara Palaces", "Mysore Palace Dussehra", "Belur & Halebidu Temples", "Coorg Coffee Hills"]
+    },
+    {
+      "name": "Kerala",
+      "type": "State",
+      "capital": "Thiruvananthapuram",
+      "zone": "South India",
+      "tagline": "God's Own Country: Backwaters, Spices and Tea Valleys",
+      "unesco_sites": ["Western Ghats"],
+      "signature_experiences": ["Alleppey Houseboat Backwaters", "Munnar Tea Estates", "Fort Kochi Chinese Fishing Nets", "Kerala Traditional Sadya"]
+    },
+    {
+      "name": "Madhya Pradesh",
+      "type": "State",
+      "capital": "Bhopal",
+      "zone": "Central India",
+      "tagline": "The Verdant Heart of India: Tigers, Temples and Prehistoric Art",
+      "unesco_sites": ["Khajuraho Group of Monuments", "Buddhist Monuments at Sanchi", "Rock Shelters of Bhimbetka"],
+      "signature_experiences": ["Khajuraho Chandela Sculptures", "Sanchi Stupa Great Gateway", "Kanha & Bandhavgarh Tiger Reserves", "Orchha Cenotaphs"]
+    },
+    {
+      "name": "Maharashtra",
+      "type": "State",
+      "capital": "Mumbai",
+      "zone": "West India",
+      "tagline": "Maratha Fortresses, Rock-Cut Caves and Coastal Ghats",
+      "unesco_sites": ["Ajanta Caves", "Ellora Caves", "Elephanta Caves", "Chhatrapati Shivaji Maharaj Terminus", "Victorian Gothic and Art Deco Ensembles of Mumbai", "Western Ghats"],
+      "signature_experiences": ["Ellora Kailash Temple Monolith", "Ajanta Buddhist Frescoes", "Gateway of India & South Bombay", "Vada Pav & Misal Pav"]
+    },
+    {
+      "name": "Manipur",
+      "type": "State",
+      "capital": "Imphal",
+      "zone": "Northeast India",
+      "tagline": "Jewel of India: Floating Islands and Sangai Deer",
+      "unesco_sites": ["Keibul Lamjao Floating Sanctuary (Tentative List)"],
+      "signature_experiences": ["Loktak Lake Phumdis", "Keibul Lamjao National Park", "Kangla Fort", "Yaoshang Festival"]
+    },
+    {
+      "name": "Meghalaya",
+      "type": "State",
+      "capital": "Shillong",
+      "zone": "Northeast India",
+      "tagline": "Abode of Clouds and Living Architecture",
+      "unesco_sites": ["Jingkieng Jri: Living Root Bridge Cultural Landscapes (Tentative List)"],
+      "signature_experiences": ["Nohkalikai Falls Cherrapunji", "Cherrapunji Double Decker Root Bridge", "Dawki Crystal Clear Umngot River", "Mawphlang Sacred Grove"]
+    },
+    {
+      "name": "Mizoram",
+      "type": "State",
+      "capital": "Aizawl",
+      "zone": "Northeast India",
+      "tagline": "Rolling Blue Hills and Bamboo Forest Harmonies",
+      "unesco_sites": [],
+      "signature_experiences": ["Phawngpui Blue Mountain", "Vantawng 750ft Waterfall", "Reiek Heritage Peak", "Chapchar Kut Spring Festival"]
+    },
+    {
+      "name": "Nagaland",
+      "type": "State",
+      "capital": "Kohima",
+      "zone": "Northeast India",
+      "tagline": "Land of Festivals and Brave Warrior Traditions",
+      "unesco_sites": [],
+      "signature_experiences": ["Hornbill Festival Kisama", "Dzukou Valley Lily Treks", "Khonoma Green Eco-Village", "Kohima War Memorial"]
+    },
+    {
+      "name": "Odisha",
+      "type": "State",
+      "capital": "Bhubaneswar",
+      "zone": "East India",
+      "tagline": "Soul of Incredible India: Kalinga Stone and Golden Sands",
+      "unesco_sites": ["Sun Temple, Konârak"],
+      "signature_experiences": ["Konark Sun Temple Chariot Wheels", "Puri Jagannath Rath Yatra", "Chilika Lake Irrawaddy Dolphins", "Raghurajpur Pattachitra Art"]
+    },
+    {
+      "name": "Punjab",
+      "type": "State",
+      "capital": "Chandigarh",
+      "zone": "North India",
+      "tagline": "Land of Five Rivers, Golden Sanctuaries and Valour",
+      "unesco_sites": [],
+      "signature_experiences": ["Harmandir Sahib (Golden Temple)", "Wagah Border Beating Retreat", "Jallianwala Bagh Memorial", "Amritsari Kulcha & Lassi"]
+    },
+    {
+      "name": "Rajasthan",
+      "type": "State",
+      "capital": "Jaipur",
+      "zone": "North / West India",
+      "tagline": "Land of Kings, Golden Deserts and Impregnable Forts",
+      "unesco_sites": ["Keoladeo National Park", "Jantar Mantar, Jaipur", "Hill Forts of Rajasthan (Chittorgarh, Kumbhalgarh, Ranthambore, Gagron, Amber, Jaisalmer)", "Jaipur City"],
+      "signature_experiences": ["Mehrangarh Fort Jodhpur", "Lake Pichola Udaipur", "Jaisalmer Living Fort Thar Desert", "Pushkar Camel Fair"]
+    },
+    {
+      "name": "Sikkim",
+      "type": "State",
+      "capital": "Gangtok",
+      "zone": "Northeast India",
+      "tagline": "Himalayan Sanctuary in the Shadow of Kanchenjunga",
+      "unesco_sites": ["Khangchendzonga National Park (Mixed Heritage)"],
+      "signature_experiences": ["Gurudongmar High Altitude Lake", "Rumtek Dharma Chakra Monastery", "Nathula Pass Border", "Yumthang Valley of Rhododendrons"]
+    },
+    {
+      "name": "Tamil Nadu",
+      "type": "State",
+      "capital": "Chennai",
+      "zone": "South India",
+      "tagline": "Land of Soaring Gopurams and Living Chola Dynasties",
+      "unesco_sites": ["Group of Monuments at Mahabalipuram", "Great Living Chola Temples (Thanjavur, Gangaikonda Cholapuram, Darasuram)", "Mountain Railways of India (Nilgiri Mountain Railway)", "Western Ghats"],
+      "signature_experiences": ["Meenakshi Amman Temple Madurai", "Brihadisvara Temple Thanjavur", "Mahabalipuram Shore Temple & Arjuna's Penance", "Chettinad Mansions & Spices"]
+    },
+    {
+      "name": "Telangana",
+      "type": "State",
+      "capital": "Hyderabad",
+      "zone": "South India",
+      "tagline": "Deccan Nizami Splendor and Kakatiya Engineering",
+      "unesco_sites": ["Kakatiya Rudreshwara (Ramappa) Temple"],
+      "signature_experiences": ["Charminar & Laad Bazaar", "Golconda Fort Acoustic Whispering Galleries", "Ramappa Floating Brick Temple", "Hyderabadi Dum Biryani"]
+    },
+    {
+      "name": "Tripura",
+      "type": "State",
+      "capital": "Agartala",
+      "zone": "Northeast India",
+      "tagline": "Water Palaces and Enigmatic Rock Carvings",
+      "unesco_sites": ["Unakoti Rock Carvings (Tentative List)"],
+      "signature_experiences": ["Unakoti Bas-Relief Shaivite Sculptures", "Neermahal Lake Palace", "Ujjayanta Royal Palace", "Tripura Sundari Shakti Peeth"]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "type": "State",
+      "capital": "Lucknow",
+      "zone": "North India",
+      "tagline": "Heartland of India: Sacred Ghats and Mughal Architecture",
+      "unesco_sites": ["Taj Mahal", "Agra Fort", "Fatehpur Sikri"],
+      "signature_experiences": ["Varanasi Dashashwamedh Ganga Aarti", "Taj Mahal Sunset View", "Sarnath Dhamek Stupa Deer Park", "Awadhi Dum Biryani & Kebabs"]
+    },
+    {
+      "name": "Uttarakhand",
+      "type": "State",
+      "capital": "Dehradun / Gairsain",
+      "zone": "North India",
+      "tagline": "Devbhoomi: Glacial Sources of the Sacred Rivers",
+      "unesco_sites": ["Nanda Devi and Valley of Flowers National Parks"],
+      "signature_experiences": ["Rishikesh Yoga Capital & White Water Rafting", "Valley of Flowers Alpine Meadows", "Kedarnath & Badrinath Char Dham", "Jim Corbett Tiger Safari"]
+    },
+    {
+      "name": "West Bengal",
+      "type": "State",
+      "capital": "Kolkata",
+      "zone": "East India",
+      "tagline": "City of Joy, Mangrove Tigers and Himalayan Tea Gardens",
+      "unesco_sites": ["Sundarbans National Park", "Mountain Railways of India (Darjeeling Himalayan Railway)", "Santiniketan"],
+      "signature_experiences": ["Victoria Memorial & Howrah Bridge", "Sundarbans Royal Bengal Tigers", "Darjeeling Toy Train & Tiger Hill", "Durga Puja & Kolkata Kathi Roll"]
+    },
+    {
+      "name": "Andaman and Nicobar Islands",
+      "type": "Union Territory",
+      "capital": "Port Blair",
+      "zone": "Islands",
+      "tagline": "Emerald Isles: Coral Atolls and Historic Bastions",
+      "unesco_sites": [],
+      "signature_experiences": ["Radhanagar Beach Havelock (Swaraj Dweep)", "Cellular Jail National Memorial", "Baratang Limestone Caves & Mud Volcanoes", "Mahatma Gandhi Marine Sanctuary"]
+    },
+    {
+      "name": "Chandigarh",
+      "type": "Union Territory",
+      "capital": "Chandigarh",
+      "zone": "North India",
+      "tagline": "The City Beautiful: Le Corbusier's Modernist Masterpiece",
+      "unesco_sites": ["The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (Capitol Complex)"],
+      "signature_experiences": ["Nek Chand's Rock Garden", "Sukhna Lake Promenade", "Capitol Complex Open Hand", "Zakir Hussain Rose Garden"]
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "type": "Union Territory",
+      "capital": "Daman",
+      "zone": "West India",
+      "tagline": "Portuguese Bastions, Golden Sea Cliffs and Tribal Forests",
+      "unesco_sites": [],
+      "signature_experiences": ["Diu Fort & Lighthouse", "Naida Caves Sunlit Labyrinths", "Nagoa Beach Horseshoe Bay", "Moti Daman Ramparts"]
+    },
+    {
+      "name": "Delhi",
+      "type": "Union Territory / NCT",
+      "capital": "New Delhi",
+      "zone": "North India",
+      "tagline": "Sultans, Emperors and Modern Capital of India",
+      "unesco_sites": ["Humayun's Tomb", "Qutb Minar and its Monuments", "Red Fort Complex"],
+      "signature_experiences": ["Humayun's Garden Tomb", "Qutb Minar Complex", "Chandni Chowk Old Delhi Street Food", "India Gate Promenade"]
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "type": "Union Territory",
+      "capital": "Srinagar (Summer) / Jammu (Winter)",
+      "zone": "North India",
+      "tagline": "Paradise on Earth: Alpine Meadows, Lakes and Chinar Groves",
+      "unesco_sites": ["Mughal Gardens of Kashmir (Tentative List)"],
+      "signature_experiences": ["Dal Lake Shikara & Houseboats", "Gulmarg Gondola & Apharwat Peak", "Pahalgam Betaab Valley", "Kashmiri Wazwan & Kahwa"]
+    },
+    {
+      "name": "Ladakh",
+      "type": "Union Territory",
+      "capital": "Leh",
+      "zone": "North India",
+      "tagline": "Land of High Passes: Moonscapes, Monasteries and Glacial Lakes",
+      "unesco_sites": [],
+      "signature_experiences": ["Pangong Tso Color-Changing Lake", "Thiksey & Hemis Monasteries", "Nubra Valley Double-Humped Camels", "Khardung La Pass"]
+    },
+    {
+      "name": "Lakshadweep",
+      "type": "Union Territory",
+      "capital": "Kavaratti",
+      "zone": "Islands",
+      "tagline": "One Hundred Thousand Islands: Turquoise Lagoons and Pristine Corals",
+      "unesco_sites": [],
+      "signature_experiences": ["Bangaram Island Atoll Lagoon", "Agatti Island Coral Reef Snorkeling", "Kadmat Water Sports", "Fresh Oceanic Tuna Delicacies"]
+    },
+    {
+      "name": "Puducherry",
+      "type": "Union Territory",
+      "capital": "Puducherry",
+      "zone": "South India",
+      "tagline": "The French Riviera of the East: Yellow Mansions and Spiritual Peace",
+      "unesco_sites": [],
+      "signature_experiences": ["White Town French Quarter Bougainvillea Mansions", "Auroville Matrimandir", "Sri Aurobindo Ashram", "Promenade Beach Rock Beach"]
+    }
+  ]
+}

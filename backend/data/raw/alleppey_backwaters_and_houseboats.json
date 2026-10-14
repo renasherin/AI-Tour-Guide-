@@ -1,0 +1,24 @@
+{
+  "id": "alleppey_backwaters_and_houseboats",
+  "place": "Alleppey Backwaters and Houseboats",
+  "state": "Kerala",
+  "city": "Alappuzha",
+  "category": [
+    "backwaters",
+    "nature"
+  ],
+  "wikipedia_title": "Alappuzha",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alappuzha",
+  "wikidata_id": "Q585026",
+  "lat": null,
+  "lon": null,
+  "text": "Alappuzha (Malayalam: [aːlɐpːuɻɐ] ) or Alleppey is a city and municipality on the Laccadive Sea in the southern Indian state of Kerala. It is the headquarters of Alappuzha district, located about 62 km (39 mi) south of the commercial city of Kochi and 152 km (94.4 mi) northwest of the state capital Thiruvananthapuram. As per the 2011 Indian census, Alappuzha has a population of 240,991 people, and a population density of 3,675/km2 (9,520/sq mi).\nAlappuzha dates back to the Sangam era, and was mentioned by Pliny the Elder as far back as the 1st century AD as Baraces. Later in the 16th and 17th centuries, the town flourished as an important hub for trading spices with various European powers including the Dutch and the Portuguese. Under the rule of Raja Kesavadas, a port was constructed and canals for transport were laid throughout the city, and the town experienced rapid development. However, by the late 18th century, the region had come under British rule and experienced a decline in its status as a centre for commerce and culture.\nToday, Alappuzha is a prominent tourist destination in Kerala. The town is famous for its waterways and backwaters. It's known as the Tarshish land of Kerala It plays a role as one of the primary access points for the annual Nehru Trophy Boat Race during the festival of Onam. Alappuzha is also a hub for coir manufacturing, and has a thriving coir industry.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Alappuzha",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Alleppey+Backwaters+and+Houseboats%2C+Alappuzha%2C+Kerala%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Alleppey+Backwaters+and+Houseboats%2C+Alappuzha%2C+Kerala%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alappuzha_Boat_Beauty_W.jpg/1280px-Alappuzha_Boat_Beauty_W.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sultanpur_national_park_bird_sanctuary",
+  "place": "Sultanpur National Park Bird Sanctuary",
+  "state": "Haryana",
+  "city": "Gurugram",
+  "category": [
+    "national parks and wildlife",
+    "nature",
+    "wildlife"
+  ],
+  "wikipedia_title": "Sultanpur_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sultanpur_National_Park",
+  "wikidata_id": "Q2985097",
+  "lat": 28.4623,
+  "lon": 76.8899,
+  "text": "Sultanpur National Park is a national park in Haryana, India, covering approximately 1.43 km2 (0.55 sq mi).\n\n--- Practical Travel Context (Wikivoyage) ---\nGurugram (Hindi: गुरुग्राम Gurugrām) or Gurgaon (गुड़गांव Guṛgā̃v), a satellite city in South Haryana, is a major IT and shopping hub of Delhi. Once a mere commuter town, Gurugram now boasts slick office complexes housing companies from Accenture to Xerox, with more shopping malls per square mile than anywhere else in India. However, the city is also one of the victims of Delhi's unprecedented urban sprawl, with poor infrastructure, traffic jams as well as the winter smog.\nDespite this, Gurugram often competes with the tech giants like Pune, Hyderabad, or even the IT capital Bengaluru, providing an exhilarating glimpse into the future India. Many Delhiites call it their home.\n\n",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Sultanpur_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.4623,76.8899",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.4623,76.8899",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sultanpur_Bird_Sanctuary%2C_Gurgaon.jpg/1280px-Sultanpur_Bird_Sanctuary%2C_Gurgaon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

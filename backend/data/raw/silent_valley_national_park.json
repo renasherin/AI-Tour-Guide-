@@ -1,0 +1,24 @@
+{
+  "id": "silent_valley_national_park",
+  "place": "Silent Valley National Park",
+  "state": "Kerala",
+  "city": "Palakkad",
+  "category": [
+    "national parks and wildlife",
+    "nature"
+  ],
+  "wikipedia_title": "Silent_Valley_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Silent_Valley_National_Park",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Silent Valley National Park is a celebrated destination in Palakkad, Kerala, renowned for its national parks and wildlife, nature. Located in the historic and scenic region of Kerala, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Kerala. The best time to plan a visit is generally October to March (mild winter season avoiding summer humidity). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/SAN_BIRDS_48.jpg/1280px-SAN_BIRDS_48.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

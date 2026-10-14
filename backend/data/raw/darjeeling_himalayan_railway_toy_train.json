@@ -1,0 +1,26 @@
+{
+  "id": "darjeeling_himalayan_railway_toy_train",
+  "place": "Darjeeling Himalayan Railway Toy Train",
+  "state": "West Bengal",
+  "city": "Darjeeling",
+  "category": [
+    "heritage",
+    "unesco",
+    "trains",
+    "hill stations"
+  ],
+  "wikipedia_title": "Darjeeling_Himalayan_Railway",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Darjeeling_Himalayan_Railway",
+  "wikidata_id": "Q463874",
+  "lat": 26.68388889,
+  "lon": 88.44388889,
+  "text": "The Darjeeling Himalayan Railway, also known as the DHR, is a 610 mm (2 ft) gauge railway that runs between New Jalpaiguri and Darjeeling in the Indian state of West Bengal. Built between 1879 and 1881, it is about 88 km (55 mi) long. It climbs from about 100 m (330 ft) above sea level at New Jalpaiguri to about 2,200 m (7,200 ft) at Darjeeling, using six zig zags and three loops (originally five) to gain altitude. Ghum station is situated at an altitude of 2,260 metres (7,410 ft). Six diesel locomotives handle most of the scheduled service, with daily tourist trains from Darjeeling to Ghum – India's highest railway station – and the steam-hauled Red Panda service from Darjeeling to Kurseong. Steam-enthusiast specials are hauled by vintage British-built B-Class steam locomotives. The railway's headquarters are at Kurseong.\nOn 5 December 1999, UNESCO declared the DHR a World Heritage Site. Two more railway lines were later added, and the site became known as one of the mountain railways of India.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Darjeeling_Himalayan_Railway",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.68388889,88.44388889",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=26.68388889,88.44388889",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ministry_of_Railways_India.svg/1280px-Ministry_of_Railways_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

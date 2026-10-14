@@ -1,0 +1,25 @@
+{
+  "id": "pitti_island_bird_sanctuary_pakshipitti",
+  "place": "Pitti Island Bird Sanctuary (Pakshipitti)",
+  "state": "Lakshadweep",
+  "city": "Pitti",
+  "category": [
+    "wildlife",
+    "nature",
+    "national parks and wildlife"
+  ],
+  "wikipedia_title": "Pitti",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pitti",
+  "wikidata_id": "Q7199115",
+  "lat": 10.77527778,
+  "lon": 72.53416667,
+  "text": "Pitti, also known as Pakshipitti (pakshi meaning \"bird\" in Malayalam, Kannada, Telugu and Tamil), is an uninhabited coral islet in the Union Territory of Lakshadweep, India.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pitti",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10.77527778,72.53416667",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=10.77527778,72.53416667",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/A_beach_at_Kavaratti%2C_Lakshadweep.jpg/1280px-A_beach_at_Kavaratti%2C_Lakshadweep.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+}

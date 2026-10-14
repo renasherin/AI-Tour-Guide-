@@ -1,0 +1,25 @@
+{
+  "id": "gangaikonda_cholapuram_temple",
+  "place": "Gangaikonda Cholapuram Temple",
+  "state": "Tamil Nadu",
+  "city": "Ariyalur",
+  "category": [
+    "heritage",
+    "unesco",
+    "temples"
+  ],
+  "wikipedia_title": "Gangaikonda_Cholapuram",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gangaikonda_Cholapuram",
+  "wikidata_id": "Q1493439",
+  "lat": 11.20644444,
+  "lon": 79.44833333,
+  "text": "Gaṅgaikoṇḍa Chōḻapuram is a village located near Jayankondam in Ariyalur district of Tamil Nadu, India. The Chola emperor Rajendra I established it as the capital of the Chola dynasty in c. 1025, and it remained the capital for approximately 250 years.\nThe village is situated approximately 125 kilometres (78 mi) northeast of Tiruchirapalli International Airport. The ancient site is designated as a heritage town within the Ariyalur district. The Gangaikonda Cholapuram Temple is second in scale only to the Brihadisvara Temple (Peruvudaiyar Kovil) in Thanjavur, while featuring distinct architectural and sculptural details. It is designated as a UNESCO World Heritage Site.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Gangaikonda_Cholapuram",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.20644444,79.44833333",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.20644444,79.44833333",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/GangaiKonda_Cholapuram%28Front_View%29.JPG/1280px-GangaiKonda_Cholapuram%28Front_View%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

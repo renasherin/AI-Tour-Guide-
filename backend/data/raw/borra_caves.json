@@ -1,0 +1,24 @@
+{
+  "id": "borra_caves",
+  "place": "Borra Caves",
+  "state": "Andhra Pradesh",
+  "city": "Visakhapatnam",
+  "category": [
+    "nature",
+    "caves"
+  ],
+  "wikipedia_title": "Borra_Caves",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Borra_Caves",
+  "wikidata_id": "Q4946548",
+  "lat": 18.16666667,
+  "lon": 83,
+  "text": "Borra Caves (Telugu: Borrā Guhalu) are a limestone cave system in Ananthagiri hills of the Araku Valley in Alluri Sitharama Raju district, Andhra Pradesh. They feature extensive karst formations, including stalactites, stalagmites, and other speleothems.\n\"Borra\" means \"hole\" in Telugu language.\n\n--- Practical Travel Context (Wikivoyage) ---\nVisakhapatnam (Telugu: విశాఖపట్నం Vishākhapaṭnam), popularly known as Vizag (vigh-ZAG), is the largest city in Andhra Pradesh. It is primarily an industrial city, but also attracts tourists due to its unspoilt sandy beaches, well built and maintained parks, Buddhist sites and nearby scenic areas, such as Araku Valley. The city has a population of about 2 million.\n\n",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Borra_Caves",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18.16666667,83",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=18.16666667,83",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Borra_caves%2C_Viskhapatnam.jpg/1280px-Borra_caves%2C_Viskhapatnam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

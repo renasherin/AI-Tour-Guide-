@@ -1,0 +1,24 @@
+{
+  "id": "anjuna_beach_and_flea_market",
+  "place": "Anjuna Beach and Flea Market",
+  "state": "Goa",
+  "city": "Anjuna",
+  "category": [
+    "beaches",
+    "markets"
+  ],
+  "wikipedia_title": "Anjuna",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anjuna",
+  "wikidata_id": "Q4765908",
+  "lat": 15.5833,
+  "lon": 73.7333,
+  "text": "Anjuna (, an-JOO-nə; Konkani pronunciation: [ɦɔɳzuɳẽ]) is a census town located on the coast of North Goa, India. It is one of the twelve comunidades of Bardez. It is widely known as one of Goa's tourist destinations.\nIts church, St. Michael's Church, Anjuna, founded in 1595, is dedicated to Saint Michael, and celebrates the feasts of Saint Michael (29 September) and Nossa Senhora Advogada (second week of January). There are three large chapels in the parish: the one to St. Antonio in Praias, to Nossa Senhora de Saude (Mazalvaddo), and to Nossa Senhora de Piedade (Grande Chinvar). The chapel at Vagator became the church of the new parish of Vagator, dedicated to St. Antonio, in the twentieth century.",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Anjuna",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15.5833,73.7333",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=15.5833,73.7333",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Anjuna_Beach%2C_Goa%2C_India%2C_Legendary_Curlies_beach_shack.jpg/1280px-Anjuna_Beach%2C_Goa%2C_India%2C_Legendary_Curlies_beach_shack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

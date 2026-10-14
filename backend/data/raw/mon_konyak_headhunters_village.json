@@ -1,0 +1,25 @@
+{
+  "id": "mon_konyak_headhunters_village",
+  "place": "Mon Konyak Headhunters Village",
+  "state": "Nagaland",
+  "city": "Mon",
+  "category": [
+    "heritage",
+    "culture",
+    "tribal traditions"
+  ],
+  "wikipedia_title": "Mon,_Nagaland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mon,_Nagaland",
+  "wikidata_id": "Q3860362",
+  "lat": 26.75,
+  "lon": 95.1,
+  "text": "Mon () is a town located in the Mon District of the Indian state of Nagaland.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Mon,_Nagaland",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.75,95.1",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=26.75,95.1",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/A_headhunter_in_longwa_village%2C_nagaland.jpg/1280px-A_headhunter_in_longwa_village%2C_nagaland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+}

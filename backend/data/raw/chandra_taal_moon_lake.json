@@ -1,0 +1,24 @@
+{
+  "id": "chandra_taal_moon_lake",
+  "place": "Chandra Taal Moon Lake",
+  "state": "Himachal Pradesh",
+  "city": "Spiti",
+  "category": [
+    "nature",
+    "lakes"
+  ],
+  "wikipedia_title": "Chandra_Taal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chandra_Taal",
+  "wikidata_id": "Q5071315",
+  "lat": 32.47518,
+  "lon": 77.61706,
+  "text": "Chandra Taal (lit. 'moon lake') is a lake in the upper Chandra valley of the Lahul and Spiti district of Himachal Pradesh, India. Chandra Taal is near the source of the Chandra River. Despite the rugged and inhospitable surroundings, it is in a protected niche with some flowers and wildlife in summer. It is a favourite spot for tourists and high-altitude trekkers. It is usually associated with Spiti, although geographically it lies in the watershed of the Chandra River of Lahaul. Kunzum La separates Lahaul and Spiti valleys. It's surrounded by the Chandratal Wildlife Sanctuary.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chandra_Taal",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.47518,77.61706",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=32.47518,77.61706",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Chandratal_1.JPG/1280px-Chandratal_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

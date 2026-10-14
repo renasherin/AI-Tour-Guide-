@@ -1,0 +1,24 @@
+{
+  "id": "kanger_ghati_national_park",
+  "place": "Kanger Ghati National Park",
+  "state": "Chhattisgarh",
+  "city": "Bastar",
+  "category": [
+    "national parks and wildlife",
+    "nature"
+  ],
+  "wikipedia_title": "Kanger_Ghati_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kanger_Ghati_National_Park",
+  "wikidata_id": "Q1723746",
+  "lat": 18.76666667,
+  "lon": 81.98333333,
+  "text": "Kanger Valley National Park (also known as Kanger Ghati National Park) is a national park in the Bastar region of Chhattisgarh state in India. It came into existence in July 1982 and covers an area of approximately 200 square kilometres (77 sq mi). The park extends from the Teerathagarh waterfalls in the west to the Kolab river (Odisha state boundary) in the east, spanning an average length of 33.5 km (20.8 mi) and an average width of 6 km (3.7 mi) from north to south. It derives its name from the Kanger river, which flows centrally through it. Situated at a distance of 30 km (19 mi) southeast of Jagdalpur city, it is one of India's densest national parks and is known for its biodiversity, landscape, waterfalls, and subterranean geomorphologic limestone caves. It is also the home to the Bastar hill myna, the state bird of Chhattisgarh. In 2025, the national park was included to the tentative list of UNESCO.\nThe park is noted for its highly heterogeneous land formations, from low, flat areas to steep slopes, plateaus, valleys, and stream courses. Its vast, undulating terrain harbours habitats for diverse flora and fauna. It has a significant tribal population, and is a popular destination for hikers, wildlife enthusiasts and researchers.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kanger_Ghati_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18.76666667,81.98333333",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=18.76666667,81.98333333",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Kanger_valley_National_Park.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tamdil_lake",
+  "place": "Tamdil Lake",
+  "state": "Mizoram",
+  "city": "Saitual",
+  "category": [
+    "nature",
+    "lakes"
+  ],
+  "wikipedia_title": "Tam_Dil",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tam_Dil",
+  "wikidata_id": "Q7375552",
+  "lat": null,
+  "lon": null,
+  "text": "Ṭam Dil is a reservoir lake situated 6 km from Saitual, the nearest town, and 110 km from Aizawl, the capital city of Mizoram, India. Acquired by the Fisheries Department of the Government of Mizoram, it is maintained as a fish rearing site. Also as a tourist attraction, a holiday resort is maintained by the Tourism Department.\nThe natural lake has attracted biodiversity researchers and contains several unique and rare species, particularly of amphibians and snakes. A unique frog, Leptobrachella tamdil was discovered in 2010. A novel species of snake, Smithophis mizoramensis was reported in 2024.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Tam_Dil",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tamdil+Lake%2C+Saitual%2C+Mizoram%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Tamdil+Lake%2C+Saitual%2C+Mizoram%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Tam_Dil_Lake_in_Saitual.jpg/1280px-Tam_Dil_Lake_in_Saitual.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ziro_valley",
+  "place": "Ziro Valley",
+  "state": "Arunachal Pradesh",
+  "city": "Ziro",
+  "category": [
+    "nature",
+    "heritage",
+    "hill stations"
+  ],
+  "wikipedia_title": "Ziro",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ziro",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Ziro Valley is a celebrated destination in Ziro, Arunachal Pradesh, renowned for its nature, heritage, hill stations. Located in the historic and scenic region of Arunachal Pradesh, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Arunachal Pradesh. The best time to plan a visit is generally March to June (pleasant summer flowers) and September to November (crisp autumn views). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/A_cross_section_of_luch_green_valley_of_Ziro.jpg/1280px-A_cross_section_of_luch_green_valley_of_Ziro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

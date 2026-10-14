@@ -1,0 +1,25 @@
+{
+  "id": "dhanushkodi_ghost_town_ram_setu",
+  "place": "Dhanushkodi Ghost Town & Ram Setu",
+  "state": "Tamil Nadu",
+  "city": "Rameswaram",
+  "category": [
+    "beach",
+    "nature",
+    "heritage"
+  ],
+  "wikipedia_title": "Dhanushkodi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dhanushkodi",
+  "wikidata_id": "Q655169",
+  "lat": 9.1764,
+  "lon": 79.4144,
+  "text": "Dhanushkodi is an atmospheric ghost town at the southeastern tip of Pamban Island in Tamil Nadu, merely 18 miles across the Palk Strait from Sri Lanka. Submerged and decimated by the powerful 1964 cyclone, the haunting skeleton ruins of its railway terminal, colonial church, and customs station stand half-submerged in glittering white coral sand dunes where the tranquil waters of the Bay of Bengal meet the roaring surf of the Indian Ocean. Dhanushkodi marks the sacred terminus where Lord Rama is believed to have marked the starting point of Ram Setu (Adam's Bridge) with the tip of his bow.",
+  "best_time": "October to March (gentle coastal winds, stark ocean vistas, migratory flamingo flocks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Dhanushkodi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9.1764,79.4144",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=9.1764,79.4144",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Final_Dhanush_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

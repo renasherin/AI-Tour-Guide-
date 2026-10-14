@@ -1,0 +1,25 @@
+{
+  "id": "shaniwar_wada_palace_fort",
+  "place": "Shaniwar Wada Palace Fort",
+  "state": "Maharashtra",
+  "city": "Pune",
+  "category": [
+    "forts",
+    "palaces",
+    "heritage"
+  ],
+  "wikipedia_title": "Shaniwar_Wada",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shaniwar_Wada",
+  "wikidata_id": "Q1351060",
+  "lat": 18.519075,
+  "lon": 73.85545,
+  "text": "Shaniwar Wada is a historical fortification in the city of Pune, India. Built in 1732, it was the seat of the Peshwas of the Maratha Confederacy until 1818. The fort itself was largely destroyed in 1828 by an unexplained fire, but the surviving structures are now maintained as a tourist site.\n\n--- Practical Travel Context (Wikivoyage) ---\nPune (Marathi: पुणे Puṇe), formerly Poona, is the second-largest city in the Indian state of Maharashtra. Often considered as the cultural capital of Maharashtra, Pune is known for its educational tourism and has a blend of cultural, business, health, and cuisine tourism background. The city also houses fantastic restaurants, good museums, and hill forts which offer panoramic views.\nWith an estimated population of 6.8 million (2025), Pune's large young cohort makes for a lively nightlife and vibrant atmosphere, and the city competes with Bengaluru and Hyderabad for the crown of India's IT capital.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Shaniwar_Wada",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18.519075,73.85545",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=18.519075,73.85545",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Front_view_of_Shaniwar_Wada_illuminated.jpg/1280px-Front_view_of_Shaniwar_Wada_illuminated.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gandikota_grand_canyon_of_india",
+  "place": "Gandikota Grand Canyon of India",
+  "state": "Andhra Pradesh",
+  "city": "Kadapa",
+  "category": [
+    "forts",
+    "nature",
+    "heritage"
+  ],
+  "wikipedia_title": "Gandikota",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gandikota",
+  "wikidata_id": "Q3764632",
+  "lat": 14.81472222,
+  "lon": 78.28666667,
+  "text": "Gandikota is a village and historical fort on the right bank of the Penna river, 15 km from Jammalamadugu in Kadapa district, Andhra Pradesh, India. The fort was the centre of power for various dynasties, such as the Kalyani Chalukyas, Pemmasani Nayakas, and the Golconda Sultanate. Initially, a sand fort was constructed by Kaka Raja, a vassal of the Kalyani Chalukya rulers. The village transformed into a major fortified settlement with the rise of the Pemmasani Nayakas. Later, various additions reflecting Islamic architectural styles were made during the period of Muslim rule. The fort is a centrally protected monument of Archaeological Survey of India (ASI).",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Gandikota",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=14.81472222,78.28666667",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=14.81472222,78.28666667",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Indian_Grand_Canyon_Sudhakar_Bichali.jpg/1280px-Indian_Grand_Canyon_Sudhakar_Bichali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

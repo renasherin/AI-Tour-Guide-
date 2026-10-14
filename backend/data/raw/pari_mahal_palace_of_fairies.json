@@ -1,0 +1,25 @@
+{
+  "id": "pari_mahal_palace_of_fairies",
+  "place": "Pari Mahal (Palace of Fairies)",
+  "state": "Jammu and Kashmir",
+  "city": "Srinagar",
+  "category": [
+    "palaces",
+    "gardens",
+    "heritage"
+  ],
+  "wikipedia_title": "Pari_Mahal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pari_Mahal",
+  "wikidata_id": "Q7136985",
+  "lat": null,
+  "lon": null,
+  "text": "Pari Mahal (lit. 'palace of fairies') is a seven-terraced Mughal garden built on the top of the Zabarwan mountain range. It overlooks the city of Srinagar and the south-west of Dal Lake in the Indian union territory of Jammu and Kashmir. This garden is a fine example of Islamic architecture and patronage of art during the reign of the then Mughal Emperor Shah Jahan, featuring arched doorways, terraced gardens, and intricate water channels. The garden is a popular tourist destination and also provides a view of Dal Lake and the city below.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pari_Mahal",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pari+Mahal+%28Palace+of+Fairies%29%2C+Srinagar%2C+Jammu+and+Kashmir%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Pari+Mahal+%28Palace+of+Fairies%29%2C+Srinagar%2C+Jammu+and+Kashmir%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/A_view_of_Pari_Mahal_Jammu_and_Kashmir_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jim_corbett_national_park_oldest_tiger_reserve",
+  "place": "Jim Corbett National Park Oldest Tiger Reserve",
+  "state": "Uttarakhand",
+  "city": "Nainital",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Jim_Corbett_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Corbett_National_Park",
+  "wikidata_id": "Q949297",
+  "lat": 29.54861111,
+  "lon": 78.93527778,
+  "text": "Jim Corbett National Park is a national park in the Nainital district of the state of Uttarakhand, India. It was established in 1936 as the country's first national park and is named in honour of Jim Corbett, who had played a leading role in its establishment. It was the first to come under the Project Tiger initiative and encompasses an area of 520.8 km2 (201.1 sq mi) consisting of hills, riverine belts, marshy depressions, grasslands and a large lake at an elevation range of 400–1,220 m (1,300–4,000 ft). It receives rainfall from July to September. Almost 73% of the national park is covered by dense moist deciduous forest dominated by Shorea robusta, peepal, rohini and mango trees among 110 tree species and 617 different plant species. Grasslands cover about 10% of its total area. It harbours 50 mammal species, 580 bird species and 25 reptile species. The increase in tourist activities continues to present a serious challenge to the park's ecological balance.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jim_Corbett_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=29.54861111,78.93527778",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=29.54861111,78.93527778",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

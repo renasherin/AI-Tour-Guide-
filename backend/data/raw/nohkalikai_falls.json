@@ -1,0 +1,24 @@
+{
+  "id": "nohkalikai_falls",
+  "place": "Nohkalikai Falls",
+  "state": "Meghalaya",
+  "city": "Sohra",
+  "category": [
+    "nature",
+    "waterfalls"
+  ],
+  "wikipedia_title": "Nohkalikai_Falls",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nohkalikai_Falls",
+  "wikidata_id": "Q3631209",
+  "lat": 25.27555556,
+  "lon": 91.68666667,
+  "text": "Nohkalikai Falls, sometimes Ka Likai, is the tallest plunge waterfall in India. The 340 metres (1,115 ft) waterfall is located in the Indian state of Meghalaya, near Cherapunji (now known as Sohra), one of the wettest places on Earth. Nohkalikai Falls are fed by the rainwater collected on the summit of a comparatively small plateau and decrease in power during the dry season, from December to February. Below the falls is a plunge pool with water of an unusual shade of green.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Nohkalikai_Falls",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.27555556,91.68666667",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.27555556,91.68666667",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/NohKaLikai_Falls_V2_Wiki.jpg/1280px-NohKaLikai_Falls_V2_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

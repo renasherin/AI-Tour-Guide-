@@ -1,0 +1,25 @@
+{
+  "id": "jama_masjid_delhi",
+  "place": "Jama Masjid Delhi",
+  "state": "Delhi",
+  "city": "Old Delhi",
+  "category": [
+    "heritage",
+    "mosques",
+    "architecture"
+  ],
+  "wikipedia_title": "Jama_Masjid,_Delhi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jama_Masjid,_Delhi",
+  "wikidata_id": "Q233678",
+  "lat": 28.6507,
+  "lon": 77.2334,
+  "text": "The Masjid-i-Jehan-Numa, commonly known as the Jama Masjid, in Old Delhi area of Delhi, is one of the largest mosques in India. Its builder was the Mughal emperor Shah Jahan, between 1644 and 1656, and it was inaugurated by its first Imam, Syed Abdul Ghafoor Shah Bukhari. Situated in the Mughal capital of Shahjahanabad (today Old Delhi), it served as the imperial mosque of the Mughal emperors until the demise of the empire in 1857. The Jama Masjid was regarded as a symbolic gesture of Mughal power across India. It was also a site of political significance during several key periods of British rule. It remains in active use, and is one of Delhi's most iconic sites, closely identified with the methods of Old Delhi. The mosque structure is a Monument of National Importance.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jama_Masjid,_Delhi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.6507,77.2334",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.6507,77.2334",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Jama_Masjid_-_In_the_Noon.jpg/1280px-Jama_Masjid_-_In_the_Noon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

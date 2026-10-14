@@ -1,0 +1,25 @@
+{
+  "id": "sindhudurg_sea_fort",
+  "place": "Sindhudurg Sea Fort",
+  "state": "Maharashtra",
+  "city": "Malvan",
+  "category": [
+    "forts",
+    "beaches",
+    "heritage"
+  ],
+  "wikipedia_title": "Sindhudurg_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort",
+  "wikidata_id": "Q13413791",
+  "lat": null,
+  "lon": null,
+  "text": "Sindhudurg Fort (Marathi pronunciation: [sin̪d̪ʱud̪uɾɡ]) is a historical sea fort located in Arabian Sea near the Konkan region of Maharashtra in Western India. The fort, commissioned by Chhatrapati Shivaji, was constructed between 1664 and 1667. The fort lies off the shore of Malvan taluka of the Sindhudurg District in the Konkan region of Maharashtra, 450 kilometres (280 mi) south of Mumbai. It is a protected monument under the Archaeological Survey of India.\n\n--- Practical Travel Context (Wikivoyage) ---\nMalvan is a fishing port town of 19,000 people (2011) in the Konkan region of Maharashtra. Malvan has a very nice sea-shore. But it is mainly known for famous Sindhudurg fort. Maratha king Shri Shivaji Maharaj built this fort on island of Kurte.",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sindhudurg+Sea+Fort%2C+Malvan%2C+Maharashtra%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Sindhudurg+Sea+Fort%2C+Malvan%2C+Maharashtra%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sindhudurg_fort.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

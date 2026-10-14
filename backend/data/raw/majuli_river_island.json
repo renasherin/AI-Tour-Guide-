@@ -1,0 +1,25 @@
+{
+  "id": "majuli_river_island",
+  "place": "Majuli River Island",
+  "state": "Assam",
+  "city": "Majuli",
+  "category": [
+    "nature",
+    "heritage",
+    "culture"
+  ],
+  "wikipedia_title": "Majuli",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Majuli",
+  "wikidata_id": "Q277552",
+  "lat": 27,
+  "lon": 94.21666667,
+  "text": "Majuli (also spelled Majoli) is the largest river island in Assam, a state in Northeast India. It is bordered by the Brahmaputra River to the south and east, the Subansiri River to the west, and an anabranch of the Brahmaputra to the north.\nThe island is inhabited by members of the Mising, Deori, and Sonowal Kachari tribes, and serves as a hub of Assamese neo-Vaishnavite culture. It is accessible by ferry or boat from Jorhat, which is located approximately 250 kilometers northeast of Guwahati.\nMajuli became the first island in India to be designated as a district in 2016. Majuli has been listed on the UNESCO Tentative List since March 2004, classified under the Cultural category as part of its World Heritage nomination process.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Majuli",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=27,94.21666667",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=27,94.21666667",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Doriya_River_of_Majuli.jpg/1280px-Doriya_River_of_Majuli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

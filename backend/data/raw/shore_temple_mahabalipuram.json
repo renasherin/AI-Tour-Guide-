@@ -1,0 +1,26 @@
+{
+  "id": "shore_temple_mahabalipuram",
+  "place": "Shore Temple Mahabalipuram",
+  "state": "Tamil Nadu",
+  "city": "Mamallapuram",
+  "category": [
+    "heritage",
+    "unesco",
+    "temples",
+    "seaside"
+  ],
+  "wikipedia_title": "Shore_Temple",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shore_Temple",
+  "wikidata_id": "Q1144279",
+  "lat": null,
+  "lon": null,
+  "text": "The Shore Temple (c. 725 AD) is a complex of temples and shrines that overlooks the shore of the Bay of Bengal. It is located in Mahabalipuram, about 60 kilometres (37 mi) south of Chennai in Tamil Nadu, India.\nIt is a structural temple, built with blocks of granite, dating from the 8th century AD. At the time of its creation, the site was a busy port during the reign of Narasimhavarman II of the Indian Pallava dynasty. As one of the Group of Monuments at Mahabalipuram, it has been classified as a UNESCO World Heritage Site since 1984. It is one of the oldest structural (versus rock-cut) stone temples of Southern India.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Shore_Temple",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shore+Temple+Mahabalipuram%2C+Mamallapuram%2C+Tamil+Nadu%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Shore+Temple+Mahabalipuram%2C+Mamallapuram%2C+Tamil+Nadu%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg/1280px-Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

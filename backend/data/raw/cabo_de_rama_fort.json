@@ -1,0 +1,25 @@
+{
+  "id": "cabo_de_rama_fort",
+  "place": "Cabo de Rama Fort",
+  "state": "Goa",
+  "city": "Canacona",
+  "category": [
+    "forts",
+    "viewpoints",
+    "beaches"
+  ],
+  "wikipedia_title": "Cabo_de_Rama",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cabo_de_Rama",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Cabo de Rama Fort is a celebrated destination in Canacona, Goa, renowned for its forts, viewpoints, beaches. Located in the historic and scenic region of Goa, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Goa. The best time to plan a visit is generally November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Cabo_de_Rama_Entrance.jpg/1280px-Cabo_de_Rama_Entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

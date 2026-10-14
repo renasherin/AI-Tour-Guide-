@@ -1,0 +1,24 @@
+{
+  "id": "pin_valley_national_park",
+  "place": "Pin Valley National Park",
+  "state": "Himachal Pradesh",
+  "city": "Spiti",
+  "category": [
+    "national parks and wildlife",
+    "nature"
+  ],
+  "wikipedia_title": "Pin_Valley_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pin_Valley_National_Park",
+  "wikidata_id": "Q14229383",
+  "lat": 32,
+  "lon": 77.88,
+  "text": "Pin Valley National Park is a National park of India located in the Spiti Valley of Lahaul and Spiti district and Bhaba Valley of Kinnaur district, in the state of Himachal Pradesh.  It is located in far northern India. It is part of Cold Desert (biosphere reserve).\n\n--- Practical Travel Context (Wikivoyage) ---\nEastern Himachal Pradesh is a region in Himachal Pradesh, consisting of Kinnaur and Lahaul & Spiti districts. There are several valleys in the region, among which Lahaul tends to be a bit more green and fertile, while Spiti is mostly stark high desert.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pin_Valley_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32,77.88",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=32,77.88",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Morning_scene_in_Thuskeo_Dhar.jpg/1280px-Morning_scene_in_Thuskeo_Dhar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

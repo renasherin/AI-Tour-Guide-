@@ -1,0 +1,25 @@
+{
+  "id": "barabar_caves",
+  "place": "Barabar Caves",
+  "state": "Bihar",
+  "city": "Jehanabad",
+  "category": [
+    "heritage",
+    "caves",
+    "monuments"
+  ],
+  "wikipedia_title": "Barabar_Caves",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Barabar_Caves",
+  "wikidata_id": "Q1311736",
+  "lat": 25.005,
+  "lon": 85.063,
+  "text": "The Barabar Hill Caves are the oldest surviving rock-cut caves in India, dating from the Maurya Empire (322–185 BCE), some with Ashokan inscriptions, located in the Makhdumpur region of Jehanabad district, Bihar, India, 24 km (15 mi) north of Gaya.\nThese caves are situated in the twin hills of Barabar (four caves) and Nagarjuni (three caves); caves of the 1.6 km (0.99 mi)-distant Nagarjuni Hill are sometimes singled out as the Nagarjuni Caves. These rock-cut chambers bear dedicatory inscriptions in the name of \"King Piyadasi\" for the Barabar group, and \"Devanampiya Dasaratha\" for the Nagarjuni group, thought to date back to the 3rd century BCE during the Maurya period, and to correspond respectively to Ashoka (reigned 273–232 BCE) and his grandson, Dasharatha Maurya.\nThe sculptured surround to the entrance to the Lomas Rishi Cave is the earliest survival of the ogee shaped \"chaitya arch\" or chandrashala that was to be an important feature of Indian rock-cut architecture and sculptural decoration for centuries. The form was a reproduction in stone of buildings in wood and other plant materials.\nThe caves were used by ascetics from the Ajivika sect, founded by Makkhali Gosala, a contemporary of Gautama Buddha, the founder of Buddhism, and of Mahavira, the last and 24th Tirthankara of Jainism. The Ajivikas had many similarities with Buddhism as well as Jainism. Also present at the site are several rock-cut Buddhist and Hindu sculptures and inscriptions from later periods.\nMost caves at Barabar consist of two chambers, carved entirely out of granite, with a highly polished internal surface, the \"Mauryan polish\" also found on sculptures, and exciting echo effects.\nThe caves were featured – located in a fictitious Marabar – in the book A Passage to India by English author E. M. Forster.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Barabar_Caves",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.005,85.063",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.005,85.063",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/1280px-Lomas_Rishi_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

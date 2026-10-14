@@ -1,0 +1,25 @@
+{
+  "id": "victorian_and_art_deco_ensemble_of_mumbai",
+  "place": "Victorian and Art Deco Ensemble of Mumbai",
+  "state": "Maharashtra",
+  "city": "Mumbai",
+  "category": [
+    "heritage",
+    "unesco",
+    "architecture"
+  ],
+  "wikipedia_title": "The_Victorian_and_Art_Deco_Ensemble_of_Mumbai",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Victorian_and_Art_Deco_Ensemble_of_Mumbai",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Victorian and Art Deco Ensemble of Mumbai is a celebrated destination in Mumbai, Maharashtra, renowned for its heritage, unesco, architecture. Located in the historic and scenic region of Maharashtra, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Maharashtra. The best time to plan a visit is generally October to March (mild winter season avoiding summer humidity). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mumbai_03-2016_41_Bombay_High_Court.jpg/1280px-Mumbai_03-2016_41_Bombay_High_Court.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pemayangtse_monastery",
+  "place": "Pemayangtse Monastery",
+  "state": "Sikkim",
+  "city": "Pelling",
+  "category": [
+    "temples",
+    "pilgrimage sites",
+    "heritage"
+  ],
+  "wikipedia_title": "Pemayangtse_Monastery",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pemayangtse_Monastery",
+  "wikidata_id": "Q7161856",
+  "lat": null,
+  "lon": null,
+  "text": "The Pemayangtse Monastery is a Buddhist monastery in Pemayangtse, near Gyalshing city in Gyalshing district in the northeastern Indian state of Sikkim, located 6 km from Gyalshing city, the district headquarters, 110 km west of Gangtok. Planned, designed and founded by Lama Lhatsun Chempo in 1647, it is one of the oldest and premier monasteries of Sikkim, also the most famous in Sikkim. Originally started as a small Lhakhang, it was subsequently enlarged during the reign of the third Chogyal Chakdor Namgyal and Khenchen Rolpai Dorjee in the year 1705 and consecrated by the third Lhatsun Chenpo Dzogchen Jigme Pawo in the year 1710 C.E. The monastery follows  the Nyingma Order of Tibetan Buddhism and controls all other monasteries of that Order in Sikkim. The monks of this monastery are normally chosen from the Bhutias of Sikkim.\nThe monastery was built for \"pure monks\" (ta-tshang) meaning \"monks of pure lineage\", celibate and without any physical abnormality. This practice is still retained. Only the monks of Pemayangtse Monastery are entitled to the title \"ta-tshang\". The head lama of this monastery had the unique privilege of anointing the Chogyals of the erstwhile monarchy of Sikkim with holy water. Pemayangtse means \"Perfect Sublime Lotus\", and is said to represent one of the four plexus of the human body.\nThe  Pemayangtse Monastery is part of Buddhist religious  pilgrimage circuit starting with the first monastery at Yuksom known as the Dubdi Monastery, followed by Norbugang Chorten, Tashiding Monastery, the Rabdentse ruins, the Sanga Choeling Monastery, and the Khecheopalri Lake.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pemayangtse_Monastery",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pemayangtse+Monastery%2C+Pelling%2C+Sikkim%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Pemayangtse+Monastery%2C+Pelling%2C+Sikkim%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Main_Shrine_of_Pemangytse_Gompa_with_prayer_flags.jpg/1280px-Main_Shrine_of_Pemangytse_Gompa_with_prayer_flags.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

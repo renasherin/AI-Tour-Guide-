@@ -1,0 +1,25 @@
+{
+  "id": "manakula_vinayagar_temple",
+  "place": "Manakula Vinayagar Temple",
+  "state": "Puducherry",
+  "city": "Puducherry",
+  "category": [
+    "temples",
+    "heritage",
+    "pilgrimage sites"
+  ],
+  "wikipedia_title": "Manakula_Vinayagar_Temple",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Manakula_Vinayagar_Temple",
+  "wikidata_id": "Q1888623",
+  "lat": 11.93583333,
+  "lon": 79.83361111,
+  "text": "Manakula Vinayagar Temple (French: Temple de Manakula Vinayagar) is a Ganesha temple in the Union Territory of Puducherry, India. Dedicated to the god Ganesa, it is a popular pilgrimage site and tourist destination in Puducherry. The temple is of considerable antiquity and predates French occupation of the territory. During the tenure of Dupleix, there were attempts to destroy the temple, but it was spared owing to strong protests from the Hindu population and the threat of British and Maratha invasion of the territory.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Manakula_Vinayagar_Temple",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.93583333,79.83361111",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.93583333,79.83361111",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Manakula_vinayagar_temple_north_entrance.JPG/1280px-Manakula_vinayagar_temple_north_entrance.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

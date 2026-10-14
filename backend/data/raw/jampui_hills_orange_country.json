@@ -1,0 +1,25 @@
+{
+  "id": "jampui_hills_orange_country",
+  "place": "Jampui Hills Orange Country",
+  "state": "Tripura",
+  "city": "North Tripura",
+  "category": [
+    "hill stations",
+    "nature",
+    "viewpoints"
+  ],
+  "wikipedia_title": "Jampui_Hills",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jampui_Hills",
+  "wikidata_id": "Q6148155",
+  "lat": 23.965916,
+  "lon": 92.277346,
+  "text": "Jampui Hills is a part of the Mizo hills (Lushai Hills) range located in the North Tripura district in the north eastern part of the Indian state of Tripura. The average altitude of the hill range is approximately 1000 metres above sea level.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jampui_Hills",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=23.965916,92.277346",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=23.965916,92.277346",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/A_view_of_Jampui_Hills_in_the_East_from_the_plains_of_Kanchanpur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

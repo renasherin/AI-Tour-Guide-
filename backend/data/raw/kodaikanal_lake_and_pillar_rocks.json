@@ -1,0 +1,25 @@
+{
+  "id": "kodaikanal_lake_and_pillar_rocks",
+  "place": "Kodaikanal Lake and Pillar Rocks",
+  "state": "Tamil Nadu",
+  "city": "Dindigul",
+  "category": [
+    "hill stations",
+    "nature",
+    "lakes"
+  ],
+  "wikipedia_title": "Kodaikanal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kodaikanal",
+  "wikidata_id": "Q253851",
+  "lat": 10.23,
+  "lon": 77.48,
+  "text": "Kodaikanal (ko-DYE-KAH-null, Tamil pronunciation: [ko'ɖaɪ'kaːnəl]) is a town and hill station in Dindigul district in the state of Tamil Nadu, India. It is situated at an altitude of 2,225 m (7,300 ft) in the Palani Hills of the Western Ghats. Kodaikanal was established in 1845 to serve as a refuge from the high temperatures and tropical diseases during the summer in the plains. It is a popular tourist destination and is referred to as the \"Princess of Hill stations\" with much of the local economy is based on the hospitality industry serving tourism. As per the 2011 census, the town had a population of 36,501.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kodaikanal",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10.23,77.48",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=10.23,77.48",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Boating_in_Kodaikanal_Lake_with_Mist.jpg/1280px-Boating_in_Kodaikanal_Lake_with_Mist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

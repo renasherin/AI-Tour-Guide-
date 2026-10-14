@@ -1,0 +1,25 @@
+{
+  "id": "uparkot_fort_junagadh",
+  "place": "Uparkot Fort Junagadh",
+  "state": "Gujarat",
+  "city": "Junagadh",
+  "category": [
+    "forts",
+    "heritage",
+    "caves"
+  ],
+  "wikipedia_title": "Uparkot_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Uparkot_Fort",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Uparkot Fort Junagadh is a celebrated destination in Junagadh, Gujarat, renowned for its forts, heritage, caves. Located in the historic and scenic region of Gujarat, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Gujarat. The best time to plan a visit is generally October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Gate_of_Uperkot_Fort_02.jpg/1280px-Gate_of_Uperkot_Fort_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

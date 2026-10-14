@@ -1,0 +1,25 @@
+{
+  "id": "pakhal_lake_and_wildlife_sanctuary",
+  "place": "Pakhal Lake and Wildlife Sanctuary",
+  "state": "Telangana",
+  "city": "Warangal",
+  "category": [
+    "nature",
+    "lakes",
+    "wildlife"
+  ],
+  "wikipedia_title": "Pakhal_Lake",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pakhal_Lake",
+  "wikidata_id": "Q3374015",
+  "lat": null,
+  "lon": null,
+  "text": "Pakhal Lake is a man-made lake in the Pakhal Wildlife Sanctuary in the Warangal district of Telangana, a state in Southern India.\n\n--- Practical Travel Context (Wikivoyage) ---\nWarangal is in East Telangana in Southern India. Historically known as Orugallu and also Ekashila Nagaram (City carved in single stone). Warangal is part of a tertiary city including Kazipet and Hanamkonda cities. The region once came under Kakatiya dynasty.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pakhal_Lake",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pakhal+Lake+and+Wildlife+Sanctuary%2C+Warangal%2C+Telangana%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Pakhal+Lake+and+Wildlife+Sanctuary%2C+Warangal%2C+Telangana%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pakhal_Lake_Telangana.jpg/1280px-Pakhal_Lake_Telangana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

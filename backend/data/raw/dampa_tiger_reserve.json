@@ -1,0 +1,24 @@
+{
+  "id": "dampa_tiger_reserve",
+  "place": "Dampa Tiger Reserve",
+  "state": "Mizoram",
+  "city": "Mamit",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Dampa_Tiger_Reserve",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dampa_Tiger_Reserve",
+  "wikidata_id": "Q3457187",
+  "lat": 23.56666667,
+  "lon": 92.36666667,
+  "text": "Dampa Tiger Reserve or Dampha Tiger Reserve is a tiger reserve in western Mizoram, India. It covers an area of about 500 km2 (190 sq mi) in the Lushai Hills at an elevation of 800–1,100 m (2,600–3,600 ft). It is the largest wildlife sanctuary in Mizoram. It was declared a tiger reserve in 1994 and is part of Project Tiger.\nThe tropical forests of Dampa Tiger Reserve are home to a diverse flora and fauna. It consists of forest interpolated with steep precipitous hills, deep valleys, jungle streams, ripping rivulets, natural salts licks. Dampa Tiger Reserve is not easily accessible unlike other park where you can ride on a four wheeler but one has to walk through the forest if one wishes to sight animals.\nIn the 2018 tiger monitoring survey, no tiger was found in this reserve.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Dampa_Tiger_Reserve",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=23.56666667,92.36666667",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=23.56666667,92.36666667",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Dampa_Tiger_Reserve_Forest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "jaisalmer_golden_fort_sonar_qila",
+  "place": "Jaisalmer Golden Fort (Sonar Qila)",
+  "state": "Rajasthan",
+  "city": "Jaisalmer",
+  "category": [
+    "forts",
+    "unesco",
+    "heritage",
+    "living fort"
+  ],
+  "wikipedia_title": "Jaisalmer_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jaisalmer_Fort",
+  "wikidata_id": "Q3634368",
+  "lat": null,
+  "lon": null,
+  "text": "Jaisalmer Fort is situated in the city of Jaisalmer, in the Indian state of Rajasthan. It is one of the very few \"living forts\" in the world (such as Carcassonne, France), as nearly one fourth of the old city's population still resides within the fort. For the better part of its 860-year history, the fort was the city of Jaisalmer. The first settlements outside the fort walls, to accommodate the growing population of Jaisalmer, are said to have come up in the 17th century.\nJaisalmer Fort is the second oldest fort in Rajasthan, built in 1156 AD by the Rawal (ruler) Jaisal from whom it derives its name, and stood at the crossroads of important trade routes (including the ancient Silk road).\nThe fort's massive yellow sandstone walls are a tawny lion colour during the day, fading to honey-gold as the sun sets, thereby camouflaging the fort in the yellow desert. For this reason, it is also known as the Swarn Durg, Sonar Quila or Golden Fort. The name Sonar Kella (Bengali for Golden Fortress) was popularized by tourists after the famous Bengali film of the same name, which was shot in this fort by eminent filmmaker Satyajit Ray. The fort stands amidst the sandy expanse of the great Thar Desert on Trikuta Hill, hence also known as Trikutgarh. It is today located along the southern edge of the city that bears its name; its dominant hilltop location making the sprawling towers of its fortifications visible for many miles around.\nIn 2013, at the 37th session of the World Heritage Committee held in Phnom Penh, Cambodia, Jaisalmer Fort, along with five other forts of Rajasthan, was declared a UNESCO World Heritage Site under the group Hill Forts of Rajasthan.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jaisalmer_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jaisalmer+Golden+Fort+%28Sonar+Qila%29%2C+Jaisalmer%2C+Rajasthan%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Jaisalmer+Golden+Fort+%28Sonar+Qila%29%2C+Jaisalmer%2C+Rajasthan%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Jaisalmer_forteresse.jpg/1280px-Jaisalmer_forteresse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

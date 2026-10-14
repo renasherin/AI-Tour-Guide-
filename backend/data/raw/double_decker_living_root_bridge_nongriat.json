@@ -1,0 +1,25 @@
+{
+  "id": "double_decker_living_root_bridge_nongriat",
+  "place": "Double Decker Living Root Bridge, Nongriat",
+  "state": "Meghalaya",
+  "city": "Cherrapunji, Sohra",
+  "category": [
+    "nature",
+    "heritage",
+    "adventure"
+  ],
+  "wikipedia_title": "Living_root_bridge",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Living_root_bridge",
+  "wikidata_id": "Q6659728",
+  "lat": 25.2505,
+  "lon": 91.6738,
+  "text": "The Double Decker Living Root Bridge (Jingkieng Nongriat) deep in the subtropical valleys of Cherrapunji, Meghalaya, is a marvel of indigenous Khasi bio-engineering. Crafted by guiding the pliable aerial roots of Indian rubber trees (Ficus elastica) across roaring mountain torrents through hollowed areca-nut palms, these living bridges take 15 to 30 years of patient nurturing to span the chasm. Unlike steel or timber that quickly rots under the heaviest monsoon rains on Earth, the living root bridge grows thicker, stronger, and more resilient with age, standing for over two centuries and supporting dozens of travelers over turquoise natural swimming pools.",
+  "best_time": "October to April (dry season, crystal emerald water pools beneath the bridges)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Living_root_bridge",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.2505,91.6738",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.2505,91.6738",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Living_root_bridges%2C_Nongriat_village%2C_Meghalaya2.jpg/1280px-Living_root_bridges%2C_Nongriat_village%2C_Meghalaya2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

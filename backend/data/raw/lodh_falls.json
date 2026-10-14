@@ -1,0 +1,24 @@
+{
+  "id": "lodh_falls",
+  "place": "Lodh Falls",
+  "state": "Jharkhand",
+  "city": "Latehar",
+  "category": [
+    "nature",
+    "waterfalls"
+  ],
+  "wikipedia_title": "Lodh_Falls",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lodh_Falls",
+  "wikidata_id": "Q37423",
+  "lat": null,
+  "lon": null,
+  "text": "The Lodh Falls (also known as Budha Ghagh) is a waterfall on the Burha River in the mid-forest  of Palamau Tiger Reserve, in Latehar district of Jharkhand state in India. It is the highest waterfall in Jharkhand and the 21st highest waterfall in India.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Lodh_Falls",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lodh+Falls%2C+Latehar%2C+Jharkhand%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Lodh+Falls%2C+Latehar%2C+Jharkhand%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lodh_Fall.png/1280px-Lodh_Fall.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

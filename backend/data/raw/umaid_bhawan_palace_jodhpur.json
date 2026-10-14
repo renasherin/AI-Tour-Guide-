@@ -1,0 +1,25 @@
+{
+  "id": "umaid_bhawan_palace_jodhpur",
+  "place": "Umaid Bhawan Palace Jodhpur",
+  "state": "Rajasthan",
+  "city": "Jodhpur",
+  "category": [
+    "palaces",
+    "heritage",
+    "museums"
+  ],
+  "wikipedia_title": "Umaid_Bhawan_Palace",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Umaid_Bhawan_Palace",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Umaid Bhawan Palace Jodhpur is a celebrated destination in Jodhpur, Rajasthan, renowned for its palaces, heritage, museums. Located in the historic and scenic region of Rajasthan, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Rajasthan. The best time to plan a visit is generally October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/1996_-218-20A_Jodhpur_Hotel_Umaid_Bhawan_Palace_%282233393509%29.jpg/1280px-1996_-218-20A_Jodhpur_Hotel_Umaid_Bhawan_Palace_%282233393509%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

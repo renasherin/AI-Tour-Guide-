@@ -1,0 +1,26 @@
+{
+  "id": "rock_garden_of_chandigarh",
+  "place": "Rock Garden of Chandigarh",
+  "state": "Chandigarh",
+  "city": "Chandigarh",
+  "category": [
+    "art",
+    "heritage",
+    "sculptures",
+    "recycling marvel"
+  ],
+  "wikipedia_title": "Rock_Garden_of_Chandigarh",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_Garden_of_Chandigarh",
+  "wikidata_id": "Q3041915",
+  "lat": null,
+  "lon": null,
+  "text": "The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India. It is also known as Nek Chand Saini's Rock Garden of Nathupur  after its founder Nek Chand Saini, a government official who started building the garden secretly in his spare time in 1957. It has spread over an area of 40 acres (16 ha), and is completely built from industrial, home waste, and discarded items.\n\n--- Practical Travel Context (Wikivoyage) ---\nChandigarh is India's first planned city, quite distinct from the rest of the country and considerably better organised. It is the capital of both Haryana and Punjab states, but the city is not part of either state, being a union territory, i.e. administered directly by the central government.\n\n",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Rock_Garden_of_Chandigarh",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rock+Garden+of+Chandigarh%2C+Chandigarh%2C+Chandigarh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Rock+Garden+of+Chandigarh%2C+Chandigarh%2C+Chandigarh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chandigarh_Rock_Garden_4.jpg/1280px-Chandigarh_Rock_Garden_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

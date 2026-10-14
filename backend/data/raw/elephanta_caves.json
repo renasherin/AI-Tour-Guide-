@@ -1,0 +1,26 @@
+{
+  "id": "elephanta_caves",
+  "place": "Elephanta Caves",
+  "state": "Maharashtra",
+  "city": "Mumbai",
+  "category": [
+    "heritage",
+    "unesco",
+    "caves",
+    "temples"
+  ],
+  "wikipedia_title": "Elephanta_Caves",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elephanta_Caves",
+  "wikidata_id": "Q649384",
+  "lat": 18.96333333,
+  "lon": 72.93138889,
+  "text": "The Elephanta Caves form a collection of cave temples predominantly dedicated to the Hindu god Shiva; UNESCO has designated them as a World Heritage Site. They are located on Elephanta Island, or Gharapuri (literally meaning \"the city of the caves\"), in Mumbai Harbour, 10 kilometres (6.2 mi) east of Mumbai in the Indian state of Maharashtra. The island, about 2 kilometres (1.2 mi) west of the Jawaharlal Nehru Port, features five Hindu caves, a few Buddhist stupa mounds that date back to the 2nd century BCE, and two Buddhist caves with water tanks.\nThe Elephanta Caves contain rock-cut stone sculptures, mostly in high relief, that show a syncretism of Hindu—Buddhist ideas and iconography. The caves are hewn from solid basalt rock. Apart from a few exceptions, much of the artwork has been defaced and damaged. The main temple's orientation as well as the relative location of other temples form a mandala pattern. The carvings narrate Hindu legends, with the large monolithic 5.45 metres (17.9 ft) Trimurti  Sadashiva (three-faced Shiva), Nataraja (Lord of the dance) and  Yogishvara (Lord of Yogis) being the most celebrated.\nThese date to between the 5th and 9th centuries CE, and scholars attribute them to various Hindu dynasties. They are most commonly placed between the 5th and 7th centuries. Many scholars consider them to have been completed by about 550 CE.\nThey were named Elefante—which morphed to \"Elephanta\"—by the colonial Portuguese who found elephant statues in the caves. The Portuguese established a base on the island. The main cave (Cave 1, or the Great Cave) was a Hindu place of worship until the Portuguese arrived, whereupon the island ceased to be an active place of worship. The earliest attempts to prevent further damage to the caves were started by  British India officials in 1909. The Indian government restored the  monuments in the 1970s. As of 2025, the site is maintained by the Archaeological Survey of India (ASI).",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Elephanta_Caves",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18.96333333,72.93138889",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=18.96333333,72.93138889",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Elephanta_Caves_Trimurti.jpg/1280px-Elephanta_Caves_Trimurti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "namchi_char_dham_siddheshwar_dhaam",
+  "place": "Namchi Char Dham (Siddheshwar Dhaam)",
+  "state": "Sikkim",
+  "city": "Namchi",
+  "category": [
+    "pilgrimage sites",
+    "temples",
+    "monuments"
+  ],
+  "wikipedia_title": "Namchi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Namchi",
+  "wikidata_id": "Q2483862",
+  "lat": 27.17,
+  "lon": 88.35,
+  "text": "Namchi is a town and the administrative headquarters of the South Sikkim district in the Indian state of Sikkim.\n\n--- Practical Travel Context (Wikivoyage) ---\nNamchi is the capital of South Sikkim. It resembles Gangtok in many ways (including the central pedestrian promenade), but is considerably more quiet and local in character, spared of the flood of domestic tourists and the catering industry that comes with it.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Namchi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=27.17,88.35",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=27.17,88.35",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Panoramic_view_of_large_statue_of_Guru_Padmasambhava_%28Guru_Rinpoche%29m_Namchi.jpg/1280px-Panoramic_view_of_large_statue_of_Guru_Padmasambhava_%28Guru_Rinpoche%29m_Namchi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

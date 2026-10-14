@@ -1,0 +1,25 @@
+{
+  "id": "gol_gumbaz_bijapur",
+  "place": "Gol Gumbaz Bijapur",
+  "state": "Karnataka",
+  "city": "Vijayapura",
+  "category": [
+    "heritage",
+    "monuments",
+    "architecture"
+  ],
+  "wikipedia_title": "Gol_Gumbaz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gol_Gumbaz",
+  "wikidata_id": "Q192295",
+  "lat": 16.83003056,
+  "lon": 75.73609722,
+  "text": "The Gol Gumbaz (; lit. 'Round Dome'), also written as Gol Gumbad, is a dark gray basalt mausoleum located in the city of Bijapur in northern Karnataka, India. It contains the tomb of Mohammad Adil Shah, the seventh ruler of the Sultanate of Bijapur, alongside the tombs of his two wives, mistress, daughter and grandson. Construction of the monument began in the early 17th century following Adil Shah's ascension to the throne, and halted in 1656 after his death; at the time, the structure was not yet fully complete, with several decorative elements remaining unfinished. The mausoleum is a prominent example of Indo-Islamic architecture in the Deccan region, and combines elements of Persian, Mughal, and local architectural styles.\nA notable architectural feature of the tomb is its central hemispherical dome. With an external diameter of 44 m (144 ft), it was the largest unsupported dome in India and among the largest domes of the medieval era at the time of its completion. In 1892, during the British Raj, the mausoleum was opened to the public and the Gol Gumbaz Archaeological Museum was established within the tomb complex. The central dome's whispering gallery has since become a popular tourist attraction. Following Indian independence, the management and maintenance of the complex was handed over to the Archaeological Survey of India in 1962.\nIn addition to the main mausoleum, the overall complex encompasses multiple Indo-Persian structures, including a mosque, a dargah, and a naqqar khana surrounded by a charbagh garden. UNESCO has included the Gol Gumbaz within a broader group of monuments known as the Monuments and Forts of the Deccan Sultanate, which was added to the organization's tentative list as a proposed World Heritage Site in 2014.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Gol_Gumbaz",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=16.83003056,75.73609722",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=16.83003056,75.73609722",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gol_Gumbaz_-4%2C_Bijapur%2C_Karnataka.jpg/1280px-Gol_Gumbaz_-4%2C_Bijapur%2C_Karnataka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

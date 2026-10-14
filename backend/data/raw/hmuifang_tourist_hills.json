@@ -1,0 +1,24 @@
+{
+  "id": "hmuifang_tourist_hills",
+  "place": "Hmuifang Tourist Hills",
+  "state": "Mizoram",
+  "city": "Aizawl",
+  "category": [
+    "hill stations",
+    "nature"
+  ],
+  "wikipedia_title": "Hmuifang",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hmuifang",
+  "wikidata_id": "Q5873696",
+  "lat": null,
+  "lon": null,
+  "text": "Hmuifang is a tourist spot about 50 km from Aizawl, Mizoram, India. With an elevation of 1,619 metres, the mountain is covered with forest reserves since all the Mizo Chief's time.\n\n--- Practical Travel Context (Wikivoyage) ---\nAizawl is the capital and largest city of the state of Mizoram, India. It is situated on a ridge 1132 metres (3715 ft) above sea level, with the Tlawng river valley to its west and the Tuirial river valley to its east. In the summer the temperature ranges from 20-30 degrees Celsius, and in the winter 11-21 degrees Celsius.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Hmuifang",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hmuifang+Tourist+Hills%2C+Aizawl%2C+Mizoram%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Hmuifang+Tourist+Hills%2C+Aizawl%2C+Mizoram%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hmuifang_Mountain_Side.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

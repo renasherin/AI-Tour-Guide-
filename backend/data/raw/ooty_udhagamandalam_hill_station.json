@@ -1,0 +1,25 @@
+{
+  "id": "ooty_udhagamandalam_hill_station",
+  "place": "Ooty (Udhagamandalam) Hill Station",
+  "state": "Tamil Nadu",
+  "city": "Nilgiris",
+  "category": [
+    "hill stations",
+    "botanical gardens",
+    "lakes"
+  ],
+  "wikipedia_title": "Ooty",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ooty",
+  "wikidata_id": "Q9888",
+  "lat": 11.41,
+  "lon": 76.7,
+  "text": "Ooty is a town and seat of the Nilgiris district in the Indian state of Tamil Nadu. It is located at an altitude of 2,240 m (7,350 ft), in the Nilgiri Mountains, which forms part of the Western Ghats, and is known by the epithet \"Queen of hill stations\".\nThe earliest reference to the Nilgiri Mountains is found in the Tamil Sangam literature. The region was originally occupied by several hill tribes such as Badagas, Todas, Kotas, Irulas and Kurumbas. Over the centuries, it was part of the various kingdoms that ruled over South India. It came under the rule of the East India Company in the 18th century. In the early 19th century, Ooty was developed as a sanatorium around an artificial lake. It was made a municipality in 1866, and later served as the summer capital of the Madras Presidency.\nPost Indian independence, the town developed into a popular hill station and recreational area. The economy of the town is majorly based on tourism and agriculture. The town is connected to the plains by the Nilgiri ghat roads and the Nilgiri Mountain Railway. It also hosts the Ooty Radio Telescope at Muthorai, and the Defence Services Staff College of the Indian Army at nearby fisbWellingon.\nOoty forms part of the Nilgiri Biosphere Reserve, the largest protected forest area in India. The region is part of the South Western Ghats montane rain forests ecoregion and harbours thousands of plant species. The native vegetation consisted of meadows and grasslands on the hillsides with shola forets in the valleys. The Government Botanical Garden, laid out in 1842, has several species of indigenous and exotic plants. The region hosts several faunal species, including significant population of Bengal tiger and Indian elephant.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Ooty",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.41,76.7",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.41,76.7",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ooty_lake.jpg/1280px-Ooty_lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

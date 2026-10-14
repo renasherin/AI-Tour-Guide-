@@ -1,0 +1,25 @@
+{
+  "id": "dilli_haat_crafts_and_regional_food_bazaar",
+  "place": "Dilli Haat Crafts and Regional Food Bazaar",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "category": [
+    "markets",
+    "food",
+    "crafts"
+  ],
+  "wikipedia_title": "Dilli_Haat",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dilli_Haat",
+  "wikidata_id": "Q3595641",
+  "lat": 28.573162,
+  "lon": 77.208511,
+  "text": "Dilli Haat is a paid-entrance open-air market, food plaza, and craft bazaar located in Delhi. The area is run by Delhi Tourism and Transportation Development Corporation (DTTDC), and  unlike the traditional weekly market, the village Haat, Dilli Haat is permanent. It is located in the commercial centres of South Delhi, opposite INA market. The 6 acres of land on which this complex is situated was salvaged as part of a reclamation project and transformed into a plaza. Extensive foundation work, small thatched roof cottages and kiosks give the plaza a village atmosphere. Some shops are permanent but other sellers are rotated, usually for fifteen days.  Products offered may include rosewood and sandalwood carvings, embellished camel hide footwear, sophisticated fabric and drapery, gems, beads, brassware, metal crafts, and silk & wool fabrics. A number of shows promoting handicrafts and handlooms are held at the exhibition hall in the complex. To sell wares, there is an application process; spaces are allocated according to which state the seller is from. In all, Dilli Haat, INA Market has 62 stalls allotted on a rotational basis to craftsmen for a payment of INR 100 per day for a maximum period of 15 days.\nVisitors can enjoy live music, dance performances, and art exhibitions that represent the various states of India.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Dilli_Haat",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.573162,77.208511",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.573162,77.208511",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Dilli_Haat_-_INA.jpg/1280px-Dilli_Haat_-_INA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

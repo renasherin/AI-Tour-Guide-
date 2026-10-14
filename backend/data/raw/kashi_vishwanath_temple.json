@@ -1,0 +1,25 @@
+{
+  "id": "kashi_vishwanath_temple",
+  "place": "Kashi Vishwanath Temple",
+  "state": "Uttar Pradesh",
+  "city": "Varanasi",
+  "category": [
+    "temples",
+    "pilgrimage sites",
+    "heritage"
+  ],
+  "wikipedia_title": "Kashi_Vishwanath_Temple",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple",
+  "wikidata_id": "Q3675",
+  "lat": 25.310775,
+  "lon": 83.01061389,
+  "text": "Kashi Vishwanath Temple is a Hindu temple dedicated to Shiva. It is located in Vishwanath Gali, in Varanasi, Uttar Pradesh, India. The temple is a Hindu pilgrimage site and is one of the twelve Jyotirlinga shrines. The presiding deity is known by the names Vishwanath and Vishweshwara (IAST: Viśvanātha and Viśveśvara), meaning Lord of the Universe.\nThe original temple, called the Adi Vishveshwar Temple, was demolished by Mohammad of Ghori during his invasion of India. Subsequently, the temple was rebuilt by Man Singh I and Todar Mal under the emperor Akbar.\nAccording to several historical accounts, the Mughal Emperor Aurangzeb ordered the demolition of the Hindu temple in 1669. Subsequently, in 1678, the Gyanvapi Mosque was built on its site, but Hindu pilgrims continued to visit the remnants of the temple. Some scholars claim that the demolition was motivated by the rebellion of local zamindars (landowners) who were associated with the temple. The demolition was intended as a warning by Aurangzeb to the anti-Mughal factions and Hindu religious leaders in the city.\nThe current structure was constructed on an adjacent site by the Maratha ruler Ahilyabai Holkar of Indore in 1780. In 2021, a major redevelopment of the temple complex was completed, and the Kashi Vishwanath Dham Corridor connecting the Ganga river with the temple was inaugurated by Prime Minister Modi, leading to a many-fold increase in visitors. It has become one of the most visited Hindu temples in India, with an average 45,000 pilgrims per day in 2023. The total assets of the temple, were estimated to be more than ₹6 crores in 2024.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.310775,83.01061389",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.310775,83.01061389",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

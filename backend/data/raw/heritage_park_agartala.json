@@ -1,0 +1,25 @@
+{
+  "id": "heritage_park_agartala",
+  "place": "Heritage Park Agartala",
+  "state": "Tripura",
+  "city": "Agartala",
+  "category": [
+    "museums",
+    "culture",
+    "parks"
+  ],
+  "wikipedia_title": "Agartala",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Agartala",
+  "wikidata_id": "Q170454",
+  "lat": 23.83138889,
+  "lon": 91.28694444,
+  "text": "Agartala (, Bengali: [ˈagɔɾˌtɔla] , Kok Borok: [aguli]) is the capital and the largest city of the Indian state of Tripura, situated on the banks of Haora/Saidra River, about 2 kilometres (1.2 mi) east of the border with Bangladesh and about 2,499 km (1,552 mi) from the national capital, New Delhi. According to 2022 AMC data, Agartala is the second most populous city after Guwahati in Northeast India. It is India's third international internet gateway and being developed under the Smart Cities Mission.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Agartala",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=23.83138889,91.28694444",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=23.83138889,91.28694444",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg/1280px-Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

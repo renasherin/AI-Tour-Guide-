@@ -1,0 +1,25 @@
+{
+  "id": "vadakara_sandbanks_beach",
+  "place": "Vadakara Sandbanks Beach & Moorad Estuary",
+  "state": "Kerala",
+  "city": "Vadakara, Kozhikode",
+  "category": [
+    "beach",
+    "nature",
+    "coastal"
+  ],
+  "wikipedia_title": "Vatakara",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vatakara",
+  "wikidata_id": "Q2344799",
+  "lat": 11.5908,
+  "lon": 75.5786,
+  "text": "Vadakara Sandbanks Beach is a scenic natural sandbank peninsula located 3 km from Vadakara town, where the tranquil waters of the Moorad River flow gracefully into the Arabian Sea. The strip of fine golden sand offers panoramic views of fishing fleets, coconut palm riverbanks, and calm swimming shallows. Developed as an eco-tourism hub, the beach features paved sunset walkways, children's park facilities, open seating pavilions, and seasonal visits from endangered Olive Ridley sea turtles that nest along these clean coastal sandbars.",
+  "best_time": "October to March (gentle coastal sea breeze and tranquil estuary sunsets)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Vatakara",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.5908,75.5786",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.5908,75.5786",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Vadakara_Sand_Banks_View.jpg/1280px-Vadakara_Sand_Banks_View.jpg?utm_source=commons.wikimedia.org"
+}

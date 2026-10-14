@@ -1,0 +1,25 @@
+{
+  "id": "great_himalayan_national_park",
+  "place": "Great Himalayan National Park",
+  "state": "Himachal Pradesh",
+  "city": "Kullu",
+  "category": [
+    "national parks and wildlife",
+    "unesco",
+    "nature"
+  ],
+  "wikipedia_title": "Great_Himalayan_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Himalayan_National_Park",
+  "wikidata_id": "Q1544213",
+  "lat": 31.73333333,
+  "lon": 77.55,
+  "text": "The Great Himalayan National Park (GHNP) is a national park in India, located in Banjar sub-division of Kullu in the state of Himachal Pradesh. The park was established in 1984 and is spread over an area of 1171 km2; elevations within the park range between 1500 and 6000 m. The Great Himalayan National Park is a habitat to numerous flora and more than 375 fauna species, including approximately 31 mammals, 181 birds, 3 reptiles, 9 amphibians, 11 annelids, 17 mollusks and 127 insects. They are protected under the strict guidelines of the Wildlife Protection Act of 1972; hence any sort of hunting is not permitted.\nIn June 2014, the Great Himalayan National Park was added to the UNESCO list of World Heritage Sites, under the criterion of \"outstanding significance for biodiversity conservation\".",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Great_Himalayan_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31.73333333,77.55",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=31.73333333,77.55",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Himalayn_National_Park_01.jpg/1280px-Himalayn_National_Park_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tiger_hill_darjeeling_kanchenjunga_sunrise",
+  "place": "Tiger Hill Darjeeling Kanchenjunga Sunrise",
+  "state": "West Bengal",
+  "city": "Darjeeling",
+  "category": [
+    "nature",
+    "viewpoints",
+    "sunrise"
+  ],
+  "wikipedia_title": "Tiger_Hill,_Darjeeling",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tiger_Hill,_Darjeeling",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Tiger Hill Darjeeling Kanchenjunga Sunrise is a celebrated destination in Darjeeling, West Bengal, renowned for its nature, viewpoints, sunrise. Located in the historic and scenic region of West Bengal, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of West Bengal. The best time to plan a visit is generally October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Tiger_Hill_Darjeeling_West_Bengal_India_%283%29.JPG/1280px-Tiger_Hill_Darjeeling_West_Bengal_India_%283%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

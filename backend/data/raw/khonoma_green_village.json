@@ -1,0 +1,25 @@
+{
+  "id": "khonoma_green_village",
+  "place": "Khonoma Green Village",
+  "state": "Nagaland",
+  "city": "Kohima",
+  "category": [
+    "heritage",
+    "eco-tourism",
+    "nature"
+  ],
+  "wikipedia_title": "Khonoma",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Khonoma",
+  "wikidata_id": "Q17347092",
+  "lat": null,
+  "lon": null,
+  "text": "Khonoma is a Western Angami Naga village located about 20 km west from Kohima, the capital of the Indian state of Nagaland. The village is referred to as Khwüno-ra (named after the Angami term for a local plant, Glouthera fragrantissima). The total population of the village is about 1,943, settled in 424 households. It is the first green village in India and Asia.\n\n--- Practical Travel Context (Wikivoyage) ---\nKohima is the capital city of Nagaland in North-Eastern India. Nagaland, also known as the \"Switzerland of Asia\", is a breath-takingly beautiful place.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Khonoma",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Khonoma+Green+Village%2C+Kohima%2C+Nagaland%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Khonoma+Green+Village%2C+Kohima%2C+Nagaland%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/View_of_Khonoma_%282024%29.jpg/1280px-View_of_Khonoma_%282024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

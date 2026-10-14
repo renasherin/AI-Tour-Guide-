@@ -1,0 +1,25 @@
+{
+  "id": "undavalli_caves",
+  "place": "Undavalli Caves",
+  "state": "Andhra Pradesh",
+  "city": "Vijayawada",
+  "category": [
+    "heritage",
+    "caves",
+    "temples"
+  ],
+  "wikipedia_title": "Undavalli_Caves",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Undavalli_Caves",
+  "wikidata_id": "Q3520683",
+  "lat": 16.49687,
+  "lon": 80.58178,
+  "text": "The Undavalli Caves are monolithic Indian rock-cut architecture, located in Guntur district in the Indian state of Andhra Pradesh. The caves are located south west of Vijayawada. They were carved out of solid sandstone hills in the 4th–5th centuries CE, primarily during the Vishnukundina dynasty era. It is one of the centrally protected Monuments of National Importance.\n\n--- Practical Travel Context (Wikivoyage) ---\nVijayawada (Telugu: విజయవాడ Vijayavāḍa) or Bezawada (బెజవాడ Bejavāḍa), the second-largest city in Andhra Pradesh, is the state's major commercial hub, on the upper banks of the Krishna River, opposite the state capital Amaravati. Famous for the Kanaka Durga Temple that attracts millions every year, Vijayawada is a part of the \"Capital Region\" (CR) of Andhra Pradesh, with almost all the amenities a traveller might need.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Undavalli_Caves",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=16.49687,80.58178",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=16.49687,80.58178",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Undavalli_Caves%2C_Vijayawada%2C_Guntur%2C_Andhra_Pradesh%2C_India_%282018%29_1.jpg/1280px-Undavalli_Caves%2C_Vijayawada%2C_Guntur%2C_Andhra_Pradesh%2C_India_%282018%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

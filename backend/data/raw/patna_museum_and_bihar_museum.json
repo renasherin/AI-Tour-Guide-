@@ -1,0 +1,24 @@
+{
+  "id": "patna_museum_and_bihar_museum",
+  "place": "Patna Museum and Bihar Museum",
+  "state": "Bihar",
+  "city": "Patna",
+  "category": [
+    "museums",
+    "heritage"
+  ],
+  "wikipedia_title": "Bihar_Museum",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bihar_Museum",
+  "wikidata_id": "Q15961638",
+  "lat": null,
+  "lon": null,
+  "text": "Bihar Museum is a state museum located in Patna. It was partially opened in August 2015.  'The children's museum', the main entrance area, and an  orientation theatre were the only parts opened to the public in August 2015. Later, in October 2017 remaining galleries were also opened. More than 100 artefacts were transferred here from Patna Museum.\nIt was planned as a history museum for the state of Bihar, and began construction in Bailey Road, Patna in October 2013 with an estimated budget of ₹498 crore (US$52 million).",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Bihar_Museum",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Patna+Museum+and+Bihar+Museum%2C+Patna%2C+Bihar%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Patna+Museum+and+Bihar+Museum%2C+Patna%2C+Bihar%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bihar_Museum_Bailey_Road_02.jpg/1280px-Bihar_Museum_Bailey_Road_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

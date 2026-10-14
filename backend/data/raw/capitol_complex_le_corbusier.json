@@ -1,0 +1,26 @@
+{
+  "id": "capitol_complex_le_corbusier",
+  "place": "Capitol Complex Le Corbusier",
+  "state": "Chandigarh",
+  "city": "Chandigarh",
+  "category": [
+    "heritage",
+    "unesco",
+    "architecture",
+    "monuments"
+  ],
+  "wikipedia_title": "Chandigarh_Capitol_Complex",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chandigarh_Capitol_Complex",
+  "wikidata_id": "Q25931399",
+  "lat": null,
+  "lon": null,
+  "text": "Chandigarh Capitol Complex is a government compound designed by Swiss-French architect Le Corbusier and his co-workers in Chandigarh, India.\nIt comprises three buildings: the Palace of Assembly, Secretariat Building and the High Court plus four monuments (Open Hand Monument, Geometric Hill, Tower of Shadows and the Martyrs Monument) and a lake.\nSpreading over an area of around 100 ha (0.39 sq mi), it is classified as a UNESCO World Heritage Site, along with sixteen other works by Le Corbusier for its contribution to the development of modernist architecture.\nLe Corbusier designed the \"Tower of Shadows\", an experimental construction, in such a way that not a single ray of sun enters it from any angle. The north side of this tower remains open because the sun never shines from this direction. Le Corbusier used the same principle for other Capitol Complex buildings as well.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chandigarh_Capitol_Complex",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Capitol+Complex+Le+Corbusier%2C+Chandigarh%2C+Chandigarh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Capitol+Complex+Le+Corbusier%2C+Chandigarh%2C+Chandigarh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Palace_of_Assembly_Chandigarh_2006.jpg/1280px-Palace_of_Assembly_Chandigarh_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

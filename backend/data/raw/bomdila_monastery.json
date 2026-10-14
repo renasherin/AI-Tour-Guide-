@@ -1,0 +1,24 @@
+{
+  "id": "bomdila_monastery",
+  "place": "Bomdila Monastery",
+  "state": "Arunachal Pradesh",
+  "city": "Bomdila",
+  "category": [
+    "pilgrimage sites",
+    "temples"
+  ],
+  "wikipedia_title": "Bomdila",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bomdila",
+  "wikidata_id": "Q859141",
+  "lat": 27.265,
+  "lon": 92.42,
+  "text": "Bomdila is the headquarters of West Kameng district in the state of Arunachal Pradesh in India. Bomdila is one of the 60 constituencies of the state of Arunachal Pradesh. Bomdila, a virgin forest until modern times was built as Sela Sub Agency Capital by Major Ralengnao R Khathing. In February 1954, the shifting of the Headquarters of the Political Officer from Charduar to Bomdila was undertaken, and on February 28, 1954, Bomdila was officially made the capital of the Sela Sub Agency.\nBomdila is also the site of the last battle of the 1962 Battle of Se La Pass.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Bomdila",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=27.265,92.42",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=27.265,92.42",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Bomdila.jpg/1280px-Bomdila.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

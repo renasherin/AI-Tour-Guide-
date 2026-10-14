@@ -1,0 +1,24 @@
+{
+  "id": "shilloi_lake",
+  "place": "Shilloi Lake",
+  "state": "Nagaland",
+  "city": "Phek",
+  "category": [
+    "nature",
+    "lakes"
+  ],
+  "wikipedia_title": "Phek_district",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Phek_district",
+  "wikidata_id": "Q590882",
+  "lat": 25.7,
+  "lon": 94.46,
+  "text": "Phek district ( FEK) is a district in the Indian state of Nagaland. At 2,026 square kilometres (782 sq mi) and with 163,418 inhabitants, it is the seventh-most populous district in Nagaland and 596th most populous district in India. The district is home to 8.26% population of Nagaland. The town of Phek is the district headquarter, located 120 kilometres from Kohima, the capital of Nagaland and the largest urban centre is Pfütsero.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Phek_district",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.7,94.46",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.7,94.46",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

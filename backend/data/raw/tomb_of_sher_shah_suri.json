@@ -1,0 +1,24 @@
+{
+  "id": "tomb_of_sher_shah_suri",
+  "place": "Tomb of Sher Shah Suri",
+  "state": "Bihar",
+  "city": "Sasaram",
+  "category": [
+    "heritage",
+    "monuments"
+  ],
+  "wikipedia_title": "Tomb_of_Sher_Shah_Suri",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tomb_of_Sher_Shah_Suri",
+  "wikidata_id": "Q7818641",
+  "lat": 24.9481,
+  "lon": 84.0092,
+  "text": "The Tomb of Sher Shah Suri is a mausoleum located in Sasaram, in the Indian state of Bihar. Sher Shah Suri, who was the founder of the Sur Empire, commissioned the tomb for himself. It was completed on 16 August 1545, about three months after his death.\nIt is situated on a square plinth in the middle of an artificial lake, accessible by a causeway. The tomb, made out of sandstone, was originally painted in bright colours and decorated with glazed tiles. It is a three-storied octagonal building, surmounted by a large dome. Chhatris are located on each edge of the second and third stories. A veranda runs along the circumference of the tomb, with each side having three arched openings. \nArched windows, embellished with latticed screens serve to illuminate the interior. Entrance is from all sides except the western side, which is the qibla wall reserved for prayer. At the center of the western wall is the prayer niche, which is elaborately decorated with carvings and tile work. \nThe tomb, which was the largest mausoleum in India at the time of its completion, is considered a significant example of Indo-Islamic architecture and one of the most important monuments in Bihar. It is listed as a monument of national importance.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Tomb_of_Sher_Shah_Suri",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=24.9481,84.0092",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=24.9481,84.0092",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sher_Shah_Suri_Tomb.jpg/1280px-Sher_Shah_Suri_Tomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

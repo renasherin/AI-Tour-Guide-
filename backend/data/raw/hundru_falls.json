@@ -1,0 +1,24 @@
+{
+  "id": "hundru_falls",
+  "place": "Hundru Falls",
+  "state": "Jharkhand",
+  "city": "Ranchi",
+  "category": [
+    "nature",
+    "waterfalls"
+  ],
+  "wikipedia_title": "Hundru_Falls",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hundru_Falls",
+  "wikidata_id": "Q3694612",
+  "lat": null,
+  "lon": null,
+  "text": "Hundru Falls is a waterfall located in Ranchi District in the Indian state of Jharkhand. It is the 34th highest waterfall in India, and one of the most famous tourist places in the region.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Hundru_Falls",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hundru+Falls%2C+Ranchi%2C+Jharkhand%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Hundru+Falls%2C+Ranchi%2C+Jharkhand%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Hundru_Falls%2C_Jharkhand%2C_India_4.jpg/1280px-Hundru_Falls%2C_Jharkhand%2C_India_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

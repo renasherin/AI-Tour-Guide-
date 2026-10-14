@@ -1,0 +1,24 @@
+{
+  "id": "kailasagiri_hill_park",
+  "place": "Kailasagiri Hill Park",
+  "state": "Andhra Pradesh",
+  "city": "Visakhapatnam",
+  "category": [
+    "nature",
+    "viewpoints"
+  ],
+  "wikipedia_title": "Kailasagiri",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kailasagiri",
+  "wikidata_id": "Q17061607",
+  "lat": null,
+  "lon": null,
+  "text": "Kailasagiri is a hilltop park in the city of Visakhapatnam in the Indian state of Andhra Pradesh. The park was developed by the Visakhapatnam Metropolitan Region Development Authority (VMRDA) and consists of land filled with native trees and other flora. The hill, 380 acres (150 ha)at 173 metres (568 ft), overlooks the city of Visakhapatnam.\nKailasagiri is located around 10 km from the Visakhapatnam Railway Station and around 8 km from Visakhapatnam Dwaraka Bus Station.\n\n--- Practical Travel Context (Wikivoyage) ---\nVisakhapatnam (Telugu: విశాఖపట్నం Vishākhapaṭnam), popularly known as Vizag (vigh-ZAG), is the largest city in Andhra Pradesh. It is primarily an industrial city, but also attracts tourists due to its unspoilt sandy beaches, well built and maintained parks, Buddhist sites and nearby scenic areas, such as Araku Valley. The city has a population of about 2 million.\n\n",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kailasagiri",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kailasagiri+Hill+Park%2C+Visakhapatnam%2C+Andhra+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Kailasagiri+Hill+Park%2C+Visakhapatnam%2C+Andhra+Pradesh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kailasagiri.jpg/1280px-Kailasagiri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

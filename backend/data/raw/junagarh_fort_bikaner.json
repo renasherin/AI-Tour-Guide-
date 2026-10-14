@@ -1,0 +1,25 @@
+{
+  "id": "junagarh_fort_bikaner",
+  "place": "Junagarh Fort Bikaner",
+  "state": "Rajasthan",
+  "city": "Bikaner",
+  "category": [
+    "forts",
+    "palaces",
+    "museums"
+  ],
+  "wikipedia_title": "Junagarh_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Junagarh_Fort",
+  "wikidata_id": "Q2758341",
+  "lat": null,
+  "lon": null,
+  "text": "Junagarh Fort is a fort in the city of Bikaner, Rajasthan, India. The fort was originally called Chintamani and was renamed Junagarh or \"Old Fort\" in the early 20th century when the ruling family moved to Lalgarh Palace outside the fort limits. Members of the cadet branch of the royal family continued to reside in the fort.  It is one of the few major forts in Rajasthan which is not built on a hilltop. The modern city of Bikaner has developed around the fort.\nThe fort complex was built under the supervision of Karan Chand, the Prime Minister of Raja Rai Singh, the sixth ruler of Bikaner, who ruled from 1571 to 1611 AD. Construction of the walls and the associated moat commenced in 1589 and was completed in 1594. It was built outside the original fort of the city (the first fort built by Rao Bikaji), about 1.5 kilometres (0.93 mi) from the city centre. Some remnants of the old fort are preserved near the Lakshmi Narayan temple.\nHistorical records reveal that despite the repeated attacks by enemies to capture the fort, it was not taken, except for a lone one-day occupation by Kamran Mirza. Kamran was the second son of the Mughal Emperor Babur who attacked Bikaner in 1534, which was then ruled by Rao Jait Singh.\nThe 5.28-hectare fort precinct is studded with palaces, temples and pavilions. These buildings depict a composite culture, manifest in the mix of architectural styles.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Junagarh_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Junagarh+Fort+Bikaner%2C+Bikaner%2C+Rajasthan%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Junagarh+Fort+Bikaner%2C+Bikaner%2C+Rajasthan%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/India_Bikaner_Junagarh_Fort.jpg/1280px-India_Bikaner_Junagarh_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

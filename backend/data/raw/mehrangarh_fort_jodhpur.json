@@ -1,0 +1,26 @@
+{
+  "id": "mehrangarh_fort_jodhpur",
+  "place": "Mehrangarh Fort Jodhpur",
+  "state": "Rajasthan",
+  "city": "Jodhpur",
+  "category": [
+    "forts",
+    "palaces",
+    "museums",
+    "heritage"
+  ],
+  "wikipedia_title": "Mehrangarh",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mehrangarh",
+  "wikidata_id": "Q1483099",
+  "lat": 26.29805556,
+  "lon": 73.01888889,
+  "text": "Mehrangarh is a historic fort located in Jodhpur, Rajasthan, India. It stands on a hilltop, rising about 122 m (400 ft) above the surrounding plains, and the complex spans 1,200 acres (486 hectares). It was initially built around 1459 by the Rajput ruler of Rathore clan Rao Jodha, though most of the existing structure is from the 17th century built by his successors. The fort has seven gates,  including the main entrance, Jai Pol (meaning 'victory gate'), built by Maharaja Man Singh to commemorate his victories over the Jaipur and Bikaner armies in 1806. The Fattehpol (lit. 'victory gate'), commemorates victory of Maharaja Ajit Singh over the Mughals. The English writer and Nobel Prize winner, Rudyard Kipling, described the fort as \"a palace that might have been built by Titans and colored by the morning sun.\"\nWithin its boundaries are several palaces known for their intricate carvings and expansive courtyards, a Chamunda Mataji Temple, as well as a museum that houses various relics. A winding road leads to and from the city below. The imprints of the impact of cannonballs fired by attacking armies of Jaipur can still be seen on the second gate. At the north-east of the fort is the chhatri of Kirat Singh Sodha, a soldier who fell on the spot defending Mehrangarh.\nSome of the notable festivals taking place here include the World Sacred Spirit Festival and Rajasthan International Folk Festival.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Mehrangarh",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.29805556,73.01888889",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=26.29805556,73.01888889",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mehrangarh_Fort_sanhita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

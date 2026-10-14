@@ -1,0 +1,25 @@
+{
+  "id": "murshidabad_hazarduari_palace",
+  "place": "Murshidabad Hazarduari Palace",
+  "state": "West Bengal",
+  "city": "Murshidabad",
+  "category": [
+    "palaces",
+    "museums",
+    "heritage"
+  ],
+  "wikipedia_title": "Hazarduari_Palace",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hazarduari_Palace",
+  "wikidata_id": "Q5687746",
+  "lat": null,
+  "lon": null,
+  "text": "The Hazarduari Palace, earlier known as the Bara Kothi, is a former palace and now a national monument and public cultural museum, located in the campus of Kila Nizamat in Murshidabad, in the Indian state of West Bengal. It is situated near the bank of the river Ganges. Based on designs by Colonel Duncan McLeod, the palace was built in the nineteenth-century Neoclassical Italianate style with Doric order influences, by Humayun Jah, the Nawab of Bengal between 1824 and 1838.\nTogether with the Nizamat Imambara, the palace has been a Monument of National Importance since 1977, and administered by the Archaeological Survey of India since 1985.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Hazarduari_Palace",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Murshidabad+Hazarduari+Palace%2C+Murshidabad%2C+West+Bengal%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Murshidabad+Hazarduari+Palace%2C+Murshidabad%2C+West+Bengal%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Hazarduari_Palace%2C_Murshidabad_illuminated_at_night.jpg/1280px-Hazarduari_Palace%2C_Murshidabad_illuminated_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

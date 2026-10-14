@@ -1,0 +1,20 @@
+{
+  "name": "incredible-journeys-india",
+  "version": "1.0.0",
+  "description": "Discover India with AI — Unified Single Localhost Editorial Guide",
+  "scripts": {
+    "dev": "python run.py",
+    "start": "python run.py",
+    "test": "npm test --prefix frontend && python backend/scripts/test_unified.py"
+  },
+  "keywords": [
+    "india",
+    "travel",
+    "rag",
+    "editorial",
+    "fastapi",
+    "nextjs"
+  ],
+  "author": "Google DeepMind Advanced Agentic Coding",
+  "license": "CC-BY-SA-4.0"
+}

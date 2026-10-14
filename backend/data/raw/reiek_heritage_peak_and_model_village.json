@@ -1,0 +1,25 @@
+{
+  "id": "reiek_heritage_peak_and_model_village",
+  "place": "Reiek Heritage Peak and Model Village",
+  "state": "Mizoram",
+  "city": "Mamit",
+  "category": [
+    "nature",
+    "viewpoints",
+    "heritage"
+  ],
+  "wikipedia_title": "Reiek",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Reiek",
+  "wikidata_id": "Q7310056",
+  "lat": null,
+  "lon": null,
+  "text": "Reiek is a mountain and tourist spot 29 km from Aizawl, Mizoram, India. It rests at an elevation of 1,465 metres overlooking Aizawl and offers a view of the surrounding valleys and hills. On a clear day, the plains of Bangladesh can be seen from the top of the hill. Reiek Hill is surrounded by thick lush green temperate trees and bushes.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Reiek",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Reiek+Heritage+Peak+and+Model+Village%2C+Mamit%2C+Mizoram%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Reiek+Heritage+Peak+and+Model+Village%2C+Mamit%2C+Mizoram%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Reiek.JPG/1280px-Reiek.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

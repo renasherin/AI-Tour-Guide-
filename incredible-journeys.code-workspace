@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "name": "Incredible Journeys: AI Tour Guide for India",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.csv": "csv",
+      "*.json": "json",
+      "*.py": "python",
+      "*.tsx": "typescriptreact",
+      "*.ts": "typescript",
+      "*.md": "markdown"
+    }
+  }
+}

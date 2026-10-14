@@ -1,0 +1,25 @@
+{
+  "id": "malampuzha_dam_and_gardens",
+  "place": "Malampuzha Dam and Ornamental Gardens",
+  "state": "Kerala",
+  "city": "Palakkad",
+  "category": [
+    "nature",
+    "gardens",
+    "dam"
+  ],
+  "wikipedia_title": "Malampuzha_Dam",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malampuzha_Dam",
+  "wikidata_id": "Q3595460",
+  "lat": 10.8306,
+  "lon": 76.6833,
+  "text": "Malampuzha Dam is the largest reservoir dam in Kerala, set dramatically against the towering peaks of the Western Ghats near Palakkad. Commissioned in 1955 across the Malampuzha River (a tributary of the Bharathappuzha), the destination combines engineering prowess with sprawling Mughal-inspired landscaped gardens, dancing illuminated musical fountains, South India's first passenger ropeway soaring across the emerald lake, a freshwater aquarium shaped like a giant fish, and the legendary monumental Yakshi sculpture carved from concrete by master sculptor Kanayi Kunhiraman.",
+  "best_time": "September to February (post-monsoon lush greenery and cool evenings)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Malampuzha_Dam",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10.8306,76.6833",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=10.8306,76.6833",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Malampuzha_Dam_Navas_10.jpg/1280px-Malampuzha_Dam_Navas_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

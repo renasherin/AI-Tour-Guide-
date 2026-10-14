@@ -1,0 +1,25 @@
+{
+  "id": "mahatma_gandhi_marine_national_park_wandoor",
+  "place": "Mahatma Gandhi Marine National Park Wandoor",
+  "state": "Andaman and Nicobar Islands",
+  "city": "Wandoor",
+  "category": [
+    "national parks and wildlife",
+    "marine",
+    "nature"
+  ],
+  "wikipedia_title": "Mahatma_Gandhi_Marine_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_Marine_National_Park",
+  "wikidata_id": "Q3364527",
+  "lat": 11.53,
+  "lon": 92.6,
+  "text": "Mahatma Gandhi Marine National Park is a national park in India, near Wandoor on the Andaman Islands. It belongs to the South Andaman administrative district, part of the Indian union territory of the Andaman and Nicobar Islands.\n\n--- Practical Travel Context (Wikivoyage) ---\nWandoor is a small village near the southern tip of South Andaman. It has some beaches and a couple of accommodation options and is a nice place to relax, but it is more known as the gateway to the Mahatma Gandhi Marine National Park. From Mahatma Gandhi Marine National Park you will get boats to Jolly Buoy (Boat charges ₹450/- per person both ways, ₹50 for a forest permit to Jolly Buoy and ₹25/- for the camera).",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_Marine_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.53,92.6",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.53,92.6",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Mahatma_Gandhi_Marine_National_Park.jpg/1280px-Mahatma_Gandhi_Marine_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

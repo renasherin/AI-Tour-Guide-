@@ -1,0 +1,25 @@
+{
+  "id": "zeilad_lake_sanctuary",
+  "place": "Zeilad Lake Sanctuary",
+  "state": "Manipur",
+  "city": "Tamenglong",
+  "category": [
+    "wildlife",
+    "nature",
+    "lakes"
+  ],
+  "wikipedia_title": "Tamenglong_district",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tamenglong_district",
+  "wikidata_id": "Q2301717",
+  "lat": 24.9863,
+  "lon": 93.5,
+  "text": "Tamenglong district (Meitei pronunciation: /tæmɛŋˈlɒŋ/) is one of the 16 districts of Manipur state in northeastern India. The district headquarters is Tamenglong.  In 2011, Tamenglong was the least populous district in Manipur. In 2016, the Nungba subdivision was separated as a separate district. Tamenglong district is also the largest district of Manipur in 2024 with an area of 3,315 km2.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Tamenglong_district",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=24.9863,93.5",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=24.9863,93.5",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Tamenglong_in_Manipur_%28India%29.svg/1280px-Tamenglong_in_Manipur_%28India%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

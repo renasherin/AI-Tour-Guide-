@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "Launch Unified Incredible Journeys (localhost:3000)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/run.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Launch Backend FastAPI (localhost:8000)",
+      "type": "python",
+      "request": "launch",
+      "module": "uvicorn",
+      "args": ["backend.app.main:app", "--host", "127.0.0.1", "--port", "8000", "--reload"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bastar_palace_jagdalpur",
+  "place": "Bastar Palace Jagdalpur",
+  "state": "Chhattisgarh",
+  "city": "Jagdalpur",
+  "category": [
+    "palaces",
+    "heritage"
+  ],
+  "wikipedia_title": "Jagdalpur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jagdalpur",
+  "wikidata_id": "Q1006363",
+  "lat": 19.18,
+  "lon": 81.92,
+  "text": "Jagdalpur is a city located in the southern part of Chhattisgarh state in India. It is the administrative headquarters of the Bastar district and Bastar division. Before the independence of India, it also served as the capital of the erstwhile princely state of Bastar. It is the fourth largest city of Chhattisgarh.\nBastar district has multiple scenic waterfalls that are popular for tourists throughout India.  The Ministry of Tourism, Government of India has identified Jagdalpur-Teerathgarh-Chitrakoot-Barsur-Dantewada Circuit as one of the 45 Mega Tourist Destinations/Circuits in India on the basis of footfalls and their future tourism potential.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jagdalpur",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=19.18,81.92",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=19.18,81.92",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Chitrakote_Falls.jpg/1280px-The_Chitrakote_Falls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "agra_fort_red_sandstone_citadel",
+  "place": "Agra Fort Red Sandstone Citadel",
+  "state": "Uttar Pradesh",
+  "city": "Agra",
+  "category": [
+    "forts",
+    "palaces",
+    "unesco",
+    "heritage"
+  ],
+  "wikipedia_title": "Agra_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Agra_Fort",
+  "wikidata_id": "Q171857",
+  "lat": 27.179542,
+  "lon": 78.021101,
+  "text": "Agra Fort (Qila Agra), also known as the Red Fort of Agra (Lal-Qila) or Qila-i-Akbari (\"Akbar's Fort\"), is an historic fort in the city of Agra in Uttar Pradesh, India. A brick fortification on the site, noted as early as 1080 and later known as Badalgarh, was extensively rebuilt in red sandstone by the Mughal emperor Akbar from 1565 to 1573. It served as the main residence of the rulers of the Mughal dynasty until 1638, when the capital was moved from Agra to Shahjahanabad in Delhi. Much of the present interior dates from the reign of Shah Jahan, who added a number of white marble palaces and mosques within the fort after 1628. The Marathas were the last Indian rulers to occupy the fort before it was captured by the British in 1803.\nThe fort has a semi-circular plan, with its straight side facing the Yamuna river. Its surviving Mughal buildings include the Jahangiri Mahal, Khas Mahal, Diwan-i-Am, Diwan-i-Khas, Musamman Burj, Shish Mahal, Moti Masjid and its two major gateways, the Delhi Gate and Amar Singh Gate.\nIn 1983, the fort was inscribed as a UNESCO World Heritage Site for its importance during Mughal rule. It is about 2.5 kilometres (1.6 mi) northwest of its sister monument, the Taj Mahal. A substantial portion remains under the control of the Indian Army and is closed to the public.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Agra_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=27.179542,78.021101",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=27.179542,78.021101",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Agra_03-2016_16_Agra_Fort.jpg/1280px-Agra_03-2016_16_Agra_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

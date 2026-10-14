@@ -1,0 +1,24 @@
+{
+  "id": "tuophema_tourist_village",
+  "place": "Tuophema Tourist Village",
+  "state": "Nagaland",
+  "city": "Kohima",
+  "category": [
+    "heritage",
+    "culture"
+  ],
+  "wikipedia_title": "Kohima",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kohima",
+  "wikidata_id": "Q234056",
+  "lat": 25.67,
+  "lon": 94.1,
+  "text": "Kohima ( ; Tenyidie: Kewhira (IPA: [ˈkɛʍɪɻə])) is the capital of the North East Indian state of Nagaland. With a resident population of almost 100,000, it is the second largest city in the state. Kohima constitutes both a district and a municipality. The municipality covers 20 km2 (7.7 sq mi). The city lies on the foothills of Japfü section of the Barail Range located south of the district (25.67°N 94.12°E﻿ / 25.67; 94.12) and has an average elevation of 1,261 m (4,137 ft).\nOriginally known as Kewhira, the city's history goes back to a time when it was a village of the Angami Nagas. It became an urban centre in 1878 when the British Empire established its headquarters of the then Naga Hills District of Assam Province. Kohima was the site of one of the bloodiest battles of World War II during the Japanese U-Go offensive into British India in 1944. The battle is often referred to as the Stalingrad of the East. In 2013, the British National Army Museum voted the Battle of Kohima to be Britain's Greatest Battle.\nIt officially became Nagaland's capital after the state was inaugurated in 1963.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kohima",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.67,94.1",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.67,94.1",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Capital_Cultural_Hall.jpg/1280px-Capital_Cultural_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

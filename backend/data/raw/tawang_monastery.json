@@ -1,0 +1,25 @@
+{
+  "id": "tawang_monastery",
+  "place": "Tawang Monastery",
+  "state": "Arunachal Pradesh",
+  "city": "Tawang",
+  "category": [
+    "pilgrimage sites",
+    "heritage",
+    "temples"
+  ],
+  "wikipedia_title": "Tawang_Monastery",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tawang_Monastery",
+  "wikidata_id": "Q3349882",
+  "lat": null,
+  "lon": null,
+  "text": "Tawang Monastery is a Buddhist monastery located in Tawang, Arunachal Pradesh, India. It is the largest Buddhist monastery in the country. It is situated in the valley of the Tawang Chu, in close proximity to the Chinese and Bhutanese border.\nTawang Monastery is known in Tibetan as Gaden Namgyal Lhatse, which translates to \"the divine paradise of complete victory\". It was founded by Merak Lama Lodre Gyatso in 1680–1681 in accordance with the wishes of the 5th Dalai Lama, Ngawang Lobsang Gyatso. It belongs to the Gelug school of Vajrayana Buddhism and had a religious association with Drepung Monastery of Lhasa, which continued during the period of British rule.\nThe monastery is three stories high. It is enclosed by a 925 feet (282 m) long compound wall. Within the complex there are 65 residential buildings. The library of the monastery has valuable old scriptures, mainly Kangyur and Tengyur.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Tawang_Monastery",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tawang+Monastery%2C+Tawang%2C+Arunachal+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Tawang+Monastery%2C+Tawang%2C+Arunachal+Pradesh%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/TawangMonastery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jagannath_temple_ranchi",
+  "place": "Jagannath Temple Ranchi",
+  "state": "Jharkhand",
+  "city": "Ranchi",
+  "category": [
+    "temples",
+    "heritage"
+  ],
+  "wikipedia_title": "Jagannath_Temple,_Ranchi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Ranchi",
+  "wikidata_id": "Q4500786",
+  "lat": 23.31694444,
+  "lon": 85.28166667,
+  "text": "Jagannath Temple is a Hindu temple in Ranchi, Jharkhand, dedicated to the deity Jagannath. The original temple was built in 1691, and was rebuilt after collapsing in the 1990s.\nThe temple stands atop a hillock approximately 10 kilometres from the main town and is accessible by both a staircase and a motorable path.  It is built in the Kalinga architectural style, resembling the Jagannath Temple of Puri, albeit on a smaller scale. Similar to the car festival in Puri, an Rath Yatra and annual fair is held at this temple in the month of Aashaadha, attracting thousands of tribal and non-tribal devotees from Ranchi and neighbouring areas.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Ranchi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=23.31694444,85.28166667",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=23.31694444,85.28166667",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/17th_century_Jagannath_temple_Ranchi_Jharkhand_-_9.jpg/1280px-17th_century_Jagannath_temple_Ranchi_Jharkhand_-_9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

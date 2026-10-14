@@ -1,0 +1,24 @@
+{
+  "id": "shirdi_sai_baba_temple",
+  "place": "Shirdi Sai Baba Temple",
+  "state": "Maharashtra",
+  "city": "Ahmednagar",
+  "category": [
+    "pilgrimage sites",
+    "temples"
+  ],
+  "wikipedia_title": "Shirdi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shirdi",
+  "wikidata_id": "Q1949112",
+  "lat": 19.77,
+  "lon": 74.48,
+  "text": "Shirdi (; also known as Sainagar) is a town and pilgrimage site in the Indian state of Maharashtra. Shirdi is located in the Rahata taluka of Ahmednagar district. It is well known as the home of the 19th-century Indian saint Sai Baba.\n\n--- Practical Travel Context (Wikivoyage) ---\nAhmednagar (अहमदनगर Ahmadnagar), officially Ahilyanagar (अहिल्यानगर Ahilyānagar), has more than 500 years history traced back to 1490, with find traces of Nizamshahi, Shah Jahan and Peshwas until the British took over Ahmednagar.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Shirdi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=19.77,74.48",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=19.77,74.48",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sai_baba_samadhi_mandir_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

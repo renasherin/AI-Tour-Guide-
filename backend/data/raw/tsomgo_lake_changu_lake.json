@@ -1,0 +1,25 @@
+{
+  "id": "tsomgo_lake_changu_lake",
+  "place": "Tsomgo Lake (Changu Lake)",
+  "state": "Sikkim",
+  "city": "Gangtok",
+  "category": [
+    "nature",
+    "lakes",
+    "mountain passes"
+  ],
+  "wikipedia_title": "Lake_Tsomgo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Tsomgo",
+  "wikidata_id": "Q542864",
+  "lat": 27.37527778,
+  "lon": 88.76388889,
+  "text": "Tsomgo Lake, also known as Tsongmo Lake or Changgu Lake, is a glacial lake in Changu in the Gangtok district of the Indian state of Sikkim, some 40 kilometres (25 mi) from the capital Gangtok. Located at an elevation of 3,753 m (12,313 ft), the lake remains frozen during the winter season. The lake surface reflects different colours with change of seasons and is held in great reverence by the local Sikkimese people. Buddhist monks prognosticated after studying the changing colours of the lake.\n\n--- Practical Travel Context (Wikivoyage) ---\nGangtok (Nepali: गंगटोक Gaṅgṭok, Tibetan: སྒང་ཐོག་ Gangtok) is a bustling, friendly hill station, and the capital of the Himalayan state of Sikkim.  The name \"Gangtok\" is derived from the Tibetan word for 'hillside,' and the city has a population of around 100,000 (2012) being a mixture of indigenous Sikkimese and people of Nepalese and Tibetan ancestry.\n\n",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Lake_Tsomgo",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=27.37527778,88.76388889",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=27.37527778,88.76388889",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Tsongmo_Lake_or_Changu_Lake_-_East_Sikkim.jpg/1280px-Tsongmo_Lake_or_Changu_Lake_-_East_Sikkim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

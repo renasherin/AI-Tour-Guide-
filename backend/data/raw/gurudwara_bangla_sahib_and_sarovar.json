@@ -1,0 +1,25 @@
+{
+  "id": "gurudwara_bangla_sahib_and_sarovar",
+  "place": "Gurudwara Bangla Sahib and Sarovar",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "category": [
+    "pilgrimage sites",
+    "temples",
+    "heritage"
+  ],
+  "wikipedia_title": "Gurdwara_Bangla_Sahib",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib",
+  "wikidata_id": "Q2375435",
+  "lat": 28.6267,
+  "lon": 77.2089,
+  "text": "Gurdwara Bangla Sahib () is one of the most prominent Sikh gurdwaras, or Sikh house of worship, in Delhi, India, and known for its association with the eighth Sikh Guru, Guru Har Krishan, as well as the holy pond inside its complex, known as the \"Sarovar.\" Originally a bungalow of Raja Jai Singh I of Amber, it was rebuilt as a small shrine by Sikh General Sardar Baghel Singh in 1783. In the same year, there was reconstruction of nine Sikh shrines in Delhi.\nIt is located near Connaught Place, New Delhi on Baba Kharak Singh Marg and it is recognisable by its golden dome and tall flagpole.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.6267,77.2089",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.6267,77.2089",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Front_view_of_Gurudwara_Bangla_Sahib%2C_Delhi.jpg/1280px-Front_view_of_Gurudwara_Bangla_Sahib%2C_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

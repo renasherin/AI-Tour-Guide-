@@ -1,0 +1,25 @@
+{
+  "id": "suheli_par_coral_reef_and_fishing_haven",
+  "place": "Suheli Par Coral Reef and Fishing Haven",
+  "state": "Lakshadweep",
+  "city": "Suheli",
+  "category": [
+    "marine",
+    "nature",
+    "wildlife"
+  ],
+  "wikipedia_title": "Lakshadweep",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lakshadweep",
+  "wikidata_id": "Q26927",
+  "lat": 10.57,
+  "lon": 72.64,
+  "text": "Lakshadweep is a union territory of India. It is an archipelago of 36 islands divided into three island subgroups: the Amindivi Islands in the north, the Laccadive Islands (separated from Amindivi roughly by the 11th parallel north), and the atoll of Minicoy to the south of the Nine Degree Channel. The islands are located between the Arabian Sea to the west and the Laccadive Sea to the east, about 220–440 km (140–270 mi) off the Malabar Coast of mainland India.\nThe islands occupy a total land area of approximately 32.62 km2 (12.59 sq mi) with a population of 64,473 as per the 2011 census, spread across the ten inhabited islands. There is a 132 km (82 mi) long coastline with a lagoon area of 4,200 km2 (1,600 sq mi), territorial waters of 20,000 km2 (7,700 sq mi) and an exclusive economic zone of 400,000 km2 (150,000 sq mi). Lakshadweep is the northernmost island group of the exposed undersea mountain range, the Chagos-Lakshadweep Ridge. The entire union territory is administered as a single district, with Kavaratti as its capital.\nArchaeological evidence from Kalpeni indicates human settlement in the region from at least 1500 BCE with early references to the islands in the Buddhist Jataka tales from the 3rd century BCE and the Tamil Sangam literature Patiṟṟuppattu. The region was controlled by the Cheras in the Sangam period (3rd century BCE to 3rd century CE) and later by the Pallavas. Islam is presumed to have been brought to the islands in the 7th century with the arrival of Muslims. In the 11th century CE, the region was under the influence of the Chola kingdom and formed a part of the trade route that connected the Middle East with South Asia. It came under the influence of the Portuguese briefly in the late 15th century CE before being ruled by the Arakkal kingdom, who were vassals of the Kolathiri Rajas of Kannur. The region was under the influence of the Mysore kingdom in the late 18th century and was later annexed by the British Empire in 1799 CE. The islands became part of the Dominion of India following the Indian independence in 1947 and were incorporated as a union territory in 1956.\nThe name Lakshadweep literally means \"one hundred thousand islands\" in Malayalam and Sanskrit. English is the designated official language, while Jeseri, a dialect of Malayalam, is the widely spoken native language. Dhivehi is the most widely spoken language on Minicoy Island. The region comes under the judicial jurisdiction of the Kerala High Court. Fishing and agriculture are the major occupations in the islands.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Lakshadweep",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10.57,72.64",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=10.57,72.64",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/A_beach_side_resort_at_Kadmat_Island%2C_Lakshadweep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

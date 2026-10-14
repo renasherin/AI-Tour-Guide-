@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;800&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-page: #FAF8F5;
+    --text-primary: #171F2C;
+    --card-bg: #FFFFFF;
+  }
+
+  .dark {
+    --bg-page: #0F141C;
+    --text-primary: #FAF8F5;
+    --card-bg: #171F2C;
+  }
+
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Playfair Display', 'Cinzel', Georgia, serif;
+    letter-spacing: -0.015em;
+  }
+
+  h1.font-cinzel, h2.font-cinzel, .font-cinzel {
+    font-family: 'Cinzel', serif;
+  }
+
+  ::selection {
+    background-color: #C85A32;
+    color: #FFFFFF;
+  }
+}
+
+/* Leaflet map styles */
+@import "leaflet/dist/leaflet.css";
+
+/* Editorial custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(200, 90, 50, 0.25);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(200, 90, 50, 0.5);
+}
+
+/* Subtle editorial animations */
+@keyframes fadeInSlide {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-slide {
+  animation: fadeInSlide 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Aeroplane flight path animation across hero */
+@keyframes flightGlide {
+  0% {
+    transform: translate(-10%, 65px) rotate(-16deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  45% {
+    transform: translate(45vw, 15px) rotate(-6deg);
+  }
+  75% {
+    transform: translate(75vw, 25px) rotate(-2deg);
+  }
+  95% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(105vw, 10px) rotate(4deg);
+    opacity: 0;
+  }
+}
+
+.animate-flight-glide {
+  animation: flightGlide 14s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* 3D Globe continuous rotation */
+@keyframes globeSpin {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 160px 0;
+  }
+}
+
+.animate-globe-spin {
+  animation: globeSpin 20s linear infinite;
+}
+
+/* Orbiting satellite */
+@keyframes orbitSpin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-orbit {
+  animation: orbitSpin 12s linear infinite;
+}
+
+/* Leaflet custom map markers */
+.custom-leaflet-icon {
+  background: #C85A32;
+  border: 2px solid #FAF8F5;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gurudongmar_lake_sacred_high_altitude",
+  "place": "Gurudongmar Lake Sacred High Altitude",
+  "state": "Sikkim",
+  "city": "Mangan",
+  "category": [
+    "nature",
+    "lakes",
+    "pilgrimage sites"
+  ],
+  "wikipedia_title": "Gurudongmar_Lake",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gurudongmar_Lake",
+  "wikidata_id": "Q2264090",
+  "lat": null,
+  "lon": null,
+  "text": "Gurudongmar Lake is one of the highest lakes in the world and in India, at an elevation of 5,430 m (17,800 ft) according to the Government of Sikkim. It is located in the Great Himalayas in the Mangan district in  Indian state of Sikkim, and considered sacred by Buddhists. The lake is named after Padmasambhava, who visited it in the 8th century.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Gurudongmar_Lake",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gurudongmar+Lake+Sacred+High+Altitude%2C+Mangan%2C+Sikkim%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Gurudongmar+Lake+Sacred+High+Altitude%2C+Mangan%2C+Sikkim%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/1280px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

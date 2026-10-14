@@ -1,0 +1,25 @@
+{
+  "id": "bangalore_palace_and_lalbagh",
+  "place": "Bangalore Palace and Lalbagh",
+  "state": "Karnataka",
+  "city": "Bengaluru",
+  "category": [
+    "palaces",
+    "botanical gardens",
+    "heritage"
+  ],
+  "wikipedia_title": "Bangalore_Palace",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bangalore_Palace",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Bangalore Palace and Lalbagh is a celebrated destination in Bengaluru, Karnataka, renowned for its palaces, botanical gardens, heritage. Located in the historic and scenic region of Karnataka, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Karnataka. The best time to plan a visit is generally October to March (mild winter season avoiding summer humidity). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg/1280px-Bangalore_Mysore_Maharaja_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

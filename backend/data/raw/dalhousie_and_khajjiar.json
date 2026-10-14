@@ -1,0 +1,24 @@
+{
+  "id": "dalhousie_and_khajjiar",
+  "place": "Dalhousie and Khajjiar",
+  "state": "Himachal Pradesh",
+  "city": "Chamba",
+  "category": [
+    "hill stations",
+    "nature"
+  ],
+  "wikipedia_title": "Khajjiar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Khajjiar",
+  "wikidata_id": "Q6399144",
+  "lat": 32.5462344,
+  "lon": 76.0580921,
+  "text": "Khajjiar is a hill station near the town of Chamba in Chamba district of Himachal Pradesh, India. Located approximately 24 kilometres (15 mi) from Dalhousie, it lies on a small plateau about 2,000 meters (6,500 feet) above sea level in the foothills of the Dhauladhar ranges in the Western Himalayas. It is also part of the Kalatop Khajjiar Sanctuary.\nKhajjiar can be reached from Dalhousie, the nearest major town. The area features a combination of three ecosystems: lake, pasture, and forest.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Khajjiar",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32.5462344,76.0580921",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=32.5462344,76.0580921",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nature_of_Khajjiar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

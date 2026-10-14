@@ -1,0 +1,25 @@
+{
+  "id": "mussoorie_queen_of_the_hills_and_kempty_falls",
+  "place": "Mussoorie Queen of the Hills and Kempty Falls",
+  "state": "Uttarakhand",
+  "city": "Dehradun",
+  "category": [
+    "hill stations",
+    "waterfalls",
+    "nature"
+  ],
+  "wikipedia_title": "Mussoorie",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mussoorie",
+  "wikidata_id": "Q668395",
+  "lat": 30.45,
+  "lon": 78.08,
+  "text": "Mussoorie (Garhwali: [məsuːɾiː]) is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 26 kilometres (16 mi) from the state Winter capital Dehradun and 289 km (180 mi) north of the national capital of New Delhi. The hill station is in the foothills of the Garhwal Himalayan range. The adjoining town of Landour, which includes a military cantonment, is considered part of \"greater Mussoorie\", as are the townships Barlowganj and Jharipani.\nMussoorie is at an average altitude of 2,001 metres (6,565 ft). To the northeast are the Himalayan snow ranges, and to the south, the Doon Valley and Sivalik Hills ranges. The second highest point is the original Lal Tibba in Landour, with a height of over 2,258 m (7,408 ft). Mussoorie is popularly known as The Queen of the Hills.\nThere were 3.02 million (30.23 lac) travellers to Mussoorie in 2019.",
+  "best_time": "December to February for snow sports; May to October for pleasant weather and clear mountain passes",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Mussoorie",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=30.45,78.08",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=30.45,78.08",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Mussoorie_Snow_Over_Dehradun_%2814831297545%29.jpg/1280px-Mussoorie_Snow_Over_Dehradun_%2814831297545%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

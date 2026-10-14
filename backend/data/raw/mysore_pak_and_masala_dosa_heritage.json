@@ -1,0 +1,25 @@
+{
+  "id": "mysore_pak_and_masala_dosa_heritage",
+  "place": "Mysore Pak and Masala Dosa Heritage",
+  "state": "Karnataka",
+  "city": "Mysuru",
+  "category": [
+    "food",
+    "desserts",
+    "traditional breakfast"
+  ],
+  "wikipedia_title": "Mysore_pak",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mysore_pak",
+  "wikidata_id": "Q3129728",
+  "lat": null,
+  "lon": null,
+  "text": "Mysore pak (Kannada: ಮೈಸೂರು ಪಾಕ್, lit. 'Mysore's confection') is a traditional Indian confectionery made primarily from gram flour (besan), sugar, and ghee and often flavoured with cardamom. It originated in the royal kitchens of the Kingdom of Mysore, located in the present-day state of Karnataka, India. The texture of this sweet is similar to both a fudge and a buttery dense cookie. Known for its rich, melt-in-the-mouth texture, Mysore pak is a signature sweet of Karnataka and is widely consumed across southern India during weddings, festivals, and celebrations. The sweet is also popular in Bangladesh (locally referred to as Monsur) and Pakistan.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Mysore_pak",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mysore+Pak+and+Masala+Dosa+Heritage%2C+Mysuru%2C+Karnataka%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Mysore+Pak+and+Masala+Dosa+Heritage%2C+Mysuru%2C+Karnataka%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Mysore_pak.jpg/1280px-Mysore_pak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

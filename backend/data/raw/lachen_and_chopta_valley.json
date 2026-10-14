@@ -1,0 +1,25 @@
+{
+  "id": "lachen_and_chopta_valley",
+  "place": "Lachen and Chopta Valley",
+  "state": "Sikkim",
+  "city": "North Sikkim",
+  "category": [
+    "nature",
+    "hill stations",
+    "trekking"
+  ],
+  "wikipedia_title": "Lachen,_Sikkim",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lachen,_Sikkim",
+  "wikidata_id": "Q3215806",
+  "lat": null,
+  "lon": null,
+  "text": "Lachen – The \"Big Pass\" of North Sikkim\nLachen is a high-altitude town and hill station located in the Mangan district of Sikkim, India, near the Indo-Tibetan border. Approximately 50 km from Mangan and 129 km from Gangtok, Lachen sits at an elevation of about 9,600 feet (2,900 meters), near the confluence of the Lachen and Lachung Rivers—both tributaries of the Teesta. The name Lachen means \"Big Pass.\"\n\n--- Practical Travel Context (Wikivoyage) ---\nNorth Sikkim is a region of Sikkim, comprising the Mangan district. Most of North Sikkim is restricted to travellers and permits are needed to visit these areas. The area, which shares a sensitive border with China is heavily patrolled by the Indian army. However, in view of exquisite scenic beauty, many tourists have started visiting the region overcoming the difficulties.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Lachen,_Sikkim",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lachen+and+Chopta+Valley%2C+North+Sikkim%2C+Sikkim%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Lachen+and+Chopta+Valley%2C+North+Sikkim%2C+Sikkim%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bundesarchiv_Bild_135-KA-02-055%2C_Tibetexpedition%2C_Lachen%2C_Dorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

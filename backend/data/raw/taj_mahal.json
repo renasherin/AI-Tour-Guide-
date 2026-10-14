@@ -1,0 +1,26 @@
+{
+  "id": "taj_mahal",
+  "place": "Taj Mahal",
+  "state": "Uttar Pradesh",
+  "city": "Agra",
+  "category": [
+    "heritage",
+    "unesco",
+    "monuments",
+    "marble masterpiece"
+  ],
+  "wikipedia_title": "Taj_Mahal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+  "wikidata_id": "Q9141",
+  "lat": 27.175,
+  "lon": 78.0419,
+  "text": "The Taj Mahal ( TAHJ mə-HAHL, TAHZH -⁠; Hindustani: [t̪ɑːd͡ʒ ˈmɛɦ(ɛ)l]; lit. 'Crown of the Palace') is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan (r. 1628–1658), to house the tomb of his late wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.\nConstruction of the mausoleum was completed in 1648, although work on other parts of the complex continued for another five years. The first ceremony held at the mausoleum was an observance by Shah Jahan, on 6 February 1643, of the 12th anniversary of the death of Mumtaz Mahal. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around ₹32 million, which in 2015 would be approximately ₹52.8 billion (US$827 million).\nThe building complex incorporates the design traditions of Indo-Islamic and Mughal architecture. It employs symmetrical constructions with the usage of various shapes and symbols. While the mausoleum is constructed of white marble inlaid with semi-precious stones, red sandstone was used for other buildings in the complex similar to contemporary Mughal-era buildings. The construction project employed more than 20,000 workers and artisans under the guidance of a board of architects led by Ustad Ahmad Lahori, the emperor's court architect. The complex was designed and executed by a multinational board of artisans and supervisors, including Ottoman dome designer Ismail Afandi; Persian architects Ustad Isa, Isa Muhammad Effendi, and Puru; chief calligrapher Amanat Khan Shirazi; finial caster Qazim Khan; and masonry supervisors Muhammad Hanif, Mir Abdul Karim, and Mukkarimat.\nThe Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\". It is regarded as one of the best examples of Mughal architecture and a symbol of Indian history. The Taj Mahal is a major tourist attraction and attracts more than five million visitors a year. In 2007, it was declared a winner of the New 7 Wonders of the World initiative. The Taj Mahal and its setting, surrounding grounds, and structures are a Monument of National Importance, administered by the Archaeological Survey of India.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=27.175,78.0419",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=27.175,78.0419",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1280px-Taj_Mahal_%28Edited%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

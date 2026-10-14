@@ -1,0 +1,26 @@
+{
+  "id": "red_fort_lal_qila",
+  "place": "Red Fort (Lal Qila)",
+  "state": "Delhi",
+  "city": "Old Delhi",
+  "category": [
+    "forts",
+    "unesco",
+    "palaces",
+    "heritage"
+  ],
+  "wikipedia_title": "Red_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Fort",
+  "wikidata_id": "Q45957",
+  "lat": 28.65583333,
+  "lon": 77.24083333,
+  "text": "The Red Fort (Lal Qila in Hindi; Hindi pronunciation: [laːl 'qɪlaː]) is a historic Mughal fort located in the Old Delhi area of Delhi, India. Serving as the main residence of the Mughal emperors, it was commissioned by Emperor Shah Jahan on the 12th of May 1639; the fort was constructed following his decision to shift the Mughal capital from Agra to Delhi. Originally adorned in red and white, the fort's design is attributed to Ustad Ahmad Lahori, the architect of the Taj Mahal. The Red Fort is a prominent example of Mughal architecture from Shah Jahan's reign, combining Persian and Indian architectural styles.\nDuring the invasion by Nadir Shah of the Afsharid Empire in 1739, the fort was plundered and stripped of its artwork and jewels. Following the Indian Rebellion of 1857, many of its marble structures were demolished by the British, although the defensive walls remained largely intact. The fort was later repurposed as a military garrison.\nOn 15 August 1947, the first Prime Minister of India, Jawaharlal Nehru, hoisted the Indian flag above the Lahori Gate, the main entrance of the Red Fort. Since then, the Prime Minister of India has ceremonially raised the national tricolour at the main gate each year on Independence Day, then delivering a nationally broadcast address from its ramparts.\nThe Red Fort, as part of the Red Fort Complex, was recognised as a UNESCO World Heritage Site in 2007.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Red_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.65583333,77.24083333",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.65583333,77.24083333",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/1280px-Delhi_fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

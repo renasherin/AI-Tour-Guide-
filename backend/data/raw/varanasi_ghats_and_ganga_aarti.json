@@ -1,0 +1,25 @@
+{
+  "id": "varanasi_ghats_and_ganga_aarti",
+  "place": "Varanasi Ghats and Ganga Aarti",
+  "state": "Uttar Pradesh",
+  "city": "Varanasi",
+  "category": [
+    "heritage",
+    "pilgrimage sites",
+    "sacred river"
+  ],
+  "wikipedia_title": "Ghats_in_Varanasi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ghats_in_Varanasi",
+  "wikidata_id": "Q5555933",
+  "lat": null,
+  "lon": null,
+  "text": "Ghats in Varanasi are riverfront steps leading to the banks of the Ganges river. The city has 84 ghats. Most of the ghats are bathing and puja ceremonial ghats, while two ghats, Manikarnika and Harishchandra, are used exclusively as cremation sites.\nMost of the ghats in Varanasi were rebuilt in the 18th century under the Maratha patronage. The patrons of current ghats were Maharajas of Benares, Marathas, Shindes (Scindias), Holkars, Bhonsles and Peshwes (Peshwas). Many ghats are associated with legends or mythologies while other ghats have private histories and users. A morning boat ride on the Ganges along the ghats is a popular visitor attraction.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Ghats_in_Varanasi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Varanasi+Ghats+and+Ganga+Aarti%2C+Varanasi%2C+Uttar+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Varanasi+Ghats+and+Ganga+Aarti%2C+Varanasi%2C+Uttar+Pradesh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ahilya_Ghat_by_the_Ganges%2C_Varanasi.jpg/1280px-Ahilya_Ghat_by_the_Ganges%2C_Varanasi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

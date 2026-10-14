@@ -1,0 +1,24 @@
+{
+  "id": "lepakshi_veerabhadra_temple",
+  "place": "Lepakshi Veerabhadra Temple",
+  "state": "Andhra Pradesh",
+  "city": "Lepakshi",
+  "category": [
+    "temples",
+    "heritage"
+  ],
+  "wikipedia_title": "Lepakshi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lepakshi",
+  "wikidata_id": "Q2350184",
+  "lat": 13.81,
+  "lon": 77.6,
+  "text": "Lepakshi is a village in the Sri Sathya Sai district of Andhra Pradesh, India. It is situated 15 km (9.3 miles) eastward of Hindupur, 82 km (51 miles) westward of Kadiri.The Veerabhadra Temple, Lepakshi, is one of the finest surviving examples of Vijayanagara-period temple architecture in South India. Dedicated to Lord Veerabhadra, a fierce manifestation of Shiva, the temple is renowned for its monumental sculptures, intricate carvings, and extensive mural paintings..",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Lepakshi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=13.81,77.6",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=13.81,77.6",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Front_side_of_Veerabhadra_Temple%2C_Lepakshi.jpg/1280px-Front_side_of_Veerabhadra_Temple%2C_Lepakshi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

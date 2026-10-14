@@ -1,0 +1,25 @@
+{
+  "id": "thusharagiri_waterfalls_kozhikode",
+  "place": "Thusharagiri Waterfalls",
+  "state": "Kerala",
+  "city": "Kozhikode",
+  "category": [
+    "waterfall",
+    "nature",
+    "trekking"
+  ],
+  "wikipedia_title": "Thusharagiri_Falls",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thusharagiri_Falls",
+  "wikidata_id": "Q7798933",
+  "lat": 11.4725,
+  "lon": 76.0528,
+  "text": "Thusharagiri Falls ('Snow-Capped Mountain') is a spectacular cascade system located 50 km from Kozhikode in the Western Ghats foothills near Kodencheri. Formed by two mountain streams originating from the high Wayanad hills joining to create the Chalipuzha River, the river diverges into three cascading tiers: Erattumukku, Mazhavil Chattom (Rainbow Falls), and Thumbitullum Para. Surrounded by aromatic spice plantations of vanilla, rubber, areca nut, and pepper, Thusharagiri is renowned among rock climbers, white-water rafters, and adventurous trekkers venturing up the river valley towards Wayanad's Vythiri plateau.",
+  "best_time": "September to February (post-monsoon roaring water volume and lush greenery)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Thusharagiri_Falls",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.4725,76.0528",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.4725,76.0528",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thusharagiri_Waterfalls_-_%E0%B4%A4%E0%B5%81%E0%B4%B7%E0%B4%BE%E0%B4%B0%E0%B4%97%E0%B4%BF%E0%B4%B0%E0%B4%BF_%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%82_09.jpg/960px-Thusharagiri_Waterfalls_-_%E0%B4%A4%E0%B5%81%E0%B4%B7%E0%B4%BE%E0%B4%B0%E0%B4%97%E0%B4%BF%E0%B4%B0%E0%B4%BF_%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%82_09.jpg"
+}

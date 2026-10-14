@@ -1,0 +1,24 @@
+{
+  "id": "kiltan_island_historical_trade_atoll",
+  "place": "Kiltan Island Historical Trade Atoll",
+  "state": "Lakshadweep",
+  "city": "Kiltan",
+  "category": [
+    "beaches",
+    "heritage"
+  ],
+  "wikipedia_title": "Kiltan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kiltan",
+  "wikidata_id": "Q3595476",
+  "lat": 11.483,
+  "lon": 73.005,
+  "text": "Kiltan or Kilthān Island is a coral island in the Amindivi subgroup of the Indian Union Territory of Lakshadweep.\nIt is at a distance of 291 km away from Kannur, 303 km away from Kozhikode, and 394 km (245 mi) west of the city of Kochi.\nThe nearest mainland body is Cannanore and the nearest port is Mangalore.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kiltan",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.483,73.005",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.483,73.005",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Kiltan_20150107081937_mobile_camera_seen_from_chopper_kiltan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

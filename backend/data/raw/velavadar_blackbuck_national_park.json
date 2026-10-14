@@ -1,0 +1,24 @@
+{
+  "id": "velavadar_blackbuck_national_park",
+  "place": "Velavadar Blackbuck National Park",
+  "state": "Gujarat",
+  "city": "Bhavnagar",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Blackbuck_National_Park,_Velavadar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Blackbuck_National_Park,_Velavadar",
+  "wikidata_id": "Q880724",
+  "lat": 22.03333333,
+  "lon": 72.05,
+  "text": "Blackbuck National Park is a national park in the Bhavnagar District of Gujarat in India. It was established in 1976 in the Bhal region of Saurashtra. Hugging the coasts of the Gulf of Khambhat in the south, it is spread over an area of 34.08 km2 (13.16 sq mi), which was primarily a grassland for hunting the blackbuck. In the north, it is surrounded by wastelands and cropfields. It has been classified as 4B Gujarat-Rajwada biotic province of semi-arid bio-geographical zone.\nConservation programs for the blackbuck, wolf, and lesser florican are ongoing.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Blackbuck_National_Park,_Velavadar",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.03333333,72.05",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.03333333,72.05",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Antilope_cervicapra_from_velavadar.JPG/1280px-Antilope_cervicapra_from_velavadar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

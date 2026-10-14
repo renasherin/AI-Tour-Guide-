@@ -1,0 +1,24 @@
+{
+  "id": "chhungte_waterfalls",
+  "place": "Chhungte Waterfalls",
+  "state": "Mizoram",
+  "city": "Champhai",
+  "category": [
+    "nature",
+    "waterfalls"
+  ],
+  "wikipedia_title": "Champhai",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Champhai",
+  "wikidata_id": "Q861388",
+  "lat": 23.456,
+  "lon": 93.329,
+  "text": "Champhai is the third largest town in Mizoram, northeast India and is one of the oldest settlements founded by the Mizo people that initially served as a capital for the Hmar dynasty. Located near the India–Myanmar border, it facilitates cross-border trade and serves as a hub for trade and commerce in the region.\nUnlike most urban places in Mizoram, Champhai is situated in a valley and on top of a small hill. It is situated at an elevation of approximately 1,678 meters (5,505 feet) above sea level. It had an estimated population of 44,000 in 2023.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Champhai",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=23.456,93.329",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=23.456,93.329",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Champhai%2C_Mizoram%2C_from_south%2C_with_Zotlang_in_the_foreground.jpg/1280px-Champhai%2C_Mizoram%2C_from_south%2C_with_Zotlang_in_the_foreground.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

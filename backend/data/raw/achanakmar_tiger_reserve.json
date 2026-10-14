@@ -1,0 +1,24 @@
+{
+  "id": "achanakmar_tiger_reserve",
+  "place": "Achanakmar Tiger Reserve",
+  "state": "Chhattisgarh",
+  "city": "Bilaspur",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Achanakmar_Tiger_Reserve",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Achanakmar_Tiger_Reserve",
+  "wikidata_id": "Q4673468",
+  "lat": 22.55,
+  "lon": 81.73,
+  "text": "Achanakmar Wildlife Sanctuary is a sanctuary in Mungeli district of Chhattisgarh and in the Anuppur and Dindori districts of Madhya Pradesh in India. It was established in 1975, under the provisions of the Indian Wildlife Protection Act of 1972, and declared as a Tiger Reserve under Project Tiger, in 2009. It is a part of the Achanakmar-Amarkantak Biosphere Reserve.\n\n--- Practical Travel Context (Wikivoyage) ---\nThere are a number of towns called Bilaspur in India:\n\nBilaspur (Uttar Pradesh)\nBilaspur (Himachal Pradesh)\nBilaspur (Chhattisgarh)\nAnd two districts:\n\nBilaspur (district, Himachal Pradesh)\nBilaspur (district, Chhattisgarh)",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Achanakmar_Tiger_Reserve",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.55,81.73",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.55,81.73",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Achanakmar_Tiger_Reserve.jpg/1280px-Achanakmar_Tiger_Reserve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cherrapunji_sohra_waterfalls",
+  "place": "Cherrapunji (Sohra) Waterfalls",
+  "state": "Meghalaya",
+  "city": "East Khasi Hills",
+  "category": [
+    "nature",
+    "waterfalls",
+    "caves"
+  ],
+  "wikipedia_title": "Cherrapunji",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cherrapunji",
+  "wikidata_id": "Q211030",
+  "lat": 25.284,
+  "lon": 91.721,
+  "text": "Cherrapunji ( ), also known as Sohra, is a sub-divisional town (Proposed District) in the East Khasi Hills district in the Indian state of Meghalaya. It was the traditional capital of ka hima Sohra (Khasi tribal kingdom).\nSohra has often been credited as being the wettest place on Earth, but currently, nearby Mawsynram holds that distinction. Sohra still holds the all-time record for the most rainfall in a calendar month and in a year, however. It received 9,300 millimetres (370 in; 30.5 ft) in July 1861 and 26,461 millimetres (1,041.8 in; 86.814 ft) between 1 August 1860 and 31 July 1861.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Cherrapunji",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25.284,91.721",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=25.284,91.721",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherrapunji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

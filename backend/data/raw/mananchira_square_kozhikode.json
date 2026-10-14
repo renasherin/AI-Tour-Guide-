@@ -1,0 +1,25 @@
+{
+  "id": "mananchira_square_kozhikode",
+  "place": "Mananchira Square & Palace Reservoir",
+  "state": "Kerala",
+  "city": "Kozhikode",
+  "category": [
+    "heritage",
+    "gardens",
+    "architecture"
+  ],
+  "wikipedia_title": "Mananchira",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mananchira",
+  "wikidata_id": "Q6747124",
+  "lat": 11.2528,
+  "lon": 75.7806,
+  "text": "Mananchira Square is a historic heritage park wrapped around the sprawling freshwater Mananchira lake in central Kozhikode. The artificial rectangular reservoir was built in the 14th century by the Zamorin monarch King Mana Vikram as a private bathing pool for the royal palace complex. Today, the square is transformed into a serene cultural haven enclosed by traditional Kerala-style carved wooden gateways, terracotta tiled verandas, 250 ornamental Victorian lamp posts, an open-air theatre, and verdant lawns bordered by the historic Commonwealth Trust factory and Town Hall.",
+  "best_time": "October to March (cool evenings, serene illuminated lakeside strolls)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Mananchira",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.2528,75.7806",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.2528,75.7806",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Mananachira_Pond_Gardens%2C_Kozhikode2.jpg/960px-Mananachira_Pond_Gardens%2C_Kozhikode2.jpg"
+}

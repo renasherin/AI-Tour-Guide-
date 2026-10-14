@@ -1,0 +1,24 @@
+{
+  "id": "chang_la_pass",
+  "place": "Chang La Pass",
+  "state": "Ladakh",
+  "city": "Leh",
+  "category": [
+    "nature",
+    "mountain passes"
+  ],
+  "wikipedia_title": "Chang_La",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chang_La",
+  "wikidata_id": "Q866534",
+  "lat": 34.04704,
+  "lon": 77.93054,
+  "text": "Chang La is a high mountain pass in Ladakh at an elevation of 5,360 m (17,590 ft) in the Greater Himalaya between Leh and the Shyok River valley. The Chang La, on Leh to Pangong Lake road, lies on the Leh-Karu-Sakti-Zingral-Chang La-Durbuk-Tangtse-Pangong Lake motorable road. Karu, which lies on Leh-Manali NH-3, connects Chang La and Pangong Lake to Leh and the rest of India. In September 2021, BRO opened another alternate motorable asphalt road between Zingral and Tangtse via Ke La pass (5,669.28 m or 18,600.0 ft) and Taruk (also spelled Tharuk).\nChang La is approached from Zingral village by a steeply climbing asphalt road which requires careful driving. The stretch of 10–15 km road on either side of Chang La becomes loose dirt and slush after the winter and requires regular maintenance. During the summer months specifically the tourist season, small streams appear across the road, making the climb a challenge for bikers. The descent from Chang La towards Tangtse or Darbuk is again very steep. Doctors advise not staying at the top for more than 20–25 minutes as it may cause altitude sickness.",
+  "best_time": "May to September (summer season when high passes remain open and skies are crystal clear)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chang_La",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.04704,77.93054",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=34.04704,77.93054",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/ChanglaPass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

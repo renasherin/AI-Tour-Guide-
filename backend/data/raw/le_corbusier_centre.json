@@ -1,0 +1,25 @@
+{
+  "id": "le_corbusier_centre",
+  "place": "Le Corbusier Centre",
+  "state": "Chandigarh",
+  "city": "Chandigarh",
+  "category": [
+    "museums",
+    "architecture",
+    "heritage"
+  ],
+  "wikipedia_title": "Le_Corbusier_Centre",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Corbusier_Centre",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Le Corbusier Centre is a celebrated destination in Chandigarh, Chandigarh, renowned for its museums, architecture, heritage. Located in the historic and scenic region of Chandigarh, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Chandigarh. The best time to plan a visit is generally October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Antique_furniture_Le_Corbusier_centre_Chandigarh_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+}

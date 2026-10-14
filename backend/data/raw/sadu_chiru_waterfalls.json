@@ -1,0 +1,24 @@
+{
+  "id": "sadu_chiru_waterfalls",
+  "place": "Sadu Chiru Waterfalls",
+  "state": "Manipur",
+  "city": "Kangpokpi",
+  "category": [
+    "nature",
+    "waterfalls"
+  ],
+  "wikipedia_title": "Imphal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Imphal",
+  "wikidata_id": "Q208097",
+  "lat": 24.8074,
+  "lon": 93.9384,
+  "text": "Imphal (UK:  IM-fahl, US:   IMP-hul; Meitei: [impʰal]) is the capital city of the Indian state of Manipur. The metropolitan centre of the city contains the ruins of Kangla Palace (officially known as Kangla Fort), the royal seat of the former Kingdom of Manipur, surrounded by a moat. Spread over parts of the districts of Imphal West and Imphal East, the former contains the majority of the city's area and population. Imphal is part of the Smart Cities Mission under the Ministry of Housing and Urban Affairs. Being a prominent commercial hub, Imphal is known for its weaving, brass-ware, bronze-ware, and other cottage industries. \nINS Imphal, the third ship of the Visakhapatnam-class stealth guided missile destroyer of the Indian Navy, was named in recognition of the Indian soldiers who fought in Battle of Imphal during World War II, and is the first Indian Navy Ship (INS) named after a city in Northeast India.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Imphal",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=24.8074,93.9384",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=24.8074,93.9384",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Imphal_At_Dusk.jpg/1280px-Imphal_At_Dusk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

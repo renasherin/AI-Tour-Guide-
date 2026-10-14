@@ -1,0 +1,24 @@
+{
+  "id": "belum_caves",
+  "place": "Belum Caves",
+  "state": "Andhra Pradesh",
+  "city": "Kurnool",
+  "category": [
+    "nature",
+    "caves"
+  ],
+  "wikipedia_title": "Belum_Caves",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Belum_Caves",
+  "wikidata_id": "Q723862",
+  "lat": null,
+  "lon": null,
+  "text": "Belum Caves are a limestone cave system located in Nandyal district of Andhra Pradesh, India. Extending over 3.23 km (2.01 mi), it is the second-largest cave network in the country.\nArchaeological evidence indicates human activity in the caves as early as 4500 BCE, and the site was later used by Buddhist and Jain ascetics. The caves were formed by persistent hyrdological erosion during wetter climatic conditions that existed during the Pre-Pliocene period. They feature extensive karst formations, including sinkholes, dolines, stalactites, stalagmites, and other speleotherms. The interior of the caves consist of sediment deposited by the historical Chitravathi River that once flowed through the cave.\nAlthough long known locally, the caves were first documented in 1884 by British geologist Robert Bruce Foote and were systematically mapped in the early 1980s by a German speleological team led by Herbert Daniel Gebauer. It was declared as a protected site in 1988 and opened for tourism in 2002. The Geological Survey of India designated them as a Geo-heritage Site in 2025.\nBelum caves was adjudged as the best destination at the Tourism and Travel Fair held in Bangalore in 2002.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Belum_Caves",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belum+Caves%2C+Kurnool%2C+Andhra+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Belum+Caves%2C+Kurnool%2C+Andhra+Pradesh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Belumcave1.jpg/1280px-Belumcave1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

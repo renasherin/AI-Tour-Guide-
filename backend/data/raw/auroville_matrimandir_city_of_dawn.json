@@ -1,0 +1,25 @@
+{
+  "id": "auroville_matrimandir_city_of_dawn",
+  "place": "Auroville Matrimandir City of Dawn",
+  "state": "Puducherry",
+  "city": "Auroville",
+  "category": [
+    "monuments",
+    "modern heritage",
+    "spiritual centers"
+  ],
+  "wikipedia_title": "Auroville",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Auroville",
+  "wikidata_id": "Q590361",
+  "lat": 12.00694444,
+  "lon": 79.81055556,
+  "text": "Auroville (; City of Dawn French: Cité de l'aube) is an experimental township in Viluppuram district, mostly in the state of Tamil Nadu, India, with some parts in the Union Territory of Puducherry in India. It was founded in 1968 by Mirra Alfassa (known as \"the Mother\" or \"La Mère\") and designed by architect Roger Anger.\n\n--- Practical Travel Context (Wikivoyage) ---\nAuroville is a small town 6 km north of Pondicherry, in the Viluppuram district of Tamil Nadu. This town was a vision of The Mother from Sri Aurobindo Ashram at Pondicherry as it's an international town. She envisioned a town where unity will be celebrated and all will have a spiritual vocation. In July 2010, 2200 people from 43 different countries were living in the city. About 40% were Indians (more than 15% are French and 15% are German).\nAuroville Handbook is the official guide to Auroville that can be bought in the Visitors' Centre and the bookshops around or Auroville's website. A map of the town can be bought in Pondicherry at the Boutique de Auroville and at the visitors center in Auroville.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Auroville",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=12.00694444,79.81055556",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=12.00694444,79.81055556",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Town_Hall_of_Auroville.jpg/1280px-Town_Hall_of_Auroville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

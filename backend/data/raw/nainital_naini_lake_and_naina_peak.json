@@ -1,0 +1,25 @@
+{
+  "id": "nainital_naini_lake_and_naina_peak",
+  "place": "Nainital Naini Lake and Naina Peak",
+  "state": "Uttarakhand",
+  "city": "Nainital",
+  "category": [
+    "hill stations",
+    "nature",
+    "lakes"
+  ],
+  "wikipedia_title": "Nainital",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nainital",
+  "wikidata_id": "Q773213",
+  "lat": 29.39194444,
+  "lon": 79.45416667,
+  "text": "Nainital (Kumaoni: Naintāl; pronounced [nɛnːtaːl]), formerly anglicized as Naini Tal, is a town and headquarters of Nainital district of Kumaon division, Uttarakhand, India. It is the judicial capital of Uttarakhand, the High Court of the state being located there and is the headquarters of an eponymous district. It also houses the Governor of Uttarakhand, who resides in the Raj Bhavan. Nainital was the summer capital of the United Provinces.\nNainital is located in the Kumaon foothills of the outer Himalayas at a distance of 276 km (171 mi) from the state capital Dehradun and 314 km (195 mi) from New Delhi, the capital of India. Situated at an altitude of 1,938 metres (6,358 ft) above sea level, the town is set in a valley containing an eye-shaped lake, approximately two miles in circumference, and surrounded by mountains, of which the highest are Naina Peak (2,615 m (8,579 ft)) on the north, Deopatha (2,438 m (7,999 ft)) on the west, and Ayarpatha (2,278 m (7,474 ft)) on the south. From the tops of the higher peaks, \"magnificent views can be obtained of the vast plain to the south, or of the mass of tangled ridges lying north, bound by the great snowy range which forms the central axis of the Himalayas.\" The hill station attracts tourists round the year.",
+  "best_time": "December to February for snow sports; May to October for pleasant weather and clear mountain passes",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Nainital",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=29.39194444,79.45416667",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=29.39194444,79.45416667",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Nainital_metro.jpg/1280px-Nainital_metro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

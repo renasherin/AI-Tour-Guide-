@@ -1,0 +1,24 @@
+{
+  "id": "kanha_tiger_reserve",
+  "place": "Kanha Tiger Reserve",
+  "state": "Madhya Pradesh",
+  "city": "Mandla",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Kanha_Tiger_Reserve",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kanha_Tiger_Reserve",
+  "wikidata_id": "Q1480481",
+  "lat": null,
+  "lon": null,
+  "text": "Kanha Tiger Reserve, also known as Kanha–Kisli National Park, is one of the tiger reserves of India and the largest national park of the state of Madhya Pradesh. It covers  an area of 940 km2 (360 sq mi) in the two districts Mandla and Balaghat.\nThe park hosts Bengal tiger, Indian leopard, sloth bear, barasingha and dhole. It is also the first tiger reserve in India to officially introduce a mascot, Bhoorsingh the Barasingha.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kanha_Tiger_Reserve",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kanha+Tiger+Reserve%2C+Mandla%2C+Madhya+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Kanha+Tiger+Reserve%2C+Mandla%2C+Madhya+Pradesh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Tiger_Kanha_National_Park.jpg/1280px-Tiger_Kanha_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

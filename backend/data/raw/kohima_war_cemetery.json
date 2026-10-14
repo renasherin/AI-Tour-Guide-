@@ -1,0 +1,24 @@
+{
+  "id": "kohima_war_cemetery",
+  "place": "Kohima War Cemetery",
+  "state": "Nagaland",
+  "city": "Kohima",
+  "category": [
+    "monuments",
+    "heritage"
+  ],
+  "wikipedia_title": "Kohima_War_Cemetery",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kohima_War_Cemetery",
+  "wikidata_id": "Q19841008",
+  "lat": null,
+  "lon": null,
+  "text": "Kohima War Cemetery is a memorial dedicated to soldiers of the 2nd British Division of the Allied Forces who died in the Second World War at Kohima, the capital of the Indian state of Nagaland in April 1944. The soldiers died on the battleground of Garrison Hill in the tennis court area of the Deputy Commissioner's residence. According to the Commonwealth War Graves Commission, which maintains this cemetery among many others in the world, there are 1,420 Commonwealth burials of the Second World War at this cemetery, and a memorial to an additional 917 Hindu and Sikh soldiers who were cremated in accordance with their faith. The memorial was inaugurated by Field Marshal Sir William Slim, then Commander of the 14th Army in Burma.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kohima_War_Cemetery",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kohima+War+Cemetery%2C+Kohima%2C+Nagaland%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Kohima+War+Cemetery%2C+Kohima%2C+Nagaland%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Cemetery_with_kohima.jpeg/1280px-Cemetery_with_kohima.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bhitarkanika_mangroves_and_saltwater_crocodiles",
+  "place": "Bhitarkanika Mangroves and Saltwater Crocodiles",
+  "state": "Odisha",
+  "city": "Kendrapara",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Bhitarkanika_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bhitarkanika_National_Park",
+  "wikidata_id": "Q2580141",
+  "lat": 20.75,
+  "lon": 87,
+  "text": "Bhitarkanika National Park is a 145 km2 (56 sq mi) national park in northeast Kendrapara district in Odisha in eastern India. It was designated on 16 September 1998 and obtained the status of a Ramsar site on 19 August 2002. The area is also been designated as the second Ramsar site of the State after the Chilika Lake. It is surrounded by Bhitarkanika Wildlife Sanctuary, which spread over 672 km2 (259 sq mi).\nGahirmatha Beach and Marine Sanctuary are to the east, separating the swamp region and mangroves from the Bay of Bengal.\nThe national park and wildlife sanctuary is inundated by the rivers Brahmani, Baitarani, Dhamra, and Pathsala. It hosts many mangrove species, and is the second largest mangrove ecosystem in India.\nThe national park is home to Saltwater crocodile (Crocodylus porosus), Indian python, king cobra, black ibis, darters and many other species of flora and fauna.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Bhitarkanika_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=20.75,87",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=20.75,87",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Sunrise_at_Bhitarakanika.jpg/1280px-Sunrise_at_Bhitarakanika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dal_lake_shikara_and_houseboats",
+  "place": "Dal Lake Shikara and Houseboats",
+  "state": "Jammu and Kashmir",
+  "city": "Srinagar",
+  "category": [
+    "nature",
+    "lakes",
+    "floating gardens"
+  ],
+  "wikipedia_title": "Dal_Lake",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dal_Lake",
+  "wikidata_id": "Q325391",
+  "lat": 34.12,
+  "lon": 74.87,
+  "text": "Dal (Urdu pronunciation: [ɖəl] ; Kashmiri pronunciation: [ɖal]) is a freshwater lake in Srinagar, the summer capital of Jammu and Kashmir in Indian-administered Kashmir. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals. It is integral to tourism and recreation in the Kashmir Valley and is variously known as the \"Lake of Flowers\", \"Jewel in the crown of Kashmir\" or \"Srinagar's Jewel\". The lake is also an important source for commercial operations in fishing and water plant harvesting.\nThe shore line of the lake, about 15.5 kilometres (9.6 mi), is encompassed by a boulevard lined with Mughal era gardens, parks, houseboats and hotels. Scenic views of the lake can be witnessed from the shore line Mughal gardens, such as Shalimar Bagh and Nishat Bagh built during the reign of Mughal Emperor Jahangir, and from houseboats cruising along the lake in the colourful shikaras. During the winter season, the temperature can sometimes reach as low as −11 °C (12 °F), freezing the lake.\nThe lake covers an area of 18 square kilometres (6.9 mi2) and is part of a natural wetland which covers 21.1 square kilometres (8.1 mi2), including its floating gardens. The floating gardens, known as \"Raad\" in Kashmiri, blossom with lotus flowers during July and August. The wetland is divided by causeways into four basins; Gagribal, Lokut Dal, Bod Dal and Nigeen (although Nigeen is also considered as an independent lake). Lokut Dal and Bod Dal each have an island in the centre, known as Rupa Lank (or Char Chinari) and Sona Lank respectively.\nAt present, the Dal and the Mughal gardens on its periphery are undergoing intensive restoration measures to fully address the serious eutrophication problems experienced by the lake. Massive investments of approximately US$275 million (₹ 11 billion) are being made by the Government of India to restore the lake to its original splendour.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Dal_Lake",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34.12,74.87",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=34.12,74.87",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/1280px-Dal_Lake_Hazratbal_Srinagar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "santiniketan_rabindranath_tagore_ashram",
+  "place": "Santiniketan Rabindranath Tagore Ashram",
+  "state": "West Bengal",
+  "city": "Birbhum",
+  "category": [
+    "heritage",
+    "unesco",
+    "culture",
+    "education"
+  ],
+  "wikipedia_title": "Santiniketan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Santiniketan",
+  "wikidata_id": "Q1026431",
+  "lat": 23.68,
+  "lon": 87.68,
+  "text": "Santiniketan (IPA: [ʃantiniketɔn]) is a neighbourhood of Bolpur town in the Bolpur subdivision of Birbhum district in West Bengal, India, approximately 152 km north of Kolkata. It was established by Debendranath Tagore, and later expanded by his son, Rabindranath Tagore whose vision became what is now a university town with the creation of Visva-Bharati. It is also the birthplace of Indian Nobel Laureate Amartya Sen, who was also an alumnus of the school. \nIt was inscribed on the UNESCO World Heritage List by the World Heritage Committee in 2023.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Santiniketan",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=23.68,87.68",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=23.68,87.68",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Shantiniketan_Bari_of_Rabindranath_Tagore.jpg/1280px-Shantiniketan_Bari_of_Rabindranath_Tagore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

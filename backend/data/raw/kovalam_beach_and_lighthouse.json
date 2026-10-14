@@ -1,0 +1,24 @@
+{
+  "id": "kovalam_beach_and_lighthouse",
+  "place": "Kovalam Beach and Lighthouse",
+  "state": "Kerala",
+  "city": "Thiruvananthapuram",
+  "category": [
+    "beaches",
+    "nature"
+  ],
+  "wikipedia_title": "Kovalam",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kovalam",
+  "wikidata_id": "Q1785641",
+  "lat": 8.4004,
+  "lon": 76.9787,
+  "text": "Kovalam (Malayalam: [koːʋɐɭɐm]) is a beach and seaside resort in the city of Thiruvananthapuram in Kerala, India. Kovalam is located 12.6 km (7.8 mi) southeast of the city center. The beaches around Kovalam are popular vacation destinations for both domestic and international travellers.\n\n--- Practical Travel Context (Wikivoyage) ---\nNear the southern tip of mainland India, Thiruvananthapuram (Malayalam: തിരുവനന്തപുരം Tiruvanantapuraṁ), formerly and often still known as Trivandrum, is the capital city of Kerala in Southern India. It is the headquarters of the district with the same name, which is one of the 14 districts of Kerala. Referred to by Mahatma Gandhi as the \"Evergreen City of India\", the city is characterised by its undulating terrain of low coastal hills and busy commercial alleys.\nThiruvananthapuram is built on hills by the seashore and sandwiched between the Western Ghats and the Arabian Sea, Thiruvananthapuram is ranked first in the number of foreign tourists visiting Kerala and is a fascinating destination for holidaymakers.",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kovalam",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=8.4004,76.9787",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=8.4004,76.9787",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kovalam_beach_trivandrum_kerala.jpg/1280px-Kovalam_beach_trivandrum_kerala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

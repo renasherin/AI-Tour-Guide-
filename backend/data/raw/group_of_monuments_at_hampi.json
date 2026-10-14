@@ -1,0 +1,26 @@
+{
+  "id": "group_of_monuments_at_hampi",
+  "place": "Group of Monuments at Hampi",
+  "state": "Karnataka",
+  "city": "Vijayanagara",
+  "category": [
+    "heritage",
+    "unesco",
+    "temples",
+    "forts"
+  ],
+  "wikipedia_title": "Hampi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hampi",
+  "wikidata_id": "Q26732",
+  "lat": 15.33444444,
+  "lon": 76.46222222,
+  "text": "Hampi or Hampe (Kannada: [hɐmpe]), also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the Ramayana and the Puranas of Hinduism as Pampa Devi Tirtha Kshetra. Hampi continues as a religious centre, with the Virupaksha Temple, an active Adi Shankara-linked monastery and various monuments belonging to the old city.\nHampi was the capital of the Vijayanagara (Karnata) Empire from 1336 to 1565 (as Vijayanagara), when it was abandoned. It was a fortified city. Chronicles left by Persian and European travellers, particularly the Portuguese, say that Hampi was a prosperous, wealthy and grand city near the Tungabhadra River, with numerous temples, farms and trading markets. Hampi-Vijayanagara is estimated to be the world's second-largest city by 1500, after Beijing, and probably India's richest at that time, attracting traders from Persia and Portugal. The Vijayanagara Empire was defeated by a coalition of Muslim sultanates; its capital was conquered, pillaged and destroyed by Muslim armies in 1565, after which Hampi remained in ruins.\nSituated in Karnataka, close to the contemporary town of Hampi with the city of Hosapete 13 kilometres (8.1 miles) away, Hampi's ruins are spread over 4,100 hectares (16 sq mi) and it has been described by UNESCO as an \"austere, grandiose site\" of more than 1,600 surviving remains of the last great Hindu kingdom in South India that includes \"forts, riverside features, royal and sacred complexes, temples, shrines, pillared halls, mandapas, memorial structures, water structures and others\".",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Hampi",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15.33444444,76.46222222",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=15.33444444,76.46222222",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/1280px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

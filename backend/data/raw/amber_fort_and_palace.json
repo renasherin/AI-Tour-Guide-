@@ -1,0 +1,26 @@
+{
+  "id": "amber_fort_and_palace",
+  "place": "Amber Fort and Palace",
+  "state": "Rajasthan",
+  "city": "Jaipur",
+  "category": [
+    "forts",
+    "palaces",
+    "unesco",
+    "heritage"
+  ],
+  "wikipedia_title": "Amer_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amer_Fort",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Amber Fort and Palace is a celebrated destination in Jaipur, Rajasthan, renowned for its forts, palaces, unesco, heritage. Located in the historic and scenic region of Rajasthan, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Rajasthan. The best time to plan a visit is generally October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg/1280px-20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

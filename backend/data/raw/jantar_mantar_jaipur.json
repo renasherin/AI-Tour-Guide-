@@ -1,0 +1,25 @@
+{
+  "id": "jantar_mantar_jaipur",
+  "place": "Jantar Mantar Jaipur",
+  "state": "Rajasthan",
+  "city": "Jaipur",
+  "category": [
+    "unesco",
+    "heritage",
+    "observatories"
+  ],
+  "wikipedia_title": "Jantar_Mantar,_Jaipur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur",
+  "wikidata_id": "Q508634",
+  "lat": 26.92472,
+  "lon": 75.82444,
+  "text": "The Jantar Mantar is a collection of 19 astronomical instruments built by the Rajput king Sawai Jai Singh, the founder of Jaipur, Rajasthan, India. The monument was completed in 1734. It features the world's largest stone sundial, and is a UNESCO World Heritage Site. It is near City Palace and Hawa Mahal. The instruments allow the observation of astronomical positions with the naked eye. The observatory is an example of the Ptolemaic positional astronomy which was shared by many civilizations.\nThe monument features instruments operating in each of the three main classical celestial coordinate systems: the horizon-zenith local system, the equatorial system, and the ecliptic system. The Kanmala Yantraprakara is one that works in two systems and allows the transformation of the coordinates directly from one system to the other. It has the biggest sundial in the world.\nThe monument was damaged in the 19th century. Early restoration work was undertaken under the supervision of Major Arthur Garrett, a keen amateur astronomer, during his appointment as Assistant State Engineer for the Jaipur District. UNESCO describes the observatory as the most significant and best-preserved historic observatory in India, representing the astronomical and cosmological knowledge of ancient India.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26.92472,75.82444",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=26.92472,75.82444",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Jantar_Mantar_at_Jaipur.jpg/1280px-Jantar_Mantar_at_Jaipur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

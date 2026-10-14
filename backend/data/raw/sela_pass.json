@@ -1,0 +1,24 @@
+{
+  "id": "sela_pass",
+  "place": "Sela Pass",
+  "state": "Arunachal Pradesh",
+  "city": "Tawang",
+  "category": [
+    "nature",
+    "hill stations"
+  ],
+  "wikipedia_title": "Sela_Pass",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sela_Pass",
+  "wikidata_id": "Q7447387",
+  "lat": null,
+  "lon": null,
+  "text": "The Sela Pass (Tibetan: གཟེ་ལ།) (more appropriately called Se La, as La means Pass in Tibetan language) is a high-altitude mountain pass located on the border between the Tawang and West Kameng districts in the Indian state of Arunachal Pradesh. It has an elevation of 4170 m (13,700 ft) and connects the Indian Buddhist town of Tawang to Dirang and Guwahati.  The pass carries the National Highway 13 (previously NH 229), connecting Tawang with the rest of India. The pass supports scarce amounts of vegetation and is usually snow-covered to some extent throughout the year. Sela Lake, near the summit of the pass, is one of approximately 101 lakes in the area that are sacred in Tibetan Buddhism. While Sela Pass does get heavy snowfall in winters, it is usually open throughout the year unless landslides or snow require the pass to be shut down temporarily. Sela pass is one of the highest motorable mountain passes in the world",
+  "best_time": "December to February for snow sports; May to October for pleasant weather and clear mountain passes",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Sela_Pass",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sela+Pass%2C+Tawang%2C+Arunachal+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Sela+Pass%2C+Tawang%2C+Arunachal+Pradesh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Tawang_Gate.jpg/1280px-Tawang_Gate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

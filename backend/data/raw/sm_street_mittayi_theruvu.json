@@ -1,0 +1,25 @@
+{
+  "id": "sm_street_mittayi_theruvu",
+  "place": "SM Street (Mittayi Theruvu) & Halwa Heritage",
+  "state": "Kerala",
+  "city": "Kozhikode",
+  "category": [
+    "market",
+    "food",
+    "heritage"
+  ],
+  "wikipedia_title": "Mithai_Theruvu",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mithai_Theruvu",
+  "wikidata_id": "Q6881478",
+  "lat": 11.2505,
+  "lon": 75.7828,
+  "text": "Sweet Meat Street (SM Street), known locally as Mittayi Theruvu, is a legendary 600-year-old pedestrian shopping promenade in the historic center of Kozhikode. Dating back to the reign of the Zamorin, the street was named by European traders after the aromatic sweet-meat stalls that lined the road, producing the world-famous glossy Kozhikodan Halwa simmered in copper cauldrons with pure coconut oil and jaggery. Immortalized in Malayalam literature by celebrated author S.K. Pottekkatt (whose statue guards the street entrance), SM Street features heritage colonial tiled roofs, vintage bookstores, spice bazaars, and traditional brassware shops.",
+  "best_time": "Year-round; evenings between 4 PM and 9 PM offer vibrant heritage illumination",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Mithai_Theruvu",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.2505,75.7828",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.2505,75.7828",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Mittayi_Theruvu.jpg/1280px-Mittayi_Theruvu.jpg?utm_source=commons.wikimedia.org"
+}

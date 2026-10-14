@@ -1,0 +1,25 @@
+{
+  "id": "chunar_fort_mirzapur",
+  "place": "Chunar Fort Mirzapur",
+  "state": "Uttar Pradesh",
+  "city": "Mirzapur",
+  "category": [
+    "forts",
+    "heritage",
+    "river viewpoints"
+  ],
+  "wikipedia_title": "Chunar_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chunar_Fort",
+  "wikidata_id": "Q5116225",
+  "lat": null,
+  "lon": null,
+  "text": "The Chunar Fort (also known as Chandrakanta Chunargarh and Charanadri) is located in Mirzapur district of Uttar Pradesh, in India. The fort and Chunar town, near Mirzapur city, are two historic places with common history and legends. The fort is located 34 kilometres (21 mi) northeast of Mirzapur. The southeastern part of the fort is on the rocky bank of the Ganges River. The fort's history can be traced back to 56 BC. Control of the fort was sought by numerous rulers and empires, including Sher Shah Suri, the Mughal Empire, the Nawab of Awadh, and the East India Company. The fort returned to Indian control in 1947 when India gained independence. Chunar railway station is on the Mughalsarai–Kanpur section of Howrah–Delhi main line.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chunar_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chunar+Fort+Mirzapur%2C+Mirzapur%2C+Uttar+Pradesh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Chunar+Fort+Mirzapur%2C+Mirzapur%2C+Uttar+Pradesh%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/North_view_of_the_fort_of_Chunargarh_on_the_Ganges_from_across_the_river..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

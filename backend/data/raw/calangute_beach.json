@@ -1,0 +1,24 @@
+{
+  "id": "calangute_beach",
+  "place": "Calangute Beach",
+  "state": "Goa",
+  "city": "Calangute",
+  "category": [
+    "beaches",
+    "markets"
+  ],
+  "wikipedia_title": "Calangute",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Calangute",
+  "wikidata_id": "Q861976",
+  "lat": 15.54166667,
+  "lon": 73.76194444,
+  "text": "Calangute is a town in the North Goa district of the Indian state of Goa. It is famous for its beach, the largest in North Goa and a popular tourist destination. The peak tourist season is during Christmas and New Year, and during the summer in May.\n\n--- Practical Travel Context (Wikivoyage) ---\nCalangute is a town on the northern coast of Goa. It is among the most popular tourist destinations in Goa. Calangute is located 13 km from Panaji and 8 km from Mapusa.\n\n",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Calangute",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15.54166667,73.76194444",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=15.54166667,73.76194444",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sunset_at_Calangute.jpg/1280px-Sunset_at_Calangute.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

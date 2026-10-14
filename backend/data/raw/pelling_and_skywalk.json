@@ -1,0 +1,25 @@
+{
+  "id": "pelling_and_skywalk",
+  "place": "Pelling and Skywalk",
+  "state": "Sikkim",
+  "city": "West Sikkim",
+  "category": [
+    "hill stations",
+    "viewpoints",
+    "temples"
+  ],
+  "wikipedia_title": "Pelling",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pelling",
+  "wikidata_id": "Q7161579",
+  "lat": 27.18,
+  "lon": 88.14,
+  "text": "Pelling (པད་གླིང་། ) is a hill station in ( རྒྱལ་ཤིང་རྫོང་།) Gyalshing district of Sikkim, India. Pelling is nestled at an altitude of 2,150 m (7,050 ft). The town is located at a distance of 10 km from Gyalshing city, the district headquarters and 131 km from Gangtok. A regular bus service connects the two towns. However, with the influx of tourists, the region is undergoing a metamorphosis, with the roads being repaired and hotels being set up.\n\n--- Practical Travel Context (Wikivoyage) ---\nWest Sikkim is a region of Sikkim. The highlight of West Sikkim is the amazing Himalayan treks in the foothills of Mt Kangchenjunga (also spelt Kangchendzonga).  The rolling mountains also offer some \"low altitude\" treks.",
+  "best_time": "March to June (pleasant summer flowers) and September to November (crisp autumn views)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Pelling",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=27.18,88.14",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=27.18,88.14",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sunrise_over_Kangchenjunga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gopalpur_on_sea",
+  "place": "Gopalpur-on-Sea",
+  "state": "Odisha",
+  "city": "Ganjam",
+  "category": [
+    "beaches",
+    "colonial heritage"
+  ],
+  "wikipedia_title": "Gopalpur,_Odisha",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gopalpur,_Odisha",
+  "wikidata_id": "Q1747725",
+  "lat": 19.27,
+  "lon": 84.92,
+  "text": "Gopalpur or Gopalpur-on-Sea is a coastal town and a Notified Area Council in Ganjam district in Odisha, India. Gopalpur is around 15 km from Berhampur. Located on the southern part of the state, it was an ancient seaside resort on the shores of the Bay of Bengal, now more associated with its port.",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Gopalpur,_Odisha",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=19.27,84.92",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=19.27,84.92",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Gpur.JPG/1280px-Gpur.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

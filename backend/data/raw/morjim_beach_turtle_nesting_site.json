@@ -1,0 +1,25 @@
+{
+  "id": "morjim_beach_turtle_nesting_site",
+  "place": "Morjim Beach Turtle Nesting Site",
+  "state": "Goa",
+  "city": "Morjim",
+  "category": [
+    "beaches",
+    "wildlife",
+    "nature"
+  ],
+  "wikipedia_title": "Morjim",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Morjim",
+  "wikidata_id": "Q6912471",
+  "lat": null,
+  "lon": null,
+  "text": "Morjim (pronounced Morji; the second m is silent) is a census town in Pernem, Goa, India. It is situated on the northern bank of the Chapora River estuary. It is home to a variety of birds and is a nesting site for Olive Ridley sea turtles. The village has become known as \"Little Russia\" because of the concentration of Russian immigrants living there.\n\n--- Practical Travel Context (Wikivoyage) ---\nMorjim is a village in North Goa in the Pernem district on the north bank of the Chapora River estuary. It is home to a variety of birds and to the Olive ridley sea turtle.",
+  "best_time": "November to February (pleasant sunny days, gentle ocean breezes, calm swimming waters)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Morjim",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Morjim+Beach+Turtle+Nesting+Site%2C+Morjim%2C+Goa%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Morjim+Beach+Turtle+Nesting+Site%2C+Morjim%2C+Goa%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Morjim_Goa_view.JPG/1280px-Morjim_Goa_view.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

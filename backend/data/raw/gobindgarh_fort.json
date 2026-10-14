@@ -1,0 +1,25 @@
+{
+  "id": "gobindgarh_fort",
+  "place": "Gobindgarh Fort",
+  "state": "Punjab",
+  "city": "Amritsar",
+  "category": [
+    "forts",
+    "museums",
+    "heritage"
+  ],
+  "wikipedia_title": "Gobindgarh_Fort",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gobindgarh_Fort",
+  "wikidata_id": "Q19891598",
+  "lat": null,
+  "lon": null,
+  "text": "Gobindgarh Fort is a historic military fort located in the center of the city of Amritsar in the Indian state of Punjab. The Fort was until recently under the Indian Army, but was opened to the public on 10 February 2017. Today the fort is being developed as a museum and theme park, as a repository of Punjab’s history.\nPopularly known as the Bhangian da Killa (fort of the Bhangis) after its 18th-century founder belonging to Bhangi Misl of Dhillon Jats rulers.  Maharaja Ranjit Singh renamed it in the early 19th-century after the 10th Sikh guru, Guru Gobind Singh.  \nGobindgarh Fort is located on the south west fringe of Amritsar, in a square pattern, with a perimeter of 1,000 m and made up entirely of bricks and lime. The fort had 25 cannons mounted on its ramparts and it remained with the Bhangi rulers till 1805. From the middle of the 19th century until Indian independence in 1947, it was occupied by the British army who made numerous defensive improvements to the fort to take account of technological advances in weaponry.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Gobindgarh_Fort",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gobindgarh+Fort%2C+Amritsar%2C+Punjab%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Gobindgarh+Fort%2C+Amritsar%2C+Punjab%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg/1280px-Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

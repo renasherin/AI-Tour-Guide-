@@ -1,0 +1,24 @@
+{
+  "id": "kalesar_national_park",
+  "place": "Kalesar National Park",
+  "state": "Haryana",
+  "city": "Yamunanagar",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Kalesar_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kalesar_National_Park",
+  "wikidata_id": "Q2985156",
+  "lat": 30.36666667,
+  "lon": 77.53333333,
+  "text": "Kalesar National Park (13,000 acres (53 km2)) and adjacent Kalesar Wildlife Sanctuary (13,209 acres (53.45 km2) are protected areas in Kalesar of Yamunanagar district of Haryana state in India, 46 kilometres from Yamunanagar city, 122 kilometres (76 mi) from Chandigarh.\nKalesar National Park was established in 2003. Kalesar National Park and Kalesar Wildlife Sanctuary are contiguous to Simbalbara National Park in Himachal Pradesh and Rajaji National Park in Uttarakhand. Kalesar is a popular destination for leopards, panthers, elephants, red jungle fowl and bird-watching. This forested area in the Shivalik foothills is covered primarily with sal with smattering of Semul, Amaltas and Bahera trees as well. Wildlife jeep safaris are available on 3 tracks. Park is closed July to September and during the remaining months visiting hours are 6 am to 10 am and 4 pm to 7 pm during summers, and 7 am to 11 am and  3.30 pm to 6 pm during winters.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Kalesar_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=30.36666667,77.53333333",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=30.36666667,77.53333333",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kalesar_as_seen_by_a_Phone_01.jpg/1280px-Kalesar_as_seen_by_a_Phone_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

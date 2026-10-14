@@ -1,0 +1,24 @@
+{
+  "id": "hoollongapar_gibbon_sanctuary",
+  "place": "Hoollongapar Gibbon Sanctuary",
+  "state": "Assam",
+  "city": "Jorhat",
+  "category": [
+    "wildlife",
+    "national parks and wildlife"
+  ],
+  "wikipedia_title": "Hoollongapar_Gibbon_Sanctuary",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hoollongapar_Gibbon_Sanctuary",
+  "wikidata_id": "Q3471776",
+  "lat": null,
+  "lon": null,
+  "text": "The Hollongapar Gibbon Sanctuary, formerly known as the Gibbon Wildlife Sanctuary or Hollongapar Reserved Forest, is an isolated protected area of evergreen forest located in Assam, India. The sanctuary was officially constituted and renamed in 1997. Set aside initially in 1881, its forests used to extend to the foothills of the Patkai mountain range. \nSince then, the forest has been fragmented and surrounded by tea gardens and small villages. In the early 1900s, artificial regeneration was used to a develop well-stocked forest, resulting in the site's rich biodiversity. The Hollongapar Gibbon Sanctuary contains India's only ape and gibbon species – the hoolock gibbons, and Northeastern India's only nocturnal primate – the Bengal slow loris. \nThe upper canopy of the forest is dominated by the hollong tree (Dipterocarpus retusus), while the nahar (Mesua ferrea) dominates the middle canopy. The lower canopy consists of evergreen shrubs and herbs. The habitat is threatened by illegal logging, encroachment of human settlements, and habitat fragmentation.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Hoollongapar_Gibbon_Sanctuary",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hoollongapar+Gibbon+Sanctuary%2C+Jorhat%2C+Assam%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Hoollongapar+Gibbon+Sanctuary%2C+Jorhat%2C+Assam%2C+India",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hoolock_hoolock_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+}

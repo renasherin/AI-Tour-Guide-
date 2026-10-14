@@ -1,0 +1,24 @@
+{
+  "id": "murlen_national_park",
+  "place": "Murlen National Park",
+  "state": "Mizoram",
+  "city": "Champhai",
+  "category": [
+    "national parks and wildlife",
+    "nature"
+  ],
+  "wikipedia_title": "Murlen_National_Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Murlen_National_Park",
+  "wikidata_id": "Q3334361",
+  "lat": 23.61694444,
+  "lon": 93.3,
+  "text": "Murlen National Park is a national park located in the Champhai district Mizoram in India. The size of the park area is 200 km2 (77 sq mi). The park is situated about 245 km east of Aizawl, and is close to the Chin Hills. It lies north of Lengteng Wildlife Sanctuary in the same district. It covers an area of approximately 100 km2. The tropical, semi-evergreen and sub montane Forests of Murlen are home to a rich variety of flora and fauna. About 15 species of mammals, 150 species of birds, 35 species of Medicinal plants, 2 species of bamboos, and 4 species of orchids so far have been recorded in this Park. In 2012, 36 people were involved in conservation work of Murlen National Park.",
+  "best_time": "October to April (dry season with vibrant festivals like Hornbill, Bihu, and Wangala)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Murlen_National_Park",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=23.61694444,93.3",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=23.61694444,93.3",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Banner_of_Mizoram.png/1280px-Banner_of_Mizoram.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+}

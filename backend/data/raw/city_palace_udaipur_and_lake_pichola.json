@@ -1,0 +1,25 @@
+{
+  "id": "city_palace_udaipur_and_lake_pichola",
+  "place": "City Palace Udaipur and Lake Pichola",
+  "state": "Rajasthan",
+  "city": "Udaipur",
+  "category": [
+    "palaces",
+    "lakes",
+    "heritage"
+  ],
+  "wikipedia_title": "City_Palace,_Udaipur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/City_Palace,_Udaipur",
+  "wikidata_id": "Q2723521",
+  "lat": null,
+  "lon": null,
+  "text": "City Palace (Raj Mahal), Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. Its construction began in 1553, started by Maharana Udai Singh II of the Sisodia Rajput family as he shifted his capital from the erstwhile Chittor to the newfound city of Udaipur. The palace is located on the east bank of Lake Pichola and has several palaces built within its complex.\nThe City Palace in Udaipur was built in a flamboyant style and is considered the largest of its type in the state of Rajasthan. It was built atop a hill, in a fusion of the Rajasthani Rajput architecture  providing a panoramic view of the city and its surroundings. Overlooking Lake Pichola, several historic monuments like the Lake Palace, Jag Mandir, Jagdish Temple, Monsoon Palace, and Neemach Mata temple, are all in the vicinity of the palace complex. Nestled within the Aravali mountain range, these landmarks are also associated with popular culture.",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/City_Palace,_Udaipur",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=City+Palace+Udaipur+and+Lake+Pichola%2C+Udaipur%2C+Rajasthan%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=City+Palace+Udaipur+and+Lake+Pichola%2C+Udaipur%2C+Rajasthan%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Udaipur_City_Palace.jpg/1280px-Udaipur_City_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

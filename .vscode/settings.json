@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": false,
+    "**/.next": true,
+    "**/__pycache__": true
+  },
+  "files.associations": {
+    "*.csv": "csv",
+    "*.json": "json",
+    "*.py": "python",
+    "*.tsx": "typescriptreact",
+    "*.ts": "typescript",
+    "*.md": "markdown"
+  },
+  "python.defaultInterpreterPath": "python"
+}

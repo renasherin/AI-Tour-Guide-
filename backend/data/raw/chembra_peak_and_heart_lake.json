@@ -1,0 +1,25 @@
+{
+  "id": "chembra_peak_and_heart_lake",
+  "place": "Chembra Peak and Heart-Shaped Lake",
+  "state": "Kerala",
+  "city": "Meppadi, Wayanad",
+  "category": [
+    "mountain",
+    "nature",
+    "trekking"
+  ],
+  "wikipedia_title": "Chembra_Peak",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chembra_Peak",
+  "wikidata_id": "Q3532729",
+  "lat": 11.5128,
+  "lon": 76.0886,
+  "text": "Chembra Peak is the towering crown of Wayanad, rising 2,100 meters above sea level amidst tea plantations, spice estates, and misty shola forest cloud ridges. Managed under community eco-tourism by the forest department, the trek ascends through lush emerald meadows to 'Hridaya Saras'—a natural perennial alpine lake shaped perfectly like a heart. Believed by local tribes never to dry up even in harsh summer droughts, the mist that floats over the heart lake offers breathtaking panoramic vistas across the Nilgiri hills, Kozhikode coastline, and cloud-draped valleys of the Western Ghats.",
+  "best_time": "September to March (clear blue skies, misty breeze, optimal trekking trails)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chembra_Peak",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11.5128,76.0886",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=11.5128,76.0886",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Chembra.jpg/1280px-Chembra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

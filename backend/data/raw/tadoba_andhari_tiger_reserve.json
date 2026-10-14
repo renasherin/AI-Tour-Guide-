@@ -1,0 +1,24 @@
+{
+  "id": "tadoba_andhari_tiger_reserve",
+  "place": "Tadoba Andhari Tiger Reserve",
+  "state": "Maharashtra",
+  "city": "Chandrapur",
+  "category": [
+    "national parks and wildlife",
+    "wildlife"
+  ],
+  "wikipedia_title": "Tadoba_Andhari_Tiger_Reserve",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tadoba_Andhari_Tiger_Reserve",
+  "wikidata_id": "Q2639563",
+  "lat": null,
+  "lon": null,
+  "text": "The Tadoba Andhari Tiger Reserve is a protected area in Chandrapur district of Maharashtra state in India that consists of Tadoba National Park and Andhari Wildlife Sanctuary. The reserve includes 577.96 km2 (223.15 sq mi) of reserved forest and 32.51 km2 (12.55 sq mi) of protected forest.\n\n--- Practical Travel Context (Wikivoyage) ---\nChandrapur (चंद्रपूर Candrapūr), also known as Chanda, is a city in the Vidarbha region of Maharashtra in India. The city gets its name from the Chanda Fort present here. The city is also known as City of Black Gold due to the large number of coal mines present around the city.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Tadoba_Andhari_Tiger_Reserve",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tadoba+Andhari+Tiger+Reserve%2C+Chandrapur%2C+Maharashtra%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Tadoba+Andhari+Tiger+Reserve%2C+Chandrapur%2C+Maharashtra%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panthera_tigris_tigris_Tidoba_20150306.jpg/1280px-Panthera_tigris_tigris_Tidoba_20150306.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

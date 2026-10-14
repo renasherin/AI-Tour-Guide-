@@ -1,0 +1,26 @@
+{
+  "id": "qutb_minar_and_complex",
+  "place": "Qutb Minar and Complex",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "category": [
+    "heritage",
+    "unesco",
+    "monuments",
+    "architecture"
+  ],
+  "wikipedia_title": "Qutb_Minar_complex",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Qutb_Minar_complex",
+  "wikidata_id": "Q1074330",
+  "lat": 28.524382,
+  "lon": 77.18543,
+  "text": "The Qutb Minar complex are monuments and buildings from the Delhi Sultanate at Mehrauli in Delhi, India. Construction of the Qutub Minar \"victory tower\" in the complex, named after the religious figure Sufi Saint Khwaja Qutbuddin Bakhtiar Kaki, was begun by Qutb-ud-din Aibak, who later became the first Sultan of Delhi of the Mamluk dynasty (Gulam Vansh). It was continued by his successor Iltutmish (a.k.a. Altamash), and finally completed much later by Firoz Shah Tughlaq, a Sultan of Delhi from the Tughlaq dynasty (1320–1412) in 1368 AD. The Qubbat-ul-Islam Mosque (Dome of Islam), later corrupted into Quwwat-ul Islam, stands next to the Qutb Minar. The Qutub Minar also bears numerous inscriptions in Arabic and Nagari characters at various locations, which reveal its history.\nMany subsequent rulers, including the Tughlaqs, Alauddin Khalji and the British added structures to the complex. Apart from the Qutb Minar and the Quwwat ul-Islam Mosque, other structures in the complex include the Alai Darwaza gate, the Alai Minar and the Iron pillar.\nInside the complex lie the tombs of Iltutmish, Alauddin Khalji and Imam Zamin.\nToday, the adjoining area spread over with a host of old monuments, including Balban's tomb, has been developed by the Archaeological Survey of India (ASI) as the Mehrauli Archaeological Park, and INTACH has restored some 40 monuments in the Park. It is also the venue of the annual 'Qutub Festival', held in November–December, where artists, musicians and dancers perform over three days.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Qutb_Minar_complex",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28.524382,77.18543",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=28.524382,77.18543",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Qutb_minar_ruins.jpg/1280px-Qutb_minar_ruins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

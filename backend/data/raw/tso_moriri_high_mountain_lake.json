@@ -1,0 +1,25 @@
+{
+  "id": "tso_moriri_high_mountain_lake",
+  "place": "Tso Moriri High Mountain Lake",
+  "state": "Ladakh",
+  "city": "Changthang",
+  "category": [
+    "nature",
+    "lakes",
+    "wetlands"
+  ],
+  "wikipedia_title": "Tso_Moriri",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tso_Moriri",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Tso Moriri High Mountain Lake is a celebrated destination in Changthang, Ladakh, renowned for its nature, lakes, wetlands. Located in the historic and scenic region of Ladakh, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Ladakh. The best time to plan a visit is generally May to September (summer season when high passes remain open and skies are crystal clear). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "May to September (summer season when high passes remain open and skies are crystal clear)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tso_Moriri%2C_Ladakh_%2834855616204%29.jpg/1280px-Tso_Moriri%2C_Ladakh_%2834855616204%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

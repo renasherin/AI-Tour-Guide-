@@ -1,0 +1,26 @@
+{
+  "id": "chhatrapati_shivaji_maharaj_terminus",
+  "place": "Chhatrapati Shivaji Maharaj Terminus",
+  "state": "Maharashtra",
+  "city": "Mumbai",
+  "category": [
+    "heritage",
+    "unesco",
+    "colonial",
+    "architecture"
+  ],
+  "wikipedia_title": "Chhatrapati_Shivaji_Terminus",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus",
+  "wikidata_id": "Q235884",
+  "lat": 18.93985,
+  "lon": 72.83544,
+  "text": "Chhatrapati Shivaji Terminus (CST), officially Chhatrapati Shivaji Maharaj Terminus (CSMT), and also known as Victoria Terminus (VT), its official name until 1996, is a historic railway terminus and UNESCO World Heritage Site in Mumbai (Bombay), Maharashtra, India.\nThe terminus was designed by a British architectural engineer Frederick William Stevens from an initial design by Axel Haig, in an exuberant Indo Gothic style. Its construction began in 1878, in a location south of the old Bori Bunder railway station, and was completed in 1887, the year of Queen Victoria's Golden Jubilee. The station was inaugurated to the general public on 20 May 1888.\n\nIn March 1996, the station's official name was changed from Victoria Terminus to Chhatrapati Shivaji Terminus after Shivaji, the 17th-century warrior king and the first Chhatrapati of the Maratha Empire, who founded the polity in the western Marathi-speaking regions of the Deccan Plateau. In 2017, the station was again renamed to Chhatrapati Shivaji Maharaj Terminus (with code CSMT), in which the title Maharaj means \"great king\" or emperor.  The initials VT and CST are commonly used for the station.\nThe terminus is the headquarters of India's Central Railway zone. It is one of the busiest railway stations in India, serving both long-distance and suburban trains. It has 18 platforms, comprising 11 for long-distance trains and seven for suburban services.",
+  "best_time": "October to March (mild winter season avoiding summer humidity)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18.93985,72.83544",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=18.93985,72.83544",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Chhatrapati_shivaji_terminus%2C_esterno_01.jpg/1280px-Chhatrapati_shivaji_terminus%2C_esterno_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

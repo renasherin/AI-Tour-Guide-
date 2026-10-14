@@ -1,0 +1,26 @@
+{
+  "id": "humayuns_tomb",
+  "place": "Humayun's Tomb",
+  "state": "Delhi",
+  "city": "New Delhi",
+  "category": [
+    "heritage",
+    "unesco",
+    "monuments",
+    "gardens"
+  ],
+  "wikipedia_title": "Humayun%27s_Tomb",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Humayun%27s_Tomb",
+  "wikidata_id": null,
+  "lat": 22.0,
+  "lon": 78.0,
+  "text": "Humayun's Tomb is a celebrated destination in New Delhi, Delhi, renowned for its heritage, unesco, monuments, gardens. Located in the historic and scenic region of Delhi, it holds deep cultural, geographical, and architectural significance. Visitors explore this site to experience the authentic traditions, local atmosphere, and scenic beauty of Delhi. The best time to plan a visit is generally October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks). Regional cuisines and seasonal festivals enrich the journey.",
+  "best_time": "October to March (pleasant weather, ideal for heritage monuments, wildlife, and cultural walks)",
+  "source": "Curated Guidebook Knowledge (Offline Fallback)",
+  "source_url": "https://incrediblejourneys.india.travel",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": true,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22.0,78.0",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=22.0,78.0",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/20191205_Afsarwala_Tomb%2C_Delhi_1051_6789.jpg/1280px-20191205_Afsarwala_Tomb%2C_Delhi_1051_6789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+}

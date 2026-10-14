@@ -1,0 +1,25 @@
+{
+  "id": "lamayuru_monastery_moonland",
+  "place": "Lamayuru Monastery Moonland",
+  "state": "Ladakh",
+  "city": "Kargil",
+  "category": [
+    "monasteries",
+    "nature",
+    "landscapes"
+  ],
+  "wikipedia_title": "Lamayuru_Monastery",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lamayuru_Monastery",
+  "wikidata_id": "Q2556336",
+  "lat": null,
+  "lon": null,
+  "text": "Lamayuru or Yuru Monastery (Tibetan: བླ་མ་གཡུང་དྲུང་དགོན་པ་, Wylie: bla ma gyung drung dgon pa \"Eternal Monastery\") is a Tibetan Buddhist monastery in Lamayouro village of Leh district in Ladakh in India. These natural caves were inhabited by monks for meditation, forming a cave monastery, particularly the famous \"meditation cave of Naropa\" (named after Naropa who was an Indian Buddhist Mahasiddha) preserved within the monastery's central hall. It is situated on the NH1 Srinagar-Leh Highway 15 kilometres (9.3 mi) east of the Fotu La at a height of 3,510 metres (11,520 ft) and 19 km southwest of Khalsi. The area is popular among tourists for its moonscape-like rocky appearance.",
+  "best_time": "May to September (summer season when high passes remain open and skies are crystal clear)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Lamayuru_Monastery",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lamayuru+Monastery+Moonland%2C+Kargil%2C+Ladakh%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Lamayuru+Monastery+Moonland%2C+Kargil%2C+Ladakh%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Lamayuru_Monastery%2C_Ladakh%2C_India.jpg/1280px-Lamayuru_Monastery%2C_Ladakh%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}

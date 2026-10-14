@@ -1,0 +1,25 @@
+{
+  "id": "rann_of_kutch_white_desert",
+  "place": "Rann of Kutch White Desert",
+  "state": "Gujarat",
+  "city": "Kutch",
+  "category": [
+    "nature",
+    "culture",
+    "festivals"
+  ],
+  "wikipedia_title": "Rann_of_Kutch",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rann_of_Kutch",
+  "wikidata_id": "Q4026866",
+  "lat": null,
+  "lon": null,
+  "text": "The Rann of Kutch (IPA: [ɾən...kət͡ːʃʰ]) is a large area of salt marshes located in the northwestern part of the Indian subcontinent, and spans the border between India and Pakistan. Most of the region is located in the Kutch district of the Indian state of Gujarat, with a minor portion extending into the Sindh province of Pakistan. It is further sub-divided geographically into the Great Rann and Little Rann.\n\n--- Practical Travel Context (Wikivoyage) ---\nKutch (also spelled Cutch, Kachh, Kachch, and Kachchh) is a district in the north-west of Gujarat, India. It is the largest district in India, with an area of more than 45,000 km².",
+  "best_time": "October to March (cool pleasant winter; ideal for forts, palaces, and desert safaris)",
+  "source": "Wikipedia & Wikivoyage (CC BY-SA 4.0)",
+  "source_url": "https://en.wikipedia.org/wiki/Rann_of_Kutch",
+  "attribution": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "fallback": false,
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rann+of+Kutch+White+Desert%2C+Kutch%2C+Gujarat%2C+India",
+  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Rann+of+Kutch+White+Desert%2C+Kutch%2C+Gujarat%2C+India",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rann_of_Kutch_-_White_Desert.jpg/1280px-Rann_of_Kutch_-_White_Desert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+}
