@@ -1,23 +1,15 @@
 @echo off
-set PATH=%LOCALAPPDATA%\Programs\Git\cmd;%PATH%
+set PATH=%LOCALAPPDATA%\Programs\Git\cmd;%LOCALAPPDATA%\Programs\Git Credential Manager;%PATH%
+cd /d "%~dp0"
 echo ==============================================================
-echo   Push Incredible Journeys to GitHub
+echo   Pushing Incredible Journeys to GitHub...
 echo ==============================================================
+echo Target: https://github.com/renasherin/AI-Tour-Guide-
 echo.
-set /p REPO_URL="Enter your GitHub Repository URL (e.g. https://github.com/renasherin/incredible-journeys.git): "
-if "%REPO_URL%"=="" (
-    echo [!] No URL provided. Aborting.
-    pause
-    exit /b 1
-)
-git remote remove origin 2>nul
-git remote add origin %REPO_URL%
-git branch -M main
-echo.
-echo [*] Pushing to GitHub...
 git push -u origin main
 echo.
 echo ==============================================================
-echo   Done! Your code is now live on GitHub!
+echo   Done! Check your repository at:
+echo   https://github.com/renasherin/AI-Tour-Guide-
 echo ==============================================================
 pause

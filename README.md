@@ -3,7 +3,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-FastAPI%20%7C%20ChromaDB%20%7C%20Next.js%2014-C85A32.svg)](#architecture-overview)
 [![Coverage](https://img.shields.io/badge/Coverage-28%20States%20%2B%208%20UTs%20(36%20Divisions)-1E3A2F.svg)](#regional-coverage)
 [![Zero Hallucination](https://img.shields.io/badge/Zero--Hallucination-Verified%20Grounding-D9822B.svg)](#provenance-and-grounding-policy)
-[![License](https://img.shields.io/badge/License-CC--BY--SA%204.0%20%2F%20MIT-C5A869.svg)](#licensing-and-provenance)
+[![Copyright](https://img.shields.io/badge/Copyright-(c)%202026%20Rena%20Sherin-C5A869.svg)](#authorship-and-copyright)
 
 Incredible Journeys is an editorial travel web application and conversational RAG tour guide celebrating the living heritage, sacred geography, biodiversity, and culinary soul of India across all 28 states and 8 union territories.
 
@@ -385,10 +385,18 @@ Verifies route rendering, component contracts, and TypeScript types.
 3. **Open Access Data**: Destination data and narratives derive from open-access datasets under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0).
 4. **Interactive Maps**: Powered by OpenStreetMap contributors under the Open Database License (ODbL).
 
+## Authorship and Copyright
+
+- Author and Project Creator: Rena Sherin
+- Contact: its.renasherin@gmail.com
+- GitHub Profile: https://github.com/renasherin
+- Copyright: Copyright (c) 2026 Rena Sherin. All rights reserved.
+- Proprietary Notice: All rights reserved. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.
+
 ---
 
-## Licensing and Provenance
+## Open Data Provenance
 
-- Software Code: Released under the MIT License.
-- Content and Curated Datasets: Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
-- Map Data: Copyright OpenStreetMap contributors, licensed under the Open Database License (ODbL).
+- Open Access Curated Summaries: Compiled from educational and public reference sources.
+- Geographic Coordinates: OpenStreetMap contributors under the Open Database License (ODbL).
+- Photographic Imagery: Sourced from Wikimedia Commons under respective Creative Commons licenses with individual attribution.

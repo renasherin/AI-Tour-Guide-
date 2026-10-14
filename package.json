@@ -15,6 +15,6 @@
     "fastapi",
     "nextjs"
   ],
-  "author": "Google DeepMind Advanced Agentic Coding",
-  "license": "CC-BY-SA-4.0"
+  "author": "Rena Sherin <its.renasherin@gmail.com>",
+  "license": "UNLICENSED"
 }
